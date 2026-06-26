@@ -1,0 +1,73 @@
+id,home_team_id,away_team_id,home_score,away_score,finished,group,matchday,type,local_date,home_team,away_team,home_code,away_code,home_elo,away_elo,elo_diff,home_fifa_rank,away_fifa_rank,fifa_rank_diff
+1,1,2,0,0,False,A,1,group,06/11/2026 13:00,Mexico,South Africa,MEX,RSA,1457.47,1540.45,-82.98,15,48,-33
+2,3,4,0,0,False,A,1,group,06/11/2026 20:00,South Korea,UEFA Path D Winner,KOR,TBD,1550.46,1500.0,50.46,23,70,-47
+3,5,6,0,0,False,B,1,group,06/12/2026 15:00,Canada,UEFA Path A Winner,CAN,TBD,1518.99,1500.0,18.99,27,70,-43
+4,13,14,0,0,False,D,1,group,06/12/2026 18:00,United States,Paraguay,USA,PAR,1460.27,1483.79,-23.52,11,43,-32
+5,11,12,0,0,False,C,1,group,06/13/2026 21:00,Haiti,Scotland,HAI,SCO,1503.78,1496.59,7.19,53,39,14
+6,15,16,0,0,False,D,1,group,06/13/2026 12:00,Australia,UEFA Path C Winner,AUS,TBD,1443.32,1500.0,-56.68,25,70,-45
+7,9,10,0,0,False,C,1,group,06/13/2026 18:00,Brazil,Morocco,BRA,MAR,1536.12,1400.57,135.55,5,9,-4
+8,7,8,0,0,False,B,1,group,06/13/2026 12:00,Qatar,Switzerland,QAT,SUI,1477.97,1509.53,-31.56,42,19,23
+9,19,20,0,0,False,E,1,group,06/14/2026 18:00,Ivory Coast,Ecuador,CIV,ECU,1435.99,1489.03,-53.04,70,21,49
+10,17,18,0,0,False,E,1,group,06/14/2026 12:00,Germany,Curaçao,GER,CUW,1464.46,1500.0,-35.54,12,70,-58
+11,21,22,0,0,False,F,1,group,06/14/2026 15:00,Netherlands,Japan,NED,JPN,1494.29,1411.18,83.11,7,14,-7
+12,23,24,0,0,False,F,1,group,06/14/2026 21:00,UEFA Path B Winner,Tunisia,TBD,TUN,1500.0,1618.17,-118.17,70,29,41
+13,27,28,0,0,False,G,1,group,06/15/2026 18:00,Iran,New Zealand,IRN,NZL,1559.71,1467.62,92.09,24,59,-35
+14,29,30,0,0,False,H,1,group,06/15/2026 12:00,Spain,Cape Verde,ESP,CPV,1477.08,1500.0,-22.92,8,70,-62
+15,25,26,0,0,False,G,1,group,06/15/2026 15:00,Belgium,Egypt,BEL,EGY,1405.06,1465.91,-60.85,4,34,-30
+16,31,32,0,0,False,H,1,group,06/15/2026 21:00,Saudi Arabia,Uruguay,KSA,URU,1519.78,1512.04,7.74,47,18,29
+17,33,34,0,0,False,I,1,group,06/16/2026 15:00,France,Senegal,FRA,SEN,1470.87,1449.12,21.75,2,17,-15
+18,35,36,0,0,False,I,1,group,06/16/2026 18:00,IC Path 2 Winner,Norway,TBD,NOR,1500.0,1456.53,43.47,70,70,0
+19,37,38,0,0,False,J,1,group,06/16/2026 20:00,Argentina,Algeria,ARG,ALG,1505.94,1445.5,60.44,1,41,-40
+20,39,40,0,0,False,J,1,group,06/16/2026 12:00,Austria,Jordan,AUT,JOR,1484.09,1500.0,-15.91,22,70,-48
+21,41,42,0,0,False,K,1,group,06/17/2026 12:00,Portugal,IC Path 1 Winner,POR,TBD,1502.72,1500.0,2.72,6,70,-64
+22,45,46,0,0,False,L,1,group,06/17/2026 15:00,England,Croatia,ENG,CRO,1572.98,1525.87,47.11,3,13,-10
+23,43,44,0,0,False,K,1,group,06/17/2026 18:00,Uzbekistan,Colombia,UZB,COL,1500.0,1509.93,-9.93,70,16,54
+24,47,48,0,0,False,L,1,group,06/17/2026 21:00,Ghana,Panama,GHA,PAN,1555.89,1518.06,37.83,46,51,-5
+25,1,3,0,0,False,A,2,group,06/18/2026 13:00,Mexico,South Korea,MEX,KOR,1457.47,1550.46,-92.99,15,23,-8
+26,8,6,0,0,False,B,2,group,06/18/2026 12:00,Switzerland,UEFA Path A Winner,SUI,TBD,1509.53,1500.0,9.53,19,70,-51
+27,5,7,0,0,False,B,2,group,06/18/2026 15:00,Canada,Qatar,CAN,QAT,1518.99,1477.97,41.02,27,42,-15
+28,4,2,0,0,False,A,2,group,06/18/2026 18:00,UEFA Path D Winner,South Africa,TBD,RSA,1500.0,1540.45,-40.45,70,48,22
+29,9,11,0,0,False,C,2,group,06/19/2026 21:00,Brazil,Haiti,BRA,HAI,1536.12,1503.78,32.34,5,53,-48
+30,12,10,0,0,False,C,2,group,06/19/2026 18:00,Scotland,Morocco,SCO,MAR,1496.59,1400.57,96.02,39,9,30
+31,13,15,0,0,False,D,2,group,06/19/2026 12:00,United States,Australia,USA,AUS,1460.27,1443.32,16.95,11,25,-14
+32,16,14,0,0,False,D,2,group,06/19/2026 15:00,UEFA Path C Winner,Paraguay,TBD,PAR,1500.0,1483.79,16.21,70,43,27
+33,17,19,0,0,False,E,2,group,06/20/2026 19:00,Germany,Ivory Coast,GER,CIV,1464.46,1435.99,28.47,12,70,-58
+34,20,18,0,0,False,E,2,group,06/20/2026 19:00,Ecuador,Curaçao,ECU,CUW,1489.03,1500.0,-10.97,21,70,-49
+35,21,23,0,0,False,F,2,group,06/20/2026 12:00,Netherlands,UEFA Path B Winner,NED,TBD,1494.29,1500.0,-5.71,7,70,-63
+36,24,22,0,0,False,F,2,group,06/20/2026 15:00,Tunisia,Japan,TUN,JPN,1618.17,1411.18,206.99,29,14,15
+37,25,27,0,0,False,G,2,group,06/21/2026 15:00,Belgium,Iran,BEL,IRN,1405.06,1559.71,-154.65,4,24,-20
+38,28,26,0,0,False,G,2,group,06/21/2026 12:00,New Zealand,Egypt,NZL,EGY,1467.62,1465.91,1.71,59,34,25
+39,29,31,0,0,False,H,2,group,06/21/2026 18:00,Spain,Saudi Arabia,ESP,KSA,1477.08,1519.78,-42.7,8,47,-39
+40,32,30,0,0,False,H,2,group,06/21/2026 21:00,Uruguay,Cape Verde,URU,CPV,1512.04,1500.0,12.04,18,70,-52
+41,33,35,0,0,False,I,2,group,06/22/2026 17:00,France,IC Path 2 Winner,FRA,TBD,1470.87,1500.0,-29.13,2,70,-68
+42,36,34,0,0,False,I,2,group,06/22/2026 14:00,Norway,Senegal,NOR,SEN,1456.53,1449.12,7.41,70,17,53
+43,37,39,0,0,False,J,2,group,06/22/2026 20:00,Argentina,Austria,ARG,AUT,1505.94,1484.09,21.85,1,22,-21
+44,40,38,0,0,False,J,2,group,06/22/2026 11:00,Jordan,Algeria,JOR,ALG,1500.0,1445.5,54.5,70,41,29
+45,41,43,0,0,False,K,2,group,06/23/2026 15:00,Portugal,Uzbekistan,POR,UZB,1502.72,1500.0,2.72,6,70,-64
+46,48,46,0,0,False,L,2,group,06/23/2026 19:00,Panama,Croatia,PAN,CRO,1518.06,1525.87,-7.81,51,13,38
+47,44,42,0,0,False,K,2,group,06/23/2026 12:00,Colombia,IC Path 1 Winner,COL,TBD,1509.93,1500.0,9.93,16,70,-54
+48,45,47,0,0,False,L,2,group,06/23/2026 21:00,England,Ghana,ENG,GHA,1572.98,1555.89,17.09,3,46,-43
+49,12,9,0,0,False,C,3,group,06/24/2026 18:00,Scotland,Brazil,SCO,BRA,1496.59,1536.12,-39.53,39,5,34
+50,10,11,0,0,False,C,3,group,06/24/2026 18:00,Morocco,Haiti,MAR,HAI,1400.57,1503.78,-103.21,9,53,-44
+51,2,3,0,0,False,A,3,group,06/24/2026 19:00,South Africa,South Korea,RSA,KOR,1540.45,1550.46,-10.01,48,23,25
+52,4,1,0,0,False,A,3,group,06/24/2026 19:00,UEFA Path D Winner,Mexico,TBD,MEX,1500.0,1457.47,42.53,70,15,55
+53,6,5,0,0,False,B,3,group,06/25/2026 18:00,UEFA Path A Winner,Canada,TBD,CAN,1500.0,1518.99,-18.99,70,27,43
+54,7,8,0,0,False,B,3,group,06/25/2026 18:00,Qatar,Switzerland,QAT,SUI,1477.97,1509.53,-31.56,42,19,23
+55,18,19,0,0,False,E,3,group,06/25/2026 16:00,Curaçao,Ivory Coast,CUW,CIV,1500.0,1435.99,64.01,70,70,0
+56,20,17,0,0,False,E,3,group,06/25/2026 16:00,Ecuador,Germany,ECU,GER,1489.03,1464.46,24.57,21,12,9
+57,14,15,0,0,False,D,3,group,06/25/2026 19:00,Paraguay,Australia,PAR,AUS,1483.79,1443.32,40.47,43,25,18
+58,16,13,0,0,False,D,3,group,06/25/2026 19:00,UEFA Path C Winner,United States,TBD,USA,1500.0,1460.27,39.73,70,11,59
+59,22,23,0,0,False,F,3,group,06/26/2026 18:00,Japan,UEFA Path B Winner,JPN,TBD,1411.18,1500.0,-88.82,14,70,-56
+60,24,21,0,0,False,F,3,group,06/26/2026 18:00,Tunisia,Netherlands,TUN,NED,1618.17,1494.29,123.88,29,7,22
+61,34,35,0,0,False,I,3,group,06/26/2026 15:00,Senegal,IC Path 2 Winner,SEN,TBD,1449.12,1500.0,-50.88,17,70,-53
+62,36,33,0,0,False,I,3,group,06/26/2026 15:00,Norway,France,NOR,FRA,1456.53,1470.87,-14.34,70,2,68
+63,26,27,0,0,False,G,3,group,06/26/2026 20:00,Egypt,Iran,EGY,IRN,1465.91,1559.71,-93.8,34,24,10
+64,28,25,0,0,False,G,3,group,06/26/2026 20:00,New Zealand,Belgium,NZL,BEL,1467.62,1405.06,62.56,59,4,55
+65,30,31,0,0,False,H,3,group,06/27/2026 17:00,Cape Verde,Saudi Arabia,CPV,KSA,1500.0,1519.78,-19.78,70,47,23
+66,32,29,0,0,False,H,3,group,06/27/2026 17:00,Uruguay,Spain,URU,ESP,1512.04,1477.08,34.96,18,8,10
+67,48,45,0,0,False,L,3,group,06/27/2026 17:00,Panama,England,PAN,ENG,1518.06,1572.98,-54.92,51,3,48
+68,46,47,0,0,False,L,3,group,06/27/2026 17:00,Croatia,Ghana,CRO,GHA,1525.87,1555.89,-30.02,13,46,-33
+69,38,39,0,0,False,J,3,group,06/27/2026 20:00,Algeria,Austria,ALG,AUT,1445.5,1484.09,-38.59,41,22,19
+70,40,37,0,0,False,J,3,group,06/27/2026 20:00,Jordan,Argentina,JOR,ARG,1500.0,1505.94,-5.94,70,1,69
+71,44,41,0,0,False,K,3,group,06/27/2026 19:30,Colombia,Portugal,COL,POR,1509.93,1502.72,7.21,16,6,10
+72,42,43,0,0,False,K,3,group,06/27/2026 19:30,IC Path 1 Winner,Uzbekistan,TBD,UZB,1500.0,1500.0,0.0,70,70,0

@@ -1,0 +1,965 @@
+tournament_name,match_date,stage_name,stage_code,is_knockout,group_name,home_team_name,away_team_name,home_team_code,away_team_code,home_elo_before,away_elo_before,elo_diff,home_form_gf,home_form_ga,home_form_pts,away_form_gf,away_form_ga,away_form_pts,extra_time,penalty_shootout,home_team_score,away_team_score,total_goals,goal_diff,outcome,home_team_win,away_team_win,draw,home_fifa_rank,away_fifa_rank,fifa_rank_diff,has_fifa_rank
+1930 FIFA Men's World Cup,1930-07-13,group stage,0,0,Group 1,France,Mexico,FRA,MEX,1500.0,1500.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4,1,5,3,home_win,1,0,0,,,,0
+1930 FIFA Men's World Cup,1930-07-13,group stage,0,0,Group 4,United States,Belgium,USA,BEL,1500.0,1500.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3,0,3,3,home_win,1,0,0,,,,0
+1930 FIFA Men's World Cup,1930-07-14,group stage,0,0,Group 2,Yugoslavia,Brazil,YUG,BRA,1500.0,1500.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1930 FIFA Men's World Cup,1930-07-14,group stage,0,0,Group 3,Romania,Peru,ROU,PER,1500.0,1500.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1930 FIFA Men's World Cup,1930-07-15,group stage,0,0,Group 1,Argentina,France,ARG,FRA,1500.0,1516.0,-16.0,0.0,0.0,0.0,4.0,1.0,3.0,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1930 FIFA Men's World Cup,1930-07-16,group stage,0,0,Group 1,Chile,Mexico,CHL,MEX,1500.0,1484.0,16.0,0.0,0.0,0.0,1.0,4.0,0.0,0,0,3,0,3,3,home_win,1,0,0,,,,0
+1930 FIFA Men's World Cup,1930-07-17,group stage,0,0,Group 2,Yugoslavia,Bolivia,YUG,BOL,1516.0,1500.0,16.0,2.0,1.0,3.0,0.0,0.0,0.0,0,0,4,0,4,4,home_win,1,0,0,,,,0
+1930 FIFA Men's World Cup,1930-07-17,group stage,0,0,Group 4,United States,Paraguay,USA,PRY,1516.0,1500.0,16.0,3.0,0.0,3.0,0.0,0.0,0.0,0,0,3,0,3,3,home_win,1,0,0,,,,0
+1930 FIFA Men's World Cup,1930-07-18,group stage,0,0,Group 3,Uruguay,Peru,URY,PER,1500.0,1484.0,16.0,0.0,0.0,0.0,1.0,3.0,0.0,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1930 FIFA Men's World Cup,1930-07-19,group stage,0,0,Group 1,Chile,France,CHL,FRA,1515.26,1499.26,16.0,3.0,0.0,3.0,2.0,1.0,1.5,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1930 FIFA Men's World Cup,1930-07-19,group stage,0,0,Group 1,Argentina,Mexico,ARG,MEX,1516.74,1468.74,48.0,1.0,0.0,3.0,0.5,3.5,0.0,0,0,6,3,9,3,home_win,1,0,0,,,,0
+1930 FIFA Men's World Cup,1930-07-20,group stage,0,0,Group 2,Brazil,Bolivia,BRA,BOL,1484.0,1484.74,-0.7400000000000091,1.0,2.0,0.0,0.0,4.0,0.0,0,0,4,0,4,4,home_win,1,0,0,,,,0
+1930 FIFA Men's World Cup,1930-07-20,group stage,0,0,Group 4,Paraguay,Belgium,PRY,BEL,1484.74,1484.0,0.7400000000000091,0.0,3.0,0.0,0.0,3.0,0.0,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1930 FIFA Men's World Cup,1930-07-21,group stage,0,0,Group 3,Uruguay,Romania,URY,ROU,1515.26,1516.0,-0.7400000000000091,1.0,0.0,3.0,3.0,1.0,3.0,0,0,4,0,4,4,home_win,1,0,0,,,,0
+1930 FIFA Men's World Cup,1930-07-22,group stage,0,0,Group 1,Argentina,Chile,ARG,CHL,1530.54,1530.52,0.0199999999999818,3.5,1.5,3.0,2.0,0.0,3.0,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1930 FIFA Men's World Cup,1930-07-26,semi-finals,3,1,not applicable,Argentina,United States,ARG,USA,1546.54,1531.26,15.279999999999973,3.33,1.33,3.0,3.0,0.0,3.0,0,0,6,1,7,5,home_win,1,0,0,,,,0
+1930 FIFA Men's World Cup,1930-07-27,semi-finals,3,1,not applicable,Uruguay,Yugoslavia,URY,YUG,1531.29,1531.26,0.0299999999999727,2.5,0.0,3.0,3.0,0.5,3.0,0,0,6,1,7,5,home_win,1,0,0,,,,0
+1930 FIFA Men's World Cup,1930-07-30,final,4,1,not applicable,Uruguay,Argentina,URY,ARG,1547.29,1561.84,-14.549999999999956,3.67,0.33,3.0,4.0,1.25,3.0,0,0,4,2,6,2,home_win,1,0,0,,,,0
+1934 FIFA Men's World Cup,1934-05-27,round of 16,1,1,not applicable,Austria,France,AUT,FRA,1500.0,1484.0,16.0,0.0,0.0,0.0,1.33,1.0,1.0,1,0,3,2,5,1,home_win,1,0,0,,,,0
+1934 FIFA Men's World Cup,1934-05-27,round of 16,1,1,not applicable,Czechoslovakia,Romania,CSK,ROU,1500.0,1499.97,0.0299999999999727,0.0,0.0,0.0,1.5,2.5,1.5,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1934 FIFA Men's World Cup,1934-05-27,round of 16,1,1,not applicable,Germany,Belgium,DEU,BEL,1500.0,1468.03,31.970000000000027,0.0,0.0,0.0,0.0,2.0,0.0,0,0,5,2,7,3,home_win,1,0,0,,,,0
+1934 FIFA Men's World Cup,1934-05-27,round of 16,1,1,not applicable,Hungary,Egypt,HUN,EGY,1500.0,1500.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4,2,6,2,home_win,1,0,0,,,,0
+1934 FIFA Men's World Cup,1934-05-27,round of 16,1,1,not applicable,Italy,United States,ITA,USA,1500.0,1515.96,-15.960000000000036,0.0,0.0,0.0,2.33,2.0,2.0,0,0,7,1,8,6,home_win,1,0,0,,,,0
+1934 FIFA Men's World Cup,1934-05-27,round of 16,1,1,not applicable,Spain,Brazil,ESP,BRA,1500.0,1500.03,-0.0299999999999727,0.0,0.0,0.0,2.5,1.0,1.5,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1934 FIFA Men's World Cup,1934-05-27,round of 16,1,1,not applicable,Sweden,Argentina,SWE,ARG,1500.0,1545.17,-45.17000000000007,0.0,0.0,0.0,3.6,1.8,2.4,0,0,3,2,5,1,home_win,1,0,0,,,,0
+1934 FIFA Men's World Cup,1934-05-27,round of 16,1,1,not applicable,Switzerland,Netherlands,CHE,NLD,1500.0,1500.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,3,2,5,1,home_win,1,0,0,,,,0
+1934 FIFA Men's World Cup,1934-05-31,quarter-finals,2,1,not applicable,Austria,Hungary,AUT,HUN,1515.26,1516.0,-0.7400000000000091,3.0,2.0,3.0,4.0,2.0,3.0,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1934 FIFA Men's World Cup,1934-05-31,quarter-finals,2,1,not applicable,Czechoslovakia,Switzerland,CSK,CHE,1516.0,1516.0,0.0,2.0,1.0,3.0,3.0,2.0,3.0,0,0,3,2,5,1,home_win,1,0,0,,,,0
+1934 FIFA Men's World Cup,1934-05-31,quarter-finals,2,1,not applicable,Germany,Sweden,DEU,SWE,1514.53,1518.07,-3.539999999999964,5.0,2.0,3.0,3.0,2.0,3.0,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1934 FIFA Men's World Cup,1934-05-31,quarter-finals,2,1,not applicable,Italy,Spain,ITA,ESP,1516.73,1516.0,0.7300000000000182,7.0,1.0,3.0,3.0,1.0,3.0,1,0,1,1,2,0,draw,0,0,1,,,,0
+1934 FIFA Men's World Cup,1934-06-01,quarter-finals,2,1,not applicable,Italy,Spain,ITA,ESP,1516.7,1516.03,0.6700000000000728,4.0,1.0,2.0,2.0,1.0,2.0,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1934 FIFA Men's World Cup,1934-06-03,semi-finals,3,1,not applicable,Czechoslovakia,Germany,CSK,DEU,1532.0,1530.69,1.3099999999999454,2.5,1.5,3.0,3.5,1.5,3.0,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1934 FIFA Men's World Cup,1934-06-03,semi-finals,3,1,not applicable,Italy,Austria,ITA,AUT,1532.67,1531.29,1.3800000000001091,3.0,0.67,2.33,2.5,1.5,3.0,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1934 FIFA Men's World Cup,1934-06-07,third-place match,0,1,not applicable,Germany,Austria,DEU,AUT,1514.75,1515.35,-0.599999999999909,2.67,2.0,2.0,1.67,1.33,2.0,0,0,3,2,5,1,home_win,1,0,0,,,,0
+1934 FIFA Men's World Cup,1934-06-10,final,4,1,not applicable,Italy,Czechoslovakia,ITA,CSK,1548.61,1547.94,0.6699999999998454,2.5,0.5,2.5,2.67,1.33,3.0,1,0,2,1,3,1,home_win,1,0,0,,,,0
+1938 FIFA Men's World Cup,1938-06-04,round of 16,1,1,not applicable,Switzerland,Germany,CHE,DEU,1500.0,1530.78,-30.779999999999973,2.5,2.5,1.5,2.75,2.0,2.25,1,0,1,1,2,0,draw,0,0,1,,,,0
+1938 FIFA Men's World Cup,1938-06-05,round of 16,1,1,not applicable,Cuba,Romania,CUB,ROU,1500.0,1483.97,16.029999999999973,0.0,0.0,0.0,1.33,2.33,1.0,1,0,3,3,6,0,draw,0,0,1,,,,0
+1938 FIFA Men's World Cup,1938-06-05,round of 16,1,1,not applicable,France,Belgium,FRA,BEL,1468.74,1453.5,15.240000000000007,1.5,1.5,0.75,0.67,3.0,0.0,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1938 FIFA Men's World Cup,1938-06-05,round of 16,1,1,not applicable,Hungary,Dutch East Indies,HUN,IDN,1499.97,1500.0,-0.0299999999999727,2.5,2.0,1.5,0.0,0.0,0.0,0,0,6,0,6,6,home_win,1,0,0,,,,0
+1938 FIFA Men's World Cup,1938-06-05,round of 16,1,1,not applicable,Italy,Norway,ITA,NOR,1564.58,1500.0,64.57999999999993,2.4,0.6,2.6,0.0,0.0,0.0,1,0,2,1,3,1,home_win,1,0,0,,,,0
+1938 FIFA Men's World Cup,1938-06-05,round of 16,1,1,not applicable,Brazil,Poland,BRA,POL,1484.03,1500.0,-15.970000000000027,2.0,1.67,1.0,0.0,0.0,0.0,1,0,6,5,11,1,home_win,1,0,0,,,,0
+1938 FIFA Men's World Cup,1938-06-05,round of 16,1,1,not applicable,Czechoslovakia,Netherlands,CSK,NLD,1531.97,1484.0,47.97000000000003,2.25,1.5,2.25,2.0,3.0,0.0,1,0,3,0,3,3,home_win,1,0,0,,,,0
+1938 FIFA Men's World Cup,1938-06-09,round of 16,1,1,not applicable,Cuba,Romania,CUB,ROU,1499.26,1484.71,14.549999999999956,3.0,3.0,1.0,1.75,2.5,1.0,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1938 FIFA Men's World Cup,1938-06-09,round of 16,1,1,not applicable,Switzerland,Germany,CHE,DEU,1501.41,1529.37,-27.95999999999981,2.0,2.0,1.33,2.4,1.8,2.0,0,0,4,2,6,2,home_win,1,0,0,,,,0
+1938 FIFA Men's World Cup,1938-06-12,quarter-finals,2,1,not applicable,Sweden,Cuba,SWE,CUB,1501.91,1514.59,-12.679999999999836,2.0,2.0,1.5,2.5,2.0,2.0,0,0,8,0,8,8,home_win,1,0,0,,,,0
+1938 FIFA Men's World Cup,1938-06-12,quarter-finals,2,1,not applicable,Italy,France,ITA,FRA,1577.64,1484.04,93.60000000000014,1.4,0.6,2.6,1.8,1.4,1.2,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1938 FIFA Men's World Cup,1938-06-12,quarter-finals,2,1,not applicable,Hungary,Switzerland,HUN,CHE,1515.97,1518.69,-2.7200000000000277,3.67,1.33,2.0,2.5,2.0,1.75,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1938 FIFA Men's World Cup,1938-06-12,quarter-finals,2,1,not applicable,Brazil,Czechoslovakia,BRA,CSK,1500.76,1545.77,-45.00999999999999,3.0,2.5,1.5,2.4,1.2,2.4,1,0,1,1,2,0,draw,0,0,1,,,,0
+1938 FIFA Men's World Cup,1938-06-14,quarter-finals,2,1,not applicable,Brazil,Czechoslovakia,BRA,CSK,1502.82,1543.71,-40.8900000000001,2.6,2.2,1.4,2.2,1.2,2.0,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1938 FIFA Men's World Cup,1938-06-16,semi-finals,3,1,not applicable,Hungary,Sweden,HUN,SWE,1532.1,1518.49,13.6099999999999,3.25,1.0,2.25,4.0,1.33,2.0,0,0,5,1,6,4,home_win,1,0,0,,,,0
+1938 FIFA Men's World Cup,1938-06-16,semi-finals,3,1,not applicable,Italy,Brazil,ITA,BRA,1589.43,1520.69,68.74000000000001,1.8,0.6,3.0,2.8,2.0,2.0,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1938 FIFA Men's World Cup,1938-06-19,third-place match,0,1,not applicable,Brazil,Sweden,BRA,SWE,1507.81,1503.12,4.690000000000055,2.2,2.4,1.4,3.25,2.25,1.5,0,0,4,2,6,2,home_win,1,0,0,,,,0
+1938 FIFA Men's World Cup,1938-06-19,final,4,1,not applicable,Italy,Hungary,ITA,HUN,1602.31,1547.47,54.83999999999992,2.0,0.8,3.0,3.6,1.0,2.4,0,0,4,2,6,2,home_win,1,0,0,,,,0
+1950 FIFA Men's World Cup,1950-06-24,group stage,0,0,Group 1,Brazil,Mexico,BRA,MEX,1523.59,1454.94,68.64999999999986,2.8,2.2,2.0,1.33,4.33,0.0,0,0,4,0,4,4,home_win,1,0,0,,,,0
+1950 FIFA Men's World Cup,1950-06-25,group stage,0,0,Group 1,Yugoslavia,Switzerland,YUG,CHE,1515.26,1502.56,12.700000000000044,2.33,2.33,2.0,2.0,2.0,1.4,0,0,3,0,3,3,home_win,1,0,0,,,,0
+1950 FIFA Men's World Cup,1950-06-25,group stage,0,0,Group 2,England,Chile,ENG,CHL,1500.0,1514.52,-14.519999999999982,0.0,0.0,0.0,1.67,1.0,2.0,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1950 FIFA Men's World Cup,1950-06-25,group stage,0,0,Group 2,Spain,United States,ESP,USA,1500.06,1499.23,0.8299999999999272,1.33,1.0,1.33,2.0,3.25,1.5,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1950 FIFA Men's World Cup,1950-06-25,group stage,0,0,Group 3,Sweden,Italy,SWE,ITA,1487.34,1615.81,-128.47000000000003,3.0,2.6,1.2,2.6,1.2,3.0,0,0,3,2,5,1,home_win,1,0,0,,,,0
+1950 FIFA Men's World Cup,1950-06-28,group stage,0,0,Group 1,Brazil,Switzerland,BRA,CHE,1536.47,1487.14,49.32999999999993,2.4,1.2,2.0,1.4,2.2,0.8,0,0,2,2,4,0,draw,0,0,1,,,,0
+1950 FIFA Men's World Cup,1950-06-28,group stage,0,0,Group 1,Yugoslavia,Mexico,YUG,MEX,1530.68,1442.06,88.62000000000012,2.5,1.75,2.25,1.0,4.25,0.0,0,0,4,1,5,3,home_win,1,0,0,,,,0
+1950 FIFA Men's World Cup,1950-06-29,group stage,0,0,Group 3,Sweden,Paraguay,SWE,PRY,1509.0,1500.71,8.289999999999964,3.0,2.6,1.2,0.5,1.5,1.5,0,0,2,2,4,0,draw,0,0,1,,,,0
+1950 FIFA Men's World Cup,1950-06-29,group stage,0,0,Group 2,Spain,Chile,ESP,CHL,1516.02,1497.85,18.170000000000076,1.75,1.0,1.75,1.25,1.25,1.5,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1950 FIFA Men's World Cup,1950-06-29,group stage,0,0,Group 2,United States,England,USA,ENG,1483.27,1516.67,-33.40000000000009,1.8,3.2,1.2,2.0,0.0,3.0,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1950 FIFA Men's World Cup,1950-07-01,group stage,0,0,Group 1,Brazil,Yugoslavia,BRA,YUG,1534.21,1542.69,-8.480000000000018,2.6,1.4,2.0,2.8,1.6,2.4,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1950 FIFA Men's World Cup,1950-07-02,group stage,0,0,Group 2,Chile,United States,CHL,USA,1482.69,1500.8,-18.1099999999999,1.0,1.4,1.2,1.4,3.2,1.2,0,0,5,2,7,3,home_win,1,0,0,,,,0
+1950 FIFA Men's World Cup,1950-07-02,group stage,0,0,Group 2,Spain,England,ESP,ENG,1531.18,1499.14,32.039999999999964,1.8,0.8,2.0,1.0,0.5,1.5,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1950 FIFA Men's World Cup,1950-07-02,group stage,0,0,Group 3,Italy,Paraguay,ITA,PRY,1594.15,1501.09,93.06000000000016,2.6,1.6,2.4,1.0,1.67,1.33,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1950 FIFA Men's World Cup,1950-07-02,group stage,0,0,Group 4,Uruguay,Bolivia,URY,BOL,1563.96,1468.71,95.25,3.75,0.75,3.0,0.0,4.0,0.0,0,0,8,0,8,8,home_win,1,0,0,,,,0
+1950 FIFA Men's World Cup,1950-07-02,group stage,0,0,Group 1,Switzerland,Mexico,CHE,MEX,1489.4,1430.05,59.350000000000136,1.4,2.0,1.0,1.0,4.2,0.0,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1950 FIFA Men's World Cup,1950-07-09,final round,0,0,not applicable,Brazil,Sweden,BRA,SWE,1550.6,1508.62,41.98000000000002,2.6,1.2,2.0,3.2,2.6,1.4,0,0,7,1,8,6,home_win,1,0,0,,,,0
+1950 FIFA Men's World Cup,1950-07-09,final round,0,0,not applicable,Uruguay,Spain,URY,ESP,1575.68,1545.71,29.970000000000027,4.6,0.6,3.0,1.4,0.6,2.0,0,0,2,2,4,0,draw,0,0,1,,,,0
+1950 FIFA Men's World Cup,1950-07-13,final round,0,0,not applicable,Brazil,Spain,BRA,ESP,1564.68,1547.09,17.590000000000146,3.8,1.0,2.6,1.6,0.8,2.0,0,0,6,1,7,5,home_win,1,0,0,,,,0
+1950 FIFA Men's World Cup,1950-07-13,final round,0,0,not applicable,Uruguay,Sweden,URY,SWE,1574.3,1494.54,79.75999999999999,4.8,1.0,2.6,1.8,4.0,0.8,0,0,3,2,5,1,home_win,1,0,0,,,,0
+1950 FIFA Men's World Cup,1950-07-16,final round,0,0,not applicable,Sweden,Spain,SWE,ESP,1482.15,1531.9,-49.75,2.0,3.6,0.8,1.8,1.8,2.0,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1950 FIFA Men's World Cup,1950-07-16,final round,0,0,not applicable,Uruguay,Brazil,URY,BRA,1586.69,1579.87,6.820000000000164,4.6,1.4,2.6,4.2,0.8,2.6,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1954 FIFA Men's World Cup,1954-06-16,group stage,0,0,Group 3,Uruguay,Czechoslovakia,URY,CSK,1602.38,1525.84,76.54000000000019,3.8,1.4,2.6,1.8,1.2,1.4,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1954 FIFA Men's World Cup,1954-06-16,group stage,0,0,Group 3,Austria,Scotland,AUT,SCO,1499.32,1500.0,-0.6800000000000637,1.75,1.75,1.5,0.0,0.0,0.0,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1954 FIFA Men's World Cup,1954-06-16,group stage,0,0,Group 1,Yugoslavia,France,YUG,FRA,1526.3,1472.25,54.04999999999996,2.4,1.8,1.8,1.2,1.8,0.6,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1954 FIFA Men's World Cup,1954-06-16,group stage,0,0,Group 1,Brazil,Mexico,BRA,MEX,1564.18,1416.76,147.42000000000007,3.6,1.2,2.0,1.0,3.8,0.0,0,0,5,0,5,5,home_win,1,0,0,,,,0
+1954 FIFA Men's World Cup,1954-06-17,group stage,0,0,Group 4,Switzerland,Italy,CHE,ITA,1502.69,1605.96,-103.26999999999998,1.6,2.0,1.4,2.6,1.4,2.4,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1954 FIFA Men's World Cup,1954-06-17,group stage,0,0,Group 2,Hungary,South Korea,HUN,KOR,1533.97,1500.0,33.97000000000003,3.2,1.4,1.8,0.0,0.0,0.0,0,0,9,0,9,9,home_win,1,0,0,,,,0
+1954 FIFA Men's World Cup,1954-06-17,group stage,0,0,Group 2,West Germany,Turkey,DEU,TUR,1500.0,1500.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,4,1,5,3,home_win,1,0,0,,,,0
+1954 FIFA Men's World Cup,1954-06-17,group stage,0,0,Group 4,England,Belgium,ENG,BEL,1484.61,1438.2,46.409999999999854,0.67,0.67,1.0,0.75,3.0,0.0,1,0,4,4,8,0,draw,0,0,1,,,,0
+1954 FIFA Men's World Cup,1954-06-19,group stage,0,0,Group 3,Uruguay,Scotland,URY,SCO,1614.91,1483.97,130.94000000000003,3.4,1.0,2.6,0.0,1.0,0.0,0,0,7,0,7,7,home_win,1,0,0,,,,0
+1954 FIFA Men's World Cup,1954-06-19,group stage,0,0,Group 1,Brazil,Yugoslavia,BRA,YUG,1573.77,1539.83,33.940000000000055,4.2,0.8,2.4,1.8,1.8,1.8,1,0,1,1,2,0,draw,0,0,1,,,,0
+1954 FIFA Men's World Cup,1954-06-19,group stage,0,0,Group 3,Austria,Czechoslovakia,AUT,CSK,1515.35,1513.31,2.039999999999964,1.6,1.4,1.8,1.2,1.4,0.8,0,0,5,0,5,5,home_win,1,0,0,,,,0
+1954 FIFA Men's World Cup,1954-06-19,group stage,0,0,Group 1,France,Mexico,FRA,MEX,1458.72,1407.17,51.54999999999996,1.2,1.8,0.6,1.0,4.2,0.0,0,0,3,2,5,1,home_win,1,0,0,,,,0
+1954 FIFA Men's World Cup,1954-06-20,group stage,0,0,Group 2,Hungary,West Germany,HUN,DEU,1548.41,1516.0,32.41000000000008,4.8,1.0,2.4,4.0,1.0,3.0,0,0,8,3,11,5,home_win,1,0,0,,,,0
+1954 FIFA Men's World Cup,1954-06-20,group stage,0,0,Group 2,Turkey,South Korea,TUR,KOR,1484.0,1485.56,-1.5599999999999454,1.0,4.0,0.0,0.0,9.0,0.0,0,0,7,0,7,7,home_win,1,0,0,,,,0
+1954 FIFA Men's World Cup,1954-06-20,group stage,0,0,Group 4,England,Switzerland,ENG,CHE,1482.49,1523.31,-40.819999999999936,1.5,1.5,1.0,1.2,1.8,1.4,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1954 FIFA Men's World Cup,1954-06-20,group stage,0,0,Group 4,Italy,Belgium,ITA,BEL,1585.34,1440.32,145.01999999999998,2.2,1.6,1.8,1.4,3.2,0.2,0,0,4,1,5,3,home_win,1,0,0,,,,0
+1954 FIFA Men's World Cup,1954-06-23,group stage,0,0,Group 4,Switzerland,Italy,CHE,ITA,1505.44,1595.02,-89.57999999999993,1.2,1.8,1.4,2.6,1.6,1.8,0,0,4,1,5,3,home_win,1,0,0,,,,0
+1954 FIFA Men's World Cup,1954-06-23,group stage,0,0,Group 2,West Germany,Turkey,DEU,TUR,1501.49,1500.07,1.4200000000000728,3.5,4.5,1.5,4.0,2.0,1.5,0,0,7,2,9,5,home_win,1,0,0,,,,0
+1954 FIFA Men's World Cup,1954-06-26,quarter-finals,2,1,not applicable,Austria,Switzerland,AUT,CHE,1531.26,1525.48,5.779999999999973,2.0,1.0,1.8,2.0,1.4,2.0,0,0,7,5,12,2,home_win,1,0,0,,,,0
+1954 FIFA Men's World Cup,1954-06-26,quarter-finals,2,1,not applicable,Uruguay,England,URY,ENG,1625.15,1500.36,124.7900000000002,3.2,1.0,2.6,1.6,1.2,1.4,0,0,4,2,6,2,home_win,1,0,0,,,,0
+1954 FIFA Men's World Cup,1954-06-27,quarter-finals,2,1,not applicable,Hungary,Brazil,HUN,BRA,1562.92,1572.21,-9.289999999999964,5.2,1.6,2.4,4.0,1.0,2.0,0,0,4,2,6,2,home_win,1,0,0,,,,0
+1954 FIFA Men's World Cup,1954-06-27,quarter-finals,2,1,not applicable,West Germany,Yugoslavia,DEU,YUG,1517.42,1541.39,-23.970000000000027,4.67,3.67,2.0,1.8,0.8,2.0,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1954 FIFA Men's World Cup,1954-06-30,semi-finals,3,1,not applicable,Hungary,Uruguay,HUN,URY,1579.35,1635.64,-56.29000000000019,5.6,2.0,2.4,3.6,1.0,3.0,1,0,4,2,6,2,home_win,1,0,0,,,,0
+1954 FIFA Men's World Cup,1954-06-30,semi-finals,3,1,not applicable,West Germany,Austria,DEU,AUT,1534.52,1546.99,-12.470000000000027,4.0,2.75,2.25,3.0,1.8,1.8,0,0,6,1,7,5,home_win,1,0,0,,,,0
+1954 FIFA Men's World Cup,1954-07-03,third-place match,0,1,not applicable,Austria,Uruguay,AUT,URY,1530.42,1617.07,-86.64999999999986,3.2,2.8,1.8,3.4,1.4,2.4,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1954 FIFA Men's World Cup,1954-07-04,final,4,1,not applicable,West Germany,Hungary,DEU,HUN,1551.09,1597.92,-46.83000000000016,4.4,2.4,2.4,5.4,2.2,2.4,0,0,3,2,5,1,home_win,1,0,0,,,,0
+1958 FIFA Men's World Cup,1958-06-08,group stage,0,0,Group 4,Soviet Union,England,SUN,ENG,1500.0,1489.87,10.13000000000011,0.0,0.0,0.0,1.6,2.0,0.8,0,0,2,2,4,0,draw,0,0,1,,,,0
+1958 FIFA Men's World Cup,1958-06-08,group stage,0,0,Group 4,Brazil,Austria,BRA,AUT,1555.78,1550.33,5.4500000000000455,3.0,1.6,1.4,3.4,2.4,2.4,0,0,3,0,3,3,home_win,1,0,0,,,,0
+1958 FIFA Men's World Cup,1958-06-08,group stage,0,0,Group 3,Hungary,Wales,HUN,WAL,1579.78,1500.0,79.77999999999997,5.4,2.0,2.4,0.0,0.0,0.0,0,0,1,1,2,0,draw,0,0,1,,,,0
+1958 FIFA Men's World Cup,1958-06-08,group stage,0,0,Group 2,Yugoslavia,Scotland,YUG,SCO,1524.29,1473.73,50.559999999999945,1.2,1.2,1.4,0.0,4.0,0.0,0,0,1,1,2,0,draw,0,0,1,,,,0
+1958 FIFA Men's World Cup,1958-06-08,group stage,0,0,Group 1,Northern Ireland,Czechoslovakia,NIR,CSK,1500.0,1497.4,2.599999999999909,0.0,0.0,0.0,1.0,2.0,0.8,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1958 FIFA Men's World Cup,1958-06-08,group stage,0,0,Group 1,Argentina,West Germany,ARG,DEU,1527.1,1569.23,-42.13000000000011,3.8,2.4,1.8,4.2,2.6,2.4,0,0,1,3,4,-2,away_win,0,1,0,,,,0
+1958 FIFA Men's World Cup,1958-06-08,group stage,0,0,Group 3,Sweden,Mexico,SWE,MEX,1500.43,1393.53,106.90000000000008,2.2,3.0,1.4,0.8,3.6,0.0,0,0,3,0,3,3,home_win,1,0,0,,,,0
+1958 FIFA Men's World Cup,1958-06-08,group stage,0,0,Group 2,France,Paraguay,FRA,PRY,1472.36,1489.28,-16.920000000000073,1.8,2.0,1.2,0.75,1.75,1.0,0,0,7,3,10,4,home_win,1,0,0,,,,0
+1958 FIFA Men's World Cup,1958-06-11,group stage,0,0,Group 1,Argentina,Northern Ireland,ARG,NIR,1583.3,1515.88,67.41999999999985,2.8,2.4,1.2,1.0,0.0,3.0,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1958 FIFA Men's World Cup,1958-06-11,group stage,0,0,Group 1,West Germany,Czechoslovakia,DEU,CSK,1513.03,1481.52,31.50999999999999,4.2,1.2,3.0,0.4,2.2,0.2,0,0,2,2,4,0,draw,0,0,1,,,,0
+1958 FIFA Men's World Cup,1958-06-11,group stage,0,0,Group 2,Paraguay,Scotland,PRY,SCO,1472.5,1476.04,-3.539999999999964,1.2,2.8,0.8,0.33,3.0,0.33,0,0,3,2,5,1,home_win,1,0,0,,,,0
+1958 FIFA Men's World Cup,1958-06-11,group stage,0,0,Group 2,Yugoslavia,France,YUG,FRA,1521.98,1489.14,32.83999999999992,0.6,1.2,1.0,2.8,2.0,1.8,0,0,3,2,5,1,home_win,1,0,0,,,,0
+1958 FIFA Men's World Cup,1958-06-11,group stage,0,0,Group 3,Mexico,Wales,MEX,WAL,1382.3,1503.61,-121.30999999999996,0.8,3.4,0.0,1.0,1.0,1.0,0,0,1,1,2,0,draw,0,0,1,,,,0
+1958 FIFA Men's World Cup,1958-06-11,group stage,0,0,Group 4,Brazil,England,BRA,ENG,1571.53,1490.34,81.19000000000005,2.4,1.4,1.4,2.0,2.2,1.0,0,0,0,0,0,0,draw,0,0,1,,,,0
+1958 FIFA Men's World Cup,1958-06-11,group stage,0,0,Group 4,Soviet Union,Austria,SUN,AUT,1499.53,1534.58,-35.049999999999955,2.0,2.0,1.0,3.2,3.0,1.8,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1958 FIFA Men's World Cup,1958-06-12,group stage,0,0,Group 3,Sweden,Hungary,SWE,HUN,1511.66,1576.17,-64.50999999999999,2.2,2.6,1.4,3.8,2.2,2.0,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1958 FIFA Men's World Cup,1958-06-15,group stage,0,0,Group 4,Brazil,Soviet Union,BRA,SUN,1567.86,1517.14,50.7199999999998,2.2,1.0,1.6,2.0,1.0,2.0,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1958 FIFA Men's World Cup,1958-06-15,group stage,0,0,Group 3,Hungary,Mexico,HUN,MEX,1557.23,1387.67,169.55999999999997,2.4,2.0,1.4,0.8,2.8,0.2,0,0,4,0,4,4,home_win,1,0,0,,,,0
+1958 FIFA Men's World Cup,1958-06-15,group stage,0,0,Group 4,England,Austria,ENG,AUT,1494.01,1516.97,-22.96000000000004,2.0,2.0,1.2,2.2,3.4,1.2,0,0,2,2,4,0,draw,0,0,1,,,,0
+1958 FIFA Men's World Cup,1958-06-15,group stage,0,0,Group 2,Paraguay,Yugoslavia,PRY,YUG,1488.66,1536.47,-47.809999999999945,1.8,2.6,1.4,1.2,1.2,1.6,0,0,3,3,6,0,draw,0,0,1,,,,0
+1958 FIFA Men's World Cup,1958-06-15,group stage,0,0,Group 2,France,Scotland,FRA,SCO,1474.65,1459.88,14.769999999999982,2.6,2.4,1.2,0.75,3.0,0.25,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1958 FIFA Men's World Cup,1958-06-15,group stage,0,0,Group 1,West Germany,Northern Ireland,DEU,NIR,1511.58,1502.95,8.629999999999882,3.2,1.2,2.6,1.0,1.5,1.5,0,0,2,2,4,0,draw,0,0,1,,,,0
+1958 FIFA Men's World Cup,1958-06-15,group stage,0,0,Group 1,Czechoslovakia,Argentina,CSK,ARG,1482.97,1596.23,-113.26,0.6,2.4,0.2,2.8,2.4,1.2,0,0,6,1,7,5,home_win,1,0,0,,,,0
+1958 FIFA Men's World Cup,1958-06-15,group stage,0,0,Group 3,Sweden,Wales,SWE,WAL,1530.6,1498.24,32.3599999999999,2.2,2.4,1.8,1.0,1.0,1.0,0,0,0,0,0,0,draw,0,0,1,,,,0
+1958 FIFA Men's World Cup,1958-06-17,group stage,0,0,Group 1,Northern Ireland,Czechoslovakia,NIR,CSK,1503.35,1504.01,-0.6600000000000819,1.33,1.67,1.33,1.6,2.2,0.8,1,0,2,1,3,1,home_win,1,0,0,,,,0
+1958 FIFA Men's World Cup,1958-06-17,group stage,0,0,Group 3,Wales,Hungary,WAL,HUN,1499.73,1565.99,-66.25999999999999,0.67,0.67,1.0,2.4,1.6,1.4,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1958 FIFA Men's World Cup,1958-06-17,group stage,0,0,Group 4,Soviet Union,England,SUN,ENG,1503.46,1495.07,8.3900000000001,1.33,1.33,1.33,1.6,1.6,1.2,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1958 FIFA Men's World Cup,1958-06-19,quarter-finals,2,1,not applicable,Brazil,Wales,BRA,WAL,1581.54,1518.74,62.79999999999996,1.6,1.0,1.6,1.0,0.75,1.5,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1958 FIFA Men's World Cup,1958-06-19,quarter-finals,2,1,not applicable,France,Northern Ireland,FRA,NIR,1489.97,1519.38,-29.41000000000008,2.8,2.0,1.8,1.5,1.5,1.75,0,0,4,0,4,4,home_win,1,0,0,,,,0
+1958 FIFA Men's World Cup,1958-06-19,quarter-finals,2,1,not applicable,Sweden,Soviet Union,SWE,SUN,1529.11,1519.07,10.039999999999964,2.0,1.0,2.0,1.25,1.0,1.75,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1958 FIFA Men's World Cup,1958-06-19,quarter-finals,2,1,not applicable,West Germany,Yugoslavia,DEU,YUG,1511.18,1534.28,-23.09999999999991,3.2,1.6,2.2,1.6,1.8,1.2,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1958 FIFA Men's World Cup,1958-06-24,semi-finals,3,1,not applicable,Brazil,France,BRA,FRA,1594.68,1507.32,87.36000000000013,1.6,0.8,2.0,3.6,1.8,2.4,0,0,5,2,7,3,home_win,1,0,0,,,,0
+1958 FIFA Men's World Cup,1958-06-24,semi-finals,3,1,not applicable,Sweden,West Germany,SWE,DEU,1544.65,1528.24,16.410000000000082,2.0,0.4,2.6,2.2,1.4,2.2,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1958 FIFA Men's World Cup,1958-06-28,third-place match,0,1,not applicable,France,West Germany,FRA,DEU,1495.26,1513.0,-17.74000000000001,3.4,2.4,1.8,1.8,1.6,1.6,0,0,6,3,9,3,home_win,1,0,0,,,,0
+1958 FIFA Men's World Cup,1958-06-29,final,4,1,not applicable,Brazil,Sweden,BRA,SWE,1606.74,1559.89,46.84999999999991,2.2,0.4,2.6,2.0,0.4,2.6,0,0,5,2,7,3,home_win,1,0,0,,,,0
+1962 FIFA Men's World Cup,1962-05-30,group stage,0,0,Group 1,Uruguay,Colombia,URY,COL,1597.16,1500.0,97.16000000000008,3.2,1.8,1.8,0.0,0.0,0.0,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1962 FIFA Men's World Cup,1962-05-30,group stage,0,0,Group 2,Chile,Switzerland,CHL,CHE,1499.52,1509.75,-10.230000000000018,1.4,1.8,1.2,2.6,2.4,1.8,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1962 FIFA Men's World Cup,1962-05-30,group stage,0,0,Group 3,Brazil,Mexico,BRA,MEX,1620.6,1378.91,241.68999999999983,2.6,0.8,2.6,0.6,3.2,0.2,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1962 FIFA Men's World Cup,1962-05-30,group stage,0,0,Group 4,Argentina,Bulgaria,ARG,BGR,1575.19,1500.0,75.19000000000005,1.8,3.4,0.6,0.0,0.0,0.0,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1962 FIFA Men's World Cup,1962-05-31,group stage,0,0,Group 1,Soviet Union,Yugoslavia,SUN,YUG,1503.53,1517.22,-13.690000000000056,1.0,1.2,1.4,1.4,1.8,1.0,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1962 FIFA Men's World Cup,1962-05-31,group stage,0,0,Group 2,West Germany,Italy,DEU,ITA,1496.18,1574.98,-78.79999999999995,1.8,2.6,1.0,2.0,2.0,1.2,0,0,0,0,0,0,draw,0,0,1,,,,0
+1962 FIFA Men's World Cup,1962-05-31,group stage,0,0,Group 3,Czechoslovakia,Spain,CSK,ESP,1487.98,1513.62,-25.639999999999876,1.8,2.2,0.8,1.4,2.2,1.4,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1962 FIFA Men's World Cup,1962-05-31,group stage,0,0,Group 4,Hungary,England,HUN,ENG,1546.98,1479.46,67.51999999999998,1.8,1.6,0.8,1.2,1.8,0.6,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1962 FIFA Men's World Cup,1962-06-02,group stage,0,0,Group 1,Yugoslavia,Uruguay,YUG,URY,1500.59,1608.8,-108.21000000000004,1.4,1.8,1.0,3.2,2.0,1.8,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1962 FIFA Men's World Cup,1962-06-02,group stage,0,0,Group 2,Chile,Italy,CHL,ITA,1515.99,1571.41,-55.42000000000007,1.8,2.0,1.2,1.6,1.4,1.4,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1962 FIFA Men's World Cup,1962-06-02,group stage,0,0,Group 3,Brazil,Czechoslovakia,BRA,CSK,1626.97,1505.16,121.80999999999996,3.0,0.8,3.0,2.0,1.2,1.4,0,0,0,0,0,0,draw,0,0,1,,,,0
+1962 FIFA Men's World Cup,1962-06-02,group stage,0,0,Group 4,England,Argentina,ENG,ARG,1466.53,1587.78,-121.25,1.0,1.4,0.6,1.6,2.6,1.2,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1962 FIFA Men's World Cup,1962-06-03,group stage,0,0,Group 3,Spain,Mexico,ESP,MEX,1496.44,1372.54,123.90000000000008,1.0,2.4,0.8,0.6,2.6,0.2,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1962 FIFA Men's World Cup,1962-06-03,group stage,0,0,Group 4,Hungary,Bulgaria,HUN,BGR,1559.91,1487.41,72.5,1.8,1.2,1.4,0.0,1.0,0.0,0,0,6,1,7,5,home_win,1,0,0,,,,0
+1962 FIFA Men's World Cup,1962-06-03,group stage,0,0,Group 1,Soviet Union,Colombia,SUN,COL,1520.16,1488.36,31.800000000000185,1.0,0.8,1.8,1.0,2.0,0.0,0,0,4,4,8,0,draw,0,0,1,,,,0
+1962 FIFA Men's World Cup,1962-06-03,group stage,0,0,Group 2,West Germany,Switzerland,DEU,CHE,1499.75,1493.28,6.470000000000027,1.4,2.2,1.0,2.4,2.8,1.2,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1962 FIFA Men's World Cup,1962-06-06,group stage,0,0,Group 1,Soviet Union,Uruguay,SUN,URY,1518.7,1587.97,-69.26999999999998,1.4,1.6,1.4,2.0,2.6,1.2,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1962 FIFA Men's World Cup,1962-06-06,group stage,0,0,Group 2,West Germany,Chile,DEU,CHL,1515.45,1534.52,-19.069999999999936,1.4,2.0,1.4,2.0,1.4,1.8,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1962 FIFA Men's World Cup,1962-06-06,group stage,0,0,Group 3,Brazil,Spain,BRA,ESP,1621.58,1506.96,114.61999999999988,2.6,0.8,2.6,1.0,2.4,0.8,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1962 FIFA Men's World Cup,1962-06-06,group stage,0,0,Group 4,Hungary,Argentina,HUN,ARG,1572.62,1566.41,6.209999999999809,2.8,1.2,1.8,1.4,2.6,1.2,0,0,0,0,0,0,draw,0,0,1,,,,0
+1962 FIFA Men's World Cup,1962-06-07,group stage,0,0,Group 1,Yugoslavia,Colombia,YUG,COL,1521.42,1489.82,31.600000000000136,1.8,1.8,1.4,2.5,3.0,0.5,0,0,5,0,5,5,home_win,1,0,0,,,,0
+1962 FIFA Men's World Cup,1962-06-07,group stage,0,0,Group 2,Italy,Switzerland,ITA,CHE,1552.88,1477.58,75.30000000000018,1.2,1.8,0.8,2.2,3.0,0.6,0,0,3,0,3,3,home_win,1,0,0,,,,0
+1962 FIFA Men's World Cup,1962-06-07,group stage,0,0,Group 3,Mexico,Czechoslovakia,MEX,CSK,1362.02,1510.55,-148.52999999999997,0.2,2.2,0.2,2.0,1.0,1.6,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1962 FIFA Men's World Cup,1962-06-07,group stage,0,0,Group 4,England,Bulgaria,ENG,BGR,1487.9,1474.7,13.200000000000044,1.2,1.2,1.0,0.5,3.5,0.0,0,0,0,0,0,0,draw,0,0,1,,,,0
+1962 FIFA Men's World Cup,1962-06-10,quarter-finals,2,1,not applicable,Brazil,England,BRA,ENG,1632.49,1487.29,145.20000000000005,2.8,1.0,2.6,1.2,1.2,1.0,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1962 FIFA Men's World Cup,1962-06-10,quarter-finals,2,1,not applicable,Chile,Soviet Union,CHL,SUN,1517.64,1537.85,-20.20999999999981,2.0,1.4,1.8,1.8,1.4,2.0,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1962 FIFA Men's World Cup,1962-06-10,quarter-finals,2,1,not applicable,Czechoslovakia,Hungary,CSK,HUN,1488.1,1572.33,-84.23000000000002,1.8,1.2,1.4,2.6,0.8,2.0,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1962 FIFA Men's World Cup,1962-06-10,quarter-finals,2,1,not applicable,Yugoslavia,West Germany,YUG,DEU,1535.97,1532.33,3.6400000000001,2.2,1.4,1.4,1.6,2.0,1.4,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1962 FIFA Men's World Cup,1962-06-13,semi-finals,3,1,not applicable,Czechoslovakia,Yugoslavia,CSK,YUG,1507.9,1551.8,-43.89999999999986,0.8,1.0,1.4,1.8,0.8,1.8,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1962 FIFA Men's World Cup,1962-06-13,semi-finals,3,1,not applicable,Brazil,Chile,BRA,CHL,1642.17,1534.57,107.60000000000014,2.4,0.8,2.6,2.4,1.2,2.4,0,0,4,2,6,2,home_win,1,0,0,,,,0
+1962 FIFA Men's World Cup,1962-06-16,third-place match,0,1,not applicable,Chile,Yugoslavia,CHL,YUG,1523.37,1533.79,-10.420000000000073,1.8,1.6,1.8,2.0,1.2,1.8,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1962 FIFA Men's World Cup,1962-06-17,final,4,1,not applicable,Brazil,Czechoslovakia,BRA,CSK,1653.37,1525.91,127.4599999999998,2.2,0.8,2.6,1.2,0.8,2.0,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1966 FIFA Men's World Cup,1966-07-11,group stage,0,0,Group 1,England,Uruguay,ENG,URY,1477.61,1568.82,-91.21000000000004,1.0,1.4,0.8,1.4,2.6,0.6,0,0,0,0,0,0,draw,0,0,1,,,,0
+1966 FIFA Men's World Cup,1966-07-12,group stage,0,0,Group 2,West Germany,Switzerland,DEU,CHE,1516.5,1464.99,51.50999999999999,1.4,1.6,1.4,2.2,3.2,0.6,0,0,5,0,5,5,home_win,1,0,0,,,,0
+1966 FIFA Men's World Cup,1966-07-12,group stage,0,0,Group 3,Brazil,Bulgaria,BRA,BGR,1663.75,1475.31,188.44000000000003,2.4,1.0,2.6,0.33,2.33,0.33,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1966 FIFA Men's World Cup,1966-07-12,group stage,0,0,Group 4,Soviet Union,North Korea,SUN,PRK,1520.92,1500.0,20.920000000000076,1.8,1.8,1.4,0.0,0.0,0.0,0,0,3,0,3,3,home_win,1,0,0,,,,0
+1966 FIFA Men's World Cup,1966-07-13,group stage,0,0,Group 2,Argentina,Spain,ARG,ESP,1566.7,1496.05,70.65000000000009,1.2,2.0,1.4,0.8,2.4,0.6,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1966 FIFA Men's World Cup,1966-07-13,group stage,0,0,Group 1,France,Mexico,FRA,MEX,1512.08,1384.47,127.6099999999999,3.2,2.4,1.8,0.8,1.8,0.8,0,0,1,1,2,0,draw,0,0,1,,,,0
+1966 FIFA Men's World Cup,1966-07-13,group stage,0,0,Group 3,Portugal,Hungary,PRT,HUN,1500.0,1552.53,-52.52999999999997,0.0,0.0,0.0,1.8,1.0,1.4,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1966 FIFA Men's World Cup,1966-07-13,group stage,0,0,Group 4,Italy,Chile,ITA,CHL,1565.47,1539.85,25.62000000000012,1.6,1.4,1.4,1.4,1.4,1.8,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1966 FIFA Men's World Cup,1966-07-15,group stage,0,0,Group 1,Uruguay,France,URY,FRA,1564.71,1506.45,58.25999999999999,1.0,1.8,0.8,3.0,2.0,2.0,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1966 FIFA Men's World Cup,1966-07-15,group stage,0,0,Group 2,Spain,Switzerland,ESP,CHE,1483.26,1451.34,31.920000000000076,0.8,1.6,0.6,1.4,4.0,0.0,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1966 FIFA Men's World Cup,1966-07-15,group stage,0,0,Group 3,Hungary,Brazil,HUN,BRA,1534.13,1671.83,-137.69999999999982,1.8,1.2,1.4,2.8,1.0,3.0,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1966 FIFA Men's World Cup,1966-07-15,group stage,0,0,Group 4,Chile,North Korea,CHL,PRK,1525.03,1484.96,40.069999999999936,1.0,1.8,1.2,0.0,3.0,0.0,0,0,1,1,2,0,draw,0,0,1,,,,0
+1966 FIFA Men's World Cup,1966-07-16,group stage,0,0,Group 1,England,Mexico,ENG,MEX,1481.72,1390.1,91.62000000000012,1.0,1.2,1.0,0.8,1.8,0.8,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1966 FIFA Men's World Cup,1966-07-16,group stage,0,0,Group 4,Soviet Union,Italy,SUN,ITA,1535.96,1580.29,-44.32999999999993,2.4,1.4,2.0,1.2,1.2,1.4,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1966 FIFA Men's World Cup,1966-07-16,group stage,0,0,Group 3,Portugal,Bulgaria,PRT,BGR,1518.4,1467.23,51.17000000000007,3.0,1.0,3.0,0.25,2.25,0.25,0,0,3,0,3,3,home_win,1,0,0,,,,0
+1966 FIFA Men's World Cup,1966-07-16,group stage,0,0,Group 2,Argentina,West Germany,ARG,DEU,1579.49,1530.15,49.33999999999992,1.0,2.0,1.4,1.8,0.4,2.0,0,0,0,0,0,0,draw,0,0,1,,,,0
+1966 FIFA Men's World Cup,1966-07-19,group stage,0,0,Group 1,Mexico,Uruguay,MEX,URY,1378.22,1578.05,-199.82999999999996,0.8,1.4,0.8,1.2,1.4,1.4,0,0,0,0,0,0,draw,0,0,1,,,,0
+1966 FIFA Men's World Cup,1966-07-19,group stage,0,0,Group 2,Argentina,Switzerland,ARG,CHE,1577.23,1436.81,140.42000000000007,0.8,0.8,1.6,0.6,3.0,0.0,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1966 FIFA Men's World Cup,1966-07-19,group stage,0,0,Group 3,Portugal,Brazil,PRT,BRA,1532.06,1649.8,-117.74,3.0,0.5,3.0,2.6,1.4,2.4,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1966 FIFA Men's World Cup,1966-07-19,group stage,0,0,Group 4,North Korea,Italy,PRK,ITA,1486.8,1562.26,-75.46000000000004,0.5,2.0,0.5,1.0,0.6,1.4,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1966 FIFA Men's World Cup,1966-07-20,group stage,0,0,Group 1,England,France,ENG,FRA,1493.6,1493.11,0.4900000000000091,1.2,0.8,1.6,2.8,2.2,1.4,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1966 FIFA Men's World Cup,1966-07-20,group stage,0,0,Group 2,West Germany,Spain,DEU,ESP,1532.41,1497.79,34.62000000000012,1.8,0.4,2.0,1.0,1.2,1.2,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1966 FIFA Men's World Cup,1966-07-20,group stage,0,0,Group 3,Hungary,Bulgaria,HUN,BGR,1556.16,1453.57,102.59000000000016,2.0,1.2,1.4,0.2,2.4,0.2,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1966 FIFA Men's World Cup,1966-07-20,group stage,0,0,Group 4,Soviet Union,Chile,SUN,CHL,1553.99,1523.19,30.799999999999955,2.2,1.4,2.0,1.2,1.6,1.4,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1966 FIFA Men's World Cup,1966-07-23,quarter-finals,2,1,not applicable,England,Argentina,ENG,ARG,1509.58,1587.09,-77.50999999999999,1.0,0.6,1.6,1.0,0.8,1.6,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1966 FIFA Men's World Cup,1966-07-23,quarter-finals,2,1,not applicable,Portugal,North Korea,PRT,PRK,1553.28,1506.22,47.059999999999945,3.0,0.67,3.0,0.67,1.33,1.33,0,0,5,3,8,2,home_win,1,0,0,,,,0
+1966 FIFA Men's World Cup,1966-07-23,quarter-finals,2,1,not applicable,Soviet Union,Hungary,SUN,HUN,1568.58,1567.57,1.009999999999991,1.8,0.8,2.4,1.4,1.2,1.4,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1966 FIFA Men's World Cup,1966-07-23,quarter-finals,2,1,not applicable,West Germany,Uruguay,DEU,URY,1546.82,1569.74,-22.920000000000076,1.8,0.4,2.0,0.8,1.2,1.0,0,0,4,0,4,4,home_win,1,0,0,,,,0
+1966 FIFA Men's World Cup,1966-07-25,semi-finals,3,1,not applicable,West Germany,Soviet Union,DEU,SUN,1563.87,1584.53,-20.66000000000008,2.2,0.4,2.0,1.8,0.8,2.4,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1966 FIFA Men's World Cup,1966-07-26,semi-finals,3,1,not applicable,England,Portugal,ENG,PRT,1529.09,1567.13,-38.04000000000019,1.2,0.6,2.0,3.5,1.25,3.0,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1966 FIFA Men's World Cup,1966-07-28,third-place match,0,1,not applicable,Portugal,Soviet Union,PRT,SUN,1549.39,1567.58,-18.189999999999827,3.0,1.4,2.4,1.8,0.8,2.4,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1966 FIFA Men's World Cup,1966-07-30,final,4,1,not applicable,England,West Germany,ENG,DEU,1546.83,1580.82,-33.99000000000001,1.4,0.2,2.6,2.6,0.4,2.6,1,0,4,2,6,2,home_win,1,0,0,,,,0
+1970 FIFA Men's World Cup,1970-05-31,group stage,0,0,Group 1,Mexico,Soviet Union,MEX,SUN,1386.53,1550.74,-164.21000000000004,0.8,1.0,1.0,1.4,1.2,1.8,0,0,0,0,0,0,draw,0,0,1,,,,0
+1970 FIFA Men's World Cup,1970-06-02,group stage,0,0,Group 2,Uruguay,Israel,URY,ISR,1552.69,1500.0,52.690000000000055,0.6,1.4,1.0,0.0,0.0,0.0,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1970 FIFA Men's World Cup,1970-06-02,group stage,0,0,Group 3,England,Romania,ENG,ROU,1564.39,1469.38,95.01,2.2,0.6,3.0,1.6,2.4,0.8,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1970 FIFA Men's World Cup,1970-06-02,group stage,0,0,Group 4,Peru,Bulgaria,PER,BGR,1468.74,1442.16,26.579999999999927,0.5,2.0,0.0,0.4,2.8,0.2,0,0,3,2,5,1,home_win,1,0,0,,,,0
+1970 FIFA Men's World Cup,1970-06-03,group stage,0,0,Group 1,Belgium,El Salvador,BEL,SLV,1430.64,1500.0,-69.3599999999999,1.6,3.4,0.2,0.0,0.0,0.0,0,0,3,0,3,3,home_win,1,0,0,,,,0
+1970 FIFA Men's World Cup,1970-06-03,group stage,0,0,Group 2,Italy,Sweden,ITA,SWE,1542.84,1546.03,-3.1900000000000546,1.0,0.8,1.2,1.8,1.4,2.0,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1970 FIFA Men's World Cup,1970-06-03,group stage,0,0,Group 3,Brazil,Czechoslovakia,BRA,CSK,1628.58,1515.53,113.04999999999995,2.2,1.8,1.8,1.2,1.4,1.4,0,0,4,1,5,3,home_win,1,0,0,,,,0
+1970 FIFA Men's World Cup,1970-06-03,group stage,0,0,Group 4,West Germany,Morocco,DEU,MAR,1563.26,1500.0,63.25999999999999,2.0,1.2,2.0,0.0,0.0,0.0,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1970 FIFA Men's World Cup,1970-06-06,group stage,0,0,Group 1,Soviet Union,Belgium,SUN,BEL,1543.69,1449.79,93.90000000000008,1.2,1.2,1.4,2.2,3.2,0.8,0,0,4,1,5,3,home_win,1,0,0,,,,0
+1970 FIFA Men's World Cup,1970-06-06,group stage,0,0,Group 2,Uruguay,Italy,URY,ITA,1566.28,1558.99,7.289999999999964,0.8,1.0,1.6,1.2,0.4,1.8,0,0,0,0,0,0,draw,0,0,1,,,,0
+1970 FIFA Men's World Cup,1970-06-06,group stage,0,0,Group 3,Romania,Czechoslovakia,ROU,CSK,1457.65,1504.56,-46.909999999999854,1.0,2.4,0.2,1.4,2.2,1.2,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1970 FIFA Men's World Cup,1970-06-06,group stage,0,0,Group 4,Peru,Morocco,PER,MAR,1483.52,1486.88,-3.3600000000001278,1.33,2.0,1.0,1.0,2.0,0.0,0,0,3,0,3,3,home_win,1,0,0,,,,0
+1970 FIFA Men's World Cup,1970-06-07,group stage,0,0,Group 4,West Germany,Bulgaria,DEU,BGR,1576.38,1427.38,149.0,2.4,1.4,2.4,0.6,2.2,0.2,0,0,5,2,7,3,home_win,1,0,0,,,,0
+1970 FIFA Men's World Cup,1970-06-07,group stage,0,0,Group 3,Brazil,England,BRA,ENG,1639.55,1576.12,63.430000000000064,2.2,1.6,1.8,2.0,0.6,3.0,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1970 FIFA Men's World Cup,1970-06-07,group stage,0,0,Group 1,Mexico,El Salvador,MEX,SLV,1393.58,1480.85,-87.26999999999998,0.8,0.8,1.2,0.0,3.0,0.0,0,0,4,0,4,4,home_win,1,0,0,,,,0
+1970 FIFA Men's World Cup,1970-06-07,group stage,0,0,Group 2,Sweden,Israel,SWE,ISR,1529.88,1486.41,43.47000000000003,1.4,1.4,1.4,0.0,2.0,0.0,0,0,1,1,2,0,draw,0,0,1,,,,0
+1970 FIFA Men's World Cup,1970-06-10,group stage,0,0,Group 1,Soviet Union,El Salvador,SUN,SLV,1555.47,1460.91,94.55999999999996,1.6,1.2,1.4,0.0,3.5,0.0,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1970 FIFA Men's World Cup,1970-06-10,group stage,0,0,Group 2,Sweden,Uruguay,SWE,URY,1527.89,1565.94,-38.04999999999996,1.6,1.6,1.4,0.8,1.0,1.6,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1970 FIFA Men's World Cup,1970-06-10,group stage,0,0,Group 3,Brazil,Romania,BRA,ROU,1652.66,1475.8,176.86000000000013,1.8,1.4,1.8,1.4,1.8,0.8,0,0,3,2,5,1,home_win,1,0,0,,,,0
+1970 FIFA Men's World Cup,1970-06-10,group stage,0,0,Group 4,West Germany,Peru,DEU,PER,1585.91,1499.67,86.24000000000001,3.0,1.6,2.4,1.75,1.5,1.5,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1970 FIFA Men's World Cup,1970-06-11,group stage,0,0,Group 1,Mexico,Belgium,MEX,BEL,1413.52,1438.01,-24.49000000000001,1.0,0.6,1.2,2.0,3.0,0.8,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1970 FIFA Men's World Cup,1970-06-11,group stage,0,0,Group 2,Italy,Israel,ITA,ISR,1559.33,1488.4,70.92999999999984,0.6,0.4,1.4,0.5,1.5,0.5,0,0,0,0,0,0,draw,0,0,1,,,,0
+1970 FIFA Men's World Cup,1970-06-11,group stage,0,0,Group 3,England,Czechoslovakia,ENG,CSK,1563.01,1486.41,76.59999999999991,1.6,0.8,2.4,1.4,2.0,1.2,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1970 FIFA Men's World Cup,1970-06-11,group stage,0,0,Group 4,Bulgaria,Morocco,BGR,MAR,1417.85,1470.73,-52.88000000000011,1.0,3.2,0.0,0.5,2.5,0.0,0,0,1,1,2,0,draw,0,0,1,,,,0
+1970 FIFA Men's World Cup,1970-06-14,quarter-finals,2,1,not applicable,West Germany,England,DEU,ENG,1598.02,1575.54,22.480000000000015,2.8,1.8,2.4,1.6,0.8,2.4,1,0,3,2,5,1,home_win,1,0,0,,,,0
+1970 FIFA Men's World Cup,1970-06-14,quarter-finals,2,1,not applicable,Brazil,Peru,BRA,PER,1661.15,1487.56,173.59000000000017,2.0,1.8,1.8,1.6,1.8,1.2,0,0,4,2,6,2,home_win,1,0,0,,,,0
+1970 FIFA Men's World Cup,1970-06-14,quarter-finals,2,1,not applicable,Italy,Mexico,ITA,MEX,1556.11,1430.65,125.4599999999998,0.2,0.4,1.0,1.0,0.4,1.6,0,0,4,1,5,3,home_win,1,0,0,,,,0
+1970 FIFA Men's World Cup,1970-06-14,quarter-finals,2,1,not applicable,Soviet Union,Uruguay,SUN,URY,1567.22,1548.19,19.029999999999973,1.6,1.0,1.4,0.4,1.0,1.0,1,0,0,1,1,-1,away_win,0,1,0,,,,0
+1970 FIFA Men's World Cup,1970-06-17,semi-finals,3,1,not applicable,Italy,West Germany,ITA,DEU,1566.57,1612.99,-46.42000000000007,1.0,0.4,1.6,3.0,2.0,2.4,1,0,4,3,7,1,home_win,1,0,0,,,,0
+1970 FIFA Men's World Cup,1970-06-17,semi-finals,3,1,not applicable,Brazil,Uruguay,BRA,URY,1669.76,1550.34,119.42000000000009,2.6,1.6,2.4,0.6,1.0,1.4,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1970 FIFA Men's World Cup,1970-06-20,third-place match,0,1,not applicable,West Germany,Uruguay,DEU,URY,1594.86,1539.63,55.22999999999979,3.2,2.0,2.4,0.8,0.8,1.4,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1970 FIFA Men's World Cup,1970-06-21,final,4,1,not applicable,Brazil,Italy,BRA,ITA,1680.47,1584.7,95.76999999999998,3.0,1.2,3.0,1.8,0.8,2.2,0,0,4,1,5,3,home_win,1,0,0,,,,0
+1974 FIFA Men's World Cup,1974-06-13,group stage,0,0,Group 2,Brazil,Yugoslavia,BRA,YUG,1692.17,1517.31,174.86000000000013,3.0,1.2,3.0,2.0,1.0,1.8,0,0,0,0,0,0,draw,0,0,1,,,,0
+1974 FIFA Men's World Cup,1974-06-14,group stage,0,0,Group 1,West Germany,Chile,DEU,CHL,1608.34,1508.6,99.74,3.0,1.8,2.4,1.0,1.8,0.8,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1974 FIFA Men's World Cup,1974-06-14,group stage,0,0,Group 1,East Germany,Australia,DDR,AUS,1500.0,1500.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1974 FIFA Men's World Cup,1974-06-14,group stage,0,0,Group 2,Zaire,Scotland,COD,SCO,1500.0,1444.56,55.440000000000055,0.0,0.0,0.0,0.8,2.8,0.2,0,0,0,2,2,-2,away_win,0,1,0,,,,0
+1974 FIFA Men's World Cup,1974-06-15,group stage,0,0,Group 3,Sweden,Bulgaria,SWE,BGR,1545.64,1420.27,125.37000000000012,1.4,1.6,1.4,1.2,3.0,0.2,0,0,0,0,0,0,draw,0,0,1,,,,0
+1974 FIFA Men's World Cup,1974-06-15,group stage,0,0,Group 3,Uruguay,Netherlands,URY,NLD,1526.15,1470.2,55.950000000000045,0.4,1.0,0.8,1.0,3.0,0.0,0,0,0,2,2,-2,away_win,0,1,0,,,,0
+1974 FIFA Men's World Cup,1974-06-15,group stage,0,0,Group 4,Italy,Haiti,ITA,HTI,1573.0,1500.0,73.0,1.8,1.6,1.6,0.0,0.0,0.0,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1974 FIFA Men's World Cup,1974-06-15,group stage,0,0,Group 4,Poland,Argentina,POL,ARG,1483.27,1567.58,-84.30999999999995,5.0,6.0,0.0,0.8,0.4,1.6,0,0,3,2,5,1,home_win,1,0,0,,,,0
+1974 FIFA Men's World Cup,1974-06-18,group stage,0,0,Group 2,Yugoslavia,Zaire,YUG,COD,1524.75,1463.09,61.66000000000008,1.4,0.8,1.4,0.0,2.0,0.0,0,0,9,0,9,9,home_win,1,0,0,,,,0
+1974 FIFA Men's World Cup,1974-06-18,group stage,0,0,Group 2,Scotland,Brazil,SCO,BRA,1481.47,1684.73,-203.26,1.2,2.6,0.8,2.8,1.2,2.6,0,0,0,0,0,0,draw,0,0,1,,,,0
+1974 FIFA Men's World Cup,1974-06-18,group stage,0,0,Group 1,Australia,West Germany,AUS,DEU,1484.0,1619.87,-135.8699999999999,0.0,2.0,0.0,2.2,1.4,2.4,0,0,0,3,3,-3,away_win,0,1,0,,,,0
+1974 FIFA Men's World Cup,1974-06-18,group stage,0,0,Group 1,Chile,East Germany,CHL,DDR,1497.07,1516.0,-18.930000000000064,0.6,1.2,0.8,2.0,0.0,3.0,0,0,1,1,2,0,draw,0,0,1,,,,0
+1974 FIFA Men's World Cup,1974-06-19,group stage,0,0,Group 3,Bulgaria,Uruguay,BGR,URY,1425.81,1488.75,-62.940000000000055,1.2,2.4,0.4,0.4,1.4,0.6,0,0,1,1,2,0,draw,0,0,1,,,,0
+1974 FIFA Men's World Cup,1974-06-19,group stage,0,0,Group 3,Netherlands,Sweden,NLD,SWE,1507.6,1540.1,-32.5,1.33,2.0,1.0,0.8,1.4,1.0,0,0,0,0,0,0,draw,0,0,1,,,,0
+1974 FIFA Men's World Cup,1974-06-19,group stage,0,0,Group 4,Argentina,Italy,ARG,ITA,1547.77,1585.69,-37.92000000000007,1.2,1.0,1.4,2.4,1.8,2.0,0,0,1,1,2,0,draw,0,0,1,,,,0
+1974 FIFA Men's World Cup,1974-06-19,group stage,0,0,Group 4,Haiti,Poland,HTI,POL,1487.31,1503.08,-15.769999999999982,1.0,3.0,0.0,4.0,4.0,1.5,0,0,0,7,7,-7,away_win,0,1,0,,,,0
+1974 FIFA Men's World Cup,1974-06-22,group stage,0,0,Group 1,Australia,Chile,AUS,CHL,1629.91,1497.94,131.97000000000003,0.0,2.5,0.0,0.6,1.4,0.4,0,0,0,0,0,0,draw,0,0,1,,,,0
+1974 FIFA Men's World Cup,1974-06-22,group stage,0,0,Group 2,Scotland,Yugoslavia,SCO,YUG,1489.89,1537.94,-48.04999999999996,1.2,1.2,1.0,2.2,0.8,1.4,0,0,1,1,2,0,draw,0,0,1,,,,0
+1974 FIFA Men's World Cup,1974-06-22,group stage,0,0,Group 2,Zaire,Brazil,COD,BRA,1449.9,1676.31,-226.40999999999983,0.0,5.5,0.0,2.2,0.8,2.2,0,0,0,3,3,-3,away_win,0,1,0,,,,0
+1974 FIFA Men's World Cup,1974-06-22,group stage,0,0,Group 1,East Germany,West Germany,DDR,DEU,1515.13,1473.96,41.17000000000007,1.5,0.5,2.0,2.2,1.2,2.4,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1974 FIFA Men's World Cup,1974-06-23,group stage,0,0,Group 3,Bulgaria,Netherlands,BGR,NLD,1428.68,1509.09,-80.40999999999985,1.2,2.0,0.6,1.0,1.5,1.0,0,0,1,4,5,-3,away_win,0,1,0,,,,0
+1974 FIFA Men's World Cup,1974-06-23,group stage,0,0,Group 3,Sweden,Uruguay,SWE,URY,1538.61,1485.88,52.72999999999979,0.4,0.4,1.2,0.6,1.4,0.8,0,0,3,0,3,3,home_win,1,0,0,,,,0
+1974 FIFA Men's World Cup,1974-06-23,group stage,0,0,Group 4,Argentina,Haiti,ARG,HTI,1549.51,1518.35,31.16000000000008,1.0,1.0,1.0,0.5,5.0,0.0,0,0,4,1,5,3,home_win,1,0,0,,,,0
+1974 FIFA Men's World Cup,1974-06-23,group stage,0,0,Group 4,Poland,Italy,POL,ITA,1472.04,1583.95,-111.91000000000008,5.0,2.67,2.0,2.6,2.0,2.0,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1974 FIFA Men's World Cup,1974-06-26,second group stage,0,0,Group B,Sweden,Poland,SWE,POL,1552.2,1493.02,59.180000000000064,1.0,0.2,1.8,4.25,2.25,2.25,0,0,0,1,1,-1,away_win,0,1,0,,,,0
+1974 FIFA Men's World Cup,1974-06-26,second group stage,0,0,Group A,Netherlands,Argentina,NLD,ARG,1416.32,1564.08,-147.76,1.6,1.4,1.4,1.8,1.2,1.4,0,0,4,0,4,4,home_win,1,0,0,,,,0
+1974 FIFA Men's World Cup,1974-06-26,second group stage,0,0,Group B,Yugoslavia,West Germany,YUG,DEU,1535.74,1459.85,75.8900000000001,2.2,1.0,1.0,1.6,1.0,1.8,0,0,0,2,2,-2,away_win,0,1,0,,,,0
+1974 FIFA Men's World Cup,1974-06-26,second group stage,0,0,Group A,Brazil,East Germany,BRA,DDR,1443.06,1529.24,-86.18000000000006,2.0,0.4,2.2,1.33,0.33,2.33,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1974 FIFA Men's World Cup,1974-06-30,second group stage,0,0,Group A,Argentina,Brazil,ARG,BRA,1541.66,1462.95,78.71000000000004,1.4,2.0,0.8,1.6,0.2,2.2,0,0,1,2,3,-1,away_win,0,1,0,,,,0
+1974 FIFA Men's World Cup,1974-06-30,second group stage,0,0,Group A,East Germany,Netherlands,DDR,NLD,1509.35,1438.74,70.6099999999999,1.0,0.5,1.75,2.0,0.8,2.0,0,0,0,2,2,-2,away_win,0,1,0,,,,0
+1974 FIFA Men's World Cup,1974-06-30,second group stage,0,0,Group B,Poland,Yugoslavia,POL,YUG,1533.5,1479.29,54.21000000000004,3.6,1.8,2.4,2.0,0.8,1.0,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1974 FIFA Men's World Cup,1974-06-30,second group stage,0,0,Group B,West Germany,Sweden,DEU,SWE,1516.3,1511.72,4.579999999999927,1.4,0.2,2.4,0.8,0.2,1.6,0,0,4,2,6,2,home_win,1,0,0,,,,0
+1974 FIFA Men's World Cup,1974-07-03,second group stage,0,0,Group B,Poland,West Germany,POL,DEU,1547.02,1532.09,14.930000000000064,3.0,0.8,3.0,2.0,0.6,2.4,0,0,0,1,1,-1,away_win,0,1,0,,,,0
+1974 FIFA Men's World Cup,1974-07-03,second group stage,0,0,Group A,Argentina,East Germany,ARG,DDR,1482.51,1457.95,24.559999999999945,1.6,2.2,0.8,0.8,0.8,1.4,0,0,1,1,2,0,draw,0,0,1,,,,0
+1974 FIFA Men's World Cup,1974-07-03,second group stage,0,0,Group A,Netherlands,Brazil,NLD,BRA,1490.14,1522.1,-31.95999999999981,2.4,0.2,2.6,1.2,0.2,2.2,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1974 FIFA Men's World Cup,1974-07-03,second group stage,0,0,Group B,Sweden,Yugoslavia,SWE,YUG,1495.93,1465.77,30.16000000000008,1.0,1.0,1.0,2.2,1.0,1.0,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1974 FIFA Men's World Cup,1974-07-06,third-place match,0,1,not applicable,Brazil,Poland,BRA,POL,1504.63,1548.78,-44.14999999999986,1.2,0.6,2.0,2.4,0.6,2.4,0,0,0,1,1,-1,away_win,0,1,0,,,,0
+1974 FIFA Men's World Cup,1974-07-07,final,4,1,not applicable,Netherlands,West Germany,NLD,DEU,1507.61,1530.33,-22.720000000000027,2.4,0.2,2.6,2.0,0.6,2.4,0,0,1,2,3,-1,away_win,0,1,0,,,,0
+1978 FIFA Men's World Cup,1978-06-01,group stage,0,0,Group 2,West Germany,Poland,DEU,POL,1492.65,1490.65,2.0,1.8,0.8,2.4,1.2,0.6,2.4,0,0,0,0,0,0,draw,0,0,1,,,,0
+1978 FIFA Men's World Cup,1978-06-02,group stage,0,0,Group 1,Italy,France,ITA,FRA,1562.97,1477.13,85.83999999999992,2.0,2.2,1.4,2.0,2.6,0.8,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1978 FIFA Men's World Cup,1978-06-02,group stage,0,0,Group 2,Tunisia,Mexico,TUN,MEX,1500.0,1420.19,79.80999999999995,0.0,0.0,0.0,1.2,0.8,1.6,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1978 FIFA Men's World Cup,1978-06-02,group stage,0,0,Group 1,Argentina,Hungary,ARG,HUN,1481.38,1551.62,-70.23999999999978,1.4,1.8,1.0,1.6,1.6,1.2,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1978 FIFA Men's World Cup,1978-06-03,group stage,0,0,Group 3,Austria,Spain,AUT,ESP,1515.91,1483.38,32.52999999999997,1.2,2.8,0.8,1.2,1.4,1.2,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1978 FIFA Men's World Cup,1978-06-03,group stage,0,0,Group 3,Brazil,Sweden,BRA,SWE,1562.76,1510.54,52.22000000000003,1.2,0.8,1.8,1.4,1.2,1.4,0,0,1,1,2,0,draw,0,0,1,,,,0
+1978 FIFA Men's World Cup,1978-06-03,group stage,0,0,Group 4,Netherlands,Iran,NLD,IRN,1545.29,1500.0,45.28999999999997,2.6,0.6,2.4,0.0,0.0,0.0,0,0,3,0,3,3,home_win,1,0,0,,,,0
+1978 FIFA Men's World Cup,1978-06-03,group stage,0,0,Group 4,Peru,Scotland,PER,SCO,1478.95,1492.09,-13.139999999999873,1.8,2.0,1.2,1.2,1.2,1.0,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1978 FIFA Men's World Cup,1978-06-06,group stage,0,0,Group 1,Italy,Hungary,ITA,HUN,1575.1,1532.43,42.669999999999845,1.6,1.8,1.4,1.8,1.8,1.2,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1978 FIFA Men's World Cup,1978-06-06,group stage,0,0,Group 2,Poland,Tunisia,POL,TUN,1490.74,1512.39,-21.65000000000009,0.8,0.4,2.0,3.0,1.0,3.0,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1978 FIFA Men's World Cup,1978-06-06,group stage,0,0,Group 2,West Germany,Mexico,DEU,MEX,1492.56,1407.8,84.75999999999999,1.8,0.6,2.6,1.4,1.4,1.4,0,0,6,0,6,6,home_win,1,0,0,,,,0
+1978 FIFA Men's World Cup,1978-06-06,group stage,0,0,Group 1,Argentina,France,ARG,FRA,1500.57,1465.0,35.569999999999936,1.6,1.8,1.4,1.8,2.0,0.8,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1978 FIFA Men's World Cup,1978-06-07,group stage,0,0,Group 4,Scotland,Iran,SCO,IRN,1475.49,1486.07,-10.579999999999927,1.0,1.2,1.0,0.0,3.0,0.0,0,0,1,1,2,0,draw,0,0,1,,,,0
+1978 FIFA Men's World Cup,1978-06-07,group stage,0,0,Group 4,Netherlands,Peru,NLD,PER,1559.22,1495.55,63.67000000000007,2.4,0.4,2.4,2.4,2.0,1.8,0,0,0,0,0,0,draw,0,0,1,,,,0
+1978 FIFA Men's World Cup,1978-06-07,group stage,0,0,Group 3,Austria,Sweden,AUT,SWE,1530.42,1512.93,17.49000000000001,1.4,1.8,1.4,1.6,1.4,1.4,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1978 FIFA Men's World Cup,1978-06-07,group stage,0,0,Group 3,Brazil,Spain,BRA,ESP,1560.37,1468.87,91.5,0.8,1.0,1.4,1.2,1.8,0.6,0,0,0,0,0,0,draw,0,0,1,,,,0
+1978 FIFA Men's World Cup,1978-06-10,group stage,0,0,Group 1,France,Hungary,FRA,HUN,1450.63,1518.39,-67.75999999999999,0.8,1.8,0.2,1.8,1.8,1.2,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1978 FIFA Men's World Cup,1978-06-10,group stage,0,0,Group 2,Poland,Mexico,POL,MEX,1507.74,1395.63,112.1099999999999,0.8,0.4,2.0,1.4,2.6,1.2,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1978 FIFA Men's World Cup,1978-06-10,group stage,0,0,Group 2,West Germany,Tunisia,DEU,TUN,1504.73,1495.39,9.339999999999918,2.6,0.6,2.6,1.5,1.0,1.5,0,0,0,0,0,0,draw,0,0,1,,,,0
+1978 FIFA Men's World Cup,1978-06-10,group stage,0,0,Group 1,Argentina,Italy,ARG,ITA,1514.94,1589.14,-74.20000000000005,1.2,1.8,1.4,2.0,1.2,2.0,0,0,0,1,1,-1,away_win,0,1,0,,,,0
+1978 FIFA Men's World Cup,1978-06-11,group stage,0,0,Group 3,Brazil,Austria,BRA,AUT,1556.25,1545.62,10.63000000000011,0.6,1.0,1.0,1.0,1.6,1.4,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1978 FIFA Men's World Cup,1978-06-11,group stage,0,0,Group 3,Spain,Sweden,ESP,SWE,1472.99,1497.73,-24.74000000000001,1.0,1.4,0.8,1.0,1.6,0.8,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1978 FIFA Men's World Cup,1978-06-11,group stage,0,0,Group 4,Peru,Iran,PER,IRN,1498.45,1485.58,12.870000000000118,1.8,1.6,1.4,0.5,2.0,0.5,0,0,4,1,5,3,home_win,1,0,0,,,,0
+1978 FIFA Men's World Cup,1978-06-11,group stage,0,0,Group 4,Scotland,Netherlands,SCO,NLD,1475.98,1556.32,-80.33999999999992,1.0,1.0,1.2,1.6,0.4,2.0,0,0,3,2,5,1,home_win,1,0,0,,,,0
+1978 FIFA Men's World Cup,1978-06-14,second group stage,0,0,Group B,Argentina,Poland,ARG,POL,1601.77,1518.75,83.01999999999998,1.2,1.2,1.4,1.0,0.4,2.0,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1978 FIFA Men's World Cup,1978-06-14,second group stage,0,0,Group A,Austria,Netherlands,AUT,NLD,1530.11,1536.68,-6.570000000000164,1.0,1.2,1.4,1.6,1.0,1.4,0,0,1,5,6,-4,away_win,0,1,0,,,,0
+1978 FIFA Men's World Cup,1978-06-14,second group stage,0,0,Group A,Italy,West Germany,ITA,DEU,1502.31,1504.3,-1.990000000000009,1.6,1.0,2.0,1.8,0.2,2.2,0,0,0,0,0,0,draw,0,0,1,,,,0
+1978 FIFA Men's World Cup,1978-06-14,second group stage,0,0,Group B,Brazil,Peru,BRA,PER,1571.76,1513.86,57.90000000000009,0.4,0.8,1.0,2.0,1.8,1.4,0,0,3,0,3,3,home_win,1,0,0,,,,0
+1978 FIFA Men's World Cup,1978-06-18,second group stage,0,0,Group A,Netherlands,West Germany,NLD,DEU,1514.41,1504.21,10.200000000000044,2.2,1.2,1.4,1.6,0.2,1.8,0,0,2,2,4,0,draw,0,0,1,,,,0
+1978 FIFA Men's World Cup,1978-06-18,second group stage,0,0,Group B,Argentina,Brazil,ARG,BRA,1614.02,1585.12,28.90000000000009,1.4,0.8,2.0,1.0,0.4,1.6,0,0,0,0,0,0,draw,0,0,1,,,,0
+1978 FIFA Men's World Cup,1978-06-18,second group stage,0,0,Group B,Peru,Poland,PER,POL,1500.5,1506.5,-6.0,1.8,1.8,1.4,1.0,0.6,2.0,0,0,0,1,1,-1,away_win,0,1,0,,,,0
+1978 FIFA Men's World Cup,1978-06-18,second group stage,0,0,Group A,Italy,Austria,ITA,AUT,1502.4,1552.38,-49.98000000000002,1.4,0.8,2.0,1.2,1.8,1.4,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1978 FIFA Men's World Cup,1978-06-21,second group stage,0,0,Group A,Austria,West Germany,AUT,DEU,1534.09,1504.68,29.40999999999985,0.8,1.6,1.2,1.6,0.4,1.4,0,0,3,2,5,1,home_win,1,0,0,,,,0
+1978 FIFA Men's World Cup,1978-06-21,second group stage,0,0,Group A,Italy,Netherlands,ITA,NLD,1520.69,1513.94,6.75,1.4,0.4,2.6,2.4,1.2,1.6,0,0,1,2,3,-1,away_win,0,1,0,,,,0
+1978 FIFA Men's World Cup,1978-06-21,second group stage,0,0,Group B,Brazil,Poland,BRA,POL,1586.45,1484.78,101.67000000000009,1.0,0.2,1.8,1.0,0.6,2.0,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1978 FIFA Men's World Cup,1978-06-21,second group stage,0,0,Group B,Argentina,Peru,ARG,PER,1612.69,1522.22,90.47000000000004,1.2,0.6,2.0,1.4,1.2,1.4,0,0,6,0,6,6,home_win,1,0,0,,,,0
+1978 FIFA Men's World Cup,1978-06-24,third-place match,0,1,not applicable,Brazil,Italy,BRA,ITA,1597.9,1530.25,67.65000000000009,1.4,0.2,2.2,1.2,0.6,2.0,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1978 FIFA Men's World Cup,1978-06-25,final,4,1,not applicable,Argentina,Netherlands,ARG,NLD,1624.62,1504.38,120.23999999999978,2.0,0.4,2.0,2.2,1.4,1.6,1,0,3,1,4,2,home_win,1,0,0,,,,0
+1982 FIFA Men's World Cup,1982-06-13,group stage,0,0,Group 3,Argentina,Belgium,ARG,BEL,1635.29,1420.88,214.40999999999983,2.2,0.4,2.0,1.8,2.6,0.8,0,0,0,1,1,-1,away_win,0,1,0,,,,0
+1982 FIFA Men's World Cup,1982-06-14,group stage,0,0,Group 1,Italy,Poland,ITA,POL,1517.33,1473.33,44.0,0.8,0.8,1.4,1.2,1.2,1.8,0,0,0,0,0,0,draw,0,0,1,,,,0
+1982 FIFA Men's World Cup,1982-06-14,group stage,0,0,Group 6,Brazil,Soviet Union,BRA,SUN,1610.82,1565.07,45.75,1.8,0.4,2.6,1.4,0.8,1.4,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1982 FIFA Men's World Cup,1982-06-15,group stage,0,0,Group 1,Peru,Cameroon,PER,CMR,1510.29,1500.0,10.289999999999964,0.8,2.2,0.8,0.0,0.0,0.0,0,0,0,0,0,0,draw,0,0,1,,,,0
+1982 FIFA Men's World Cup,1982-06-15,group stage,0,0,Group 3,Hungary,El Salvador,HUN,SLV,1499.31,1449.16,50.14999999999986,1.4,2.2,0.6,0.0,3.0,0.0,0,0,10,1,11,9,home_win,1,0,0,,,,0
+1982 FIFA Men's World Cup,1982-06-15,group stage,0,0,Group 6,Scotland,New Zealand,SCO,NZL,1495.62,1500.0,-4.380000000000109,1.2,1.4,1.2,0.0,0.0,0.0,0,0,5,2,7,3,home_win,1,0,0,,,,0
+1982 FIFA Men's World Cup,1982-06-16,group stage,0,0,Group 5,Spain,Honduras,ESP,HND,1490.13,1500.0,-9.86999999999989,1.0,1.0,1.4,0.0,0.0,0.0,0,0,1,1,2,0,draw,0,0,1,,,,0
+1982 FIFA Men's World Cup,1982-06-16,group stage,0,0,Group 4,England,France,ENG,FRA,1560.57,1469.71,90.8599999999999,1.6,1.2,1.8,1.2,1.8,0.6,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1982 FIFA Men's World Cup,1982-06-16,group stage,0,0,Group 2,West Germany,Algeria,DEU,DZA,1490.03,1500.0,-9.970000000000027,2.0,1.0,1.2,0.0,0.0,0.0,0,0,1,2,3,-1,away_win,0,1,0,,,,0
+1982 FIFA Men's World Cup,1982-06-17,group stage,0,0,Group 2,Chile,Austria,CHL,AUT,1503.74,1548.74,-45.0,0.6,1.0,0.6,1.0,1.8,1.2,0,0,0,1,1,-1,away_win,0,1,0,,,,0
+1982 FIFA Men's World Cup,1982-06-17,group stage,0,0,Group 4,Czechoslovakia,Kuwait,CSK,KWT,1473.88,1500.0,-26.11999999999989,1.2,2.2,0.6,0.0,0.0,0.0,0,0,1,1,2,0,draw,0,0,1,,,,0
+1982 FIFA Men's World Cup,1982-06-17,group stage,0,0,Group 5,Yugoslavia,Northern Ireland,YUG,NIR,1451.16,1502.03,-50.86999999999989,2.4,1.4,0.8,1.2,2.0,1.4,0,0,0,0,0,0,draw,0,0,1,,,,0
+1982 FIFA Men's World Cup,1982-06-18,group stage,0,0,Group 1,Italy,Peru,ITA,PER,1515.31,1509.82,5.490000000000009,0.6,0.8,1.0,0.8,2.2,0.8,0,0,1,1,2,0,draw,0,0,1,,,,0
+1982 FIFA Men's World Cup,1982-06-18,group stage,0,0,Group 3,Argentina,Hungary,ARG,HUN,1445.67,1513.02,-67.34999999999991,2.2,0.4,2.0,2.8,2.2,0.6,0,0,4,1,5,3,home_win,1,0,0,,,,0
+1982 FIFA Men's World Cup,1982-06-18,group stage,0,0,Group 6,Brazil,Scotland,BRA,SCO,1624.73,1511.82,112.91000000000008,2.0,0.6,2.6,2.2,1.8,1.6,0,0,4,1,5,3,home_win,1,0,0,,,,0
+1982 FIFA Men's World Cup,1982-06-19,group stage,0,0,Group 1,Poland,Cameroon,POL,CMR,1475.35,1500.47,-25.12000000000012,1.0,1.2,1.4,0.0,0.0,1.0,0,0,0,0,0,0,draw,0,0,1,,,,0
+1982 FIFA Men's World Cup,1982-06-19,group stage,0,0,Group 3,Belgium,El Salvador,BEL,SLV,1610.5,1435.45,175.04999999999995,1.2,1.8,1.2,0.25,4.75,0.0,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1982 FIFA Men's World Cup,1982-06-19,group stage,0,0,Group 6,Soviet Union,New Zealand,SUN,NZL,1551.16,1483.8,67.36000000000013,1.4,0.8,1.4,2.0,5.0,0.0,0,0,3,0,3,3,home_win,1,0,0,,,,0
+1982 FIFA Men's World Cup,1982-06-20,group stage,0,0,Group 5,Spain,Yugoslavia,ESP,YUG,1490.58,1453.49,37.08999999999992,0.8,1.0,1.0,0.6,1.4,0.4,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1982 FIFA Men's World Cup,1982-06-20,group stage,0,0,Group 2,West Germany,Chile,DEU,CHL,1515.54,1562.68,-47.1400000000001,1.0,1.4,0.6,0.4,1.0,0.4,0,0,4,1,5,3,home_win,1,0,0,,,,0
+1982 FIFA Men's World Cup,1982-06-20,group stage,0,0,Group 4,England,Czechoslovakia,ENG,CSK,1572.48,1475.08,97.40000000000008,1.4,1.0,1.8,0.8,2.2,0.2,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1982 FIFA Men's World Cup,1982-06-21,group stage,0,0,Group 5,Honduras,Northern Ireland,HND,NIR,1499.55,1499.7,-0.1500000000000909,1.0,1.0,1.0,1.0,2.0,1.0,0,0,1,1,2,0,draw,0,0,1,,,,0
+1982 FIFA Men's World Cup,1982-06-21,group stage,0,0,Group 4,France,Kuwait,FRA,KWT,1457.8,1498.8,-41.0,1.2,2.0,0.6,1.0,1.0,1.0,0,0,4,1,5,3,home_win,1,0,0,,,,0
+1982 FIFA Men's World Cup,1982-06-21,group stage,0,0,Group 2,Algeria,Austria,DZA,AUT,1474.49,1489.8,-15.309999999999944,2.0,1.0,3.0,1.0,1.8,1.2,0,0,0,2,2,-2,away_win,0,1,0,,,,0
+1982 FIFA Men's World Cup,1982-06-22,group stage,0,0,Group 1,Poland,Peru,POL,PER,1476.5,1510.07,-33.569999999999936,0.4,1.0,1.0,0.2,2.2,0.4,0,0,5,1,6,4,home_win,1,0,0,,,,0
+1982 FIFA Men's World Cup,1982-06-22,group stage,0,0,Group 3,Belgium,Hungary,BEL,HUN,1619.06,1493.96,125.09999999999992,1.2,1.0,1.8,2.8,2.6,0.6,0,0,1,1,2,0,draw,0,0,1,,,,0
+1982 FIFA Men's World Cup,1982-06-22,group stage,0,0,Group 6,Soviet Union,Scotland,SUN,SCO,1564.1,1500.84,63.25999999999999,2.0,0.8,1.8,2.2,2.4,1.4,0,0,2,2,4,0,draw,0,0,1,,,,0
+1982 FIFA Men's World Cup,1982-06-23,group stage,0,0,Group 1,Italy,Cameroon,ITA,CMR,1515.06,1499.32,15.740000000000007,0.8,1.0,1.0,0.0,0.0,1.0,0,0,1,1,2,0,draw,0,0,1,,,,0
+1982 FIFA Men's World Cup,1982-06-23,group stage,0,0,Group 3,Argentina,El Salvador,ARG,SLV,1464.73,1426.89,37.83999999999992,2.6,0.6,2.0,0.2,4.0,0.0,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1982 FIFA Men's World Cup,1982-06-23,group stage,0,0,Group 6,Brazil,New Zealand,BRA,NZL,1635.71,1470.86,164.85000000000014,2.2,0.8,2.6,1.0,4.0,0.0,0,0,4,0,4,4,home_win,1,0,0,,,,0
+1982 FIFA Men's World Cup,1982-06-24,group stage,0,0,Group 2,Algeria,Chile,DZA,CHL,1505.1,1544.52,-39.42000000000007,1.0,1.5,1.5,0.4,1.4,0.4,0,0,3,2,5,1,home_win,1,0,0,,,,0
+1982 FIFA Men's World Cup,1982-06-24,group stage,0,0,Group 4,France,Czechoslovakia,FRA,CSK,1475.68,1463.45,12.230000000000018,2.0,1.8,1.2,0.6,2.0,0.2,0,0,1,1,2,0,draw,0,0,1,,,,0
+1982 FIFA Men's World Cup,1982-06-24,group stage,0,0,Group 5,Honduras,Yugoslavia,HND,YUG,1499.56,1439.19,60.36999999999989,1.0,1.0,1.0,0.6,1.6,0.2,0,0,0,1,1,-1,away_win,0,1,0,,,,0
+1982 FIFA Men's World Cup,1982-06-25,group stage,0,0,Group 2,West Germany,Austria,DEU,AUT,1533.7,1459.19,74.50999999999999,1.8,1.6,1.0,1.4,1.6,1.8,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1982 FIFA Men's World Cup,1982-06-25,group stage,0,0,Group 4,England,Kuwait,ENG,KWT,1584.11,1480.92,103.18999999999984,1.6,1.0,1.8,1.0,2.5,0.5,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1982 FIFA Men's World Cup,1982-06-25,group stage,0,0,Group 5,Spain,Northern Ireland,ESP,NIR,1504.88,1499.69,5.190000000000055,1.0,0.8,1.6,1.0,1.6,1.2,0,0,0,1,1,-1,away_win,0,1,0,,,,0
+1982 FIFA Men's World Cup,1982-06-28,second group stage,0,0,Group 1,Poland,Belgium,POL,BEL,1494.04,1613.54,-119.5,1.4,0.8,1.6,0.8,1.2,1.4,0,0,3,0,3,3,home_win,1,0,0,,,,0
+1982 FIFA Men's World Cup,1982-06-28,second group stage,0,0,Group 4,Austria,France,AUT,FRA,1446.57,1475.12,-28.549999999999955,1.2,0.8,1.8,2.0,1.6,1.4,0,0,0,1,1,-1,away_win,0,1,0,,,,0
+1982 FIFA Men's World Cup,1982-06-29,second group stage,0,0,Group 3,Italy,Argentina,ITA,ARG,1514.34,1478.99,35.34999999999991,0.8,1.2,0.6,3.0,0.6,2.4,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1982 FIFA Men's World Cup,1982-06-29,second group stage,0,0,Group 2,West Germany,England,DEU,ENG,1546.32,1595.49,-49.17000000000007,2.0,1.6,1.4,1.8,0.8,2.4,0,0,0,0,0,0,draw,0,0,1,,,,0
+1982 FIFA Men's World Cup,1982-07-01,second group stage,0,0,Group 4,Austria,Northern Ireland,AUT,NIR,1489.81,1488.64,1.1699999999998454,1.2,0.8,1.8,0.8,1.2,1.6,0,0,2,2,4,0,draw,0,0,1,,,,0
+1982 FIFA Men's World Cup,1982-07-01,second group stage,0,0,Group 1,Belgium,Soviet Union,BEL,SUN,1592.24,1561.22,31.019999999999985,0.6,1.0,1.4,1.6,1.0,1.4,0,0,0,1,1,-1,away_win,0,1,0,,,,0
+1982 FIFA Men's World Cup,1982-07-02,second group stage,0,0,Group 3,Argentina,Brazil,ARG,BRA,1464.61,1644.64,-180.0300000000002,2.0,1.0,1.8,3.0,0.8,3.0,0,0,1,3,4,-2,away_win,0,1,0,,,,0
+1982 FIFA Men's World Cup,1982-07-02,second group stage,0,0,Group 2,West Germany,Spain,DEU,ESP,1548.57,1515.93,32.63999999999987,1.6,1.2,1.4,0.8,0.6,1.6,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1982 FIFA Men's World Cup,1982-07-04,second group stage,0,0,Group 4,France,Northern Ireland,FRA,NIR,1431.88,1488.69,-56.809999999999945,2.0,1.2,2.0,0.8,1.4,1.2,0,0,4,1,5,3,home_win,1,0,0,,,,0
+1982 FIFA Men's World Cup,1982-07-04,second group stage,0,0,Group 1,Soviet Union,Poland,SUN,POL,1574.82,1515.34,59.48000000000002,1.4,1.0,1.4,1.8,0.8,1.6,0,0,0,0,0,0,draw,0,0,1,,,,0
+1982 FIFA Men's World Cup,1982-07-05,second group stage,0,0,Group 3,Italy,Brazil,ITA,BRA,1528.72,1456.23,72.49000000000001,1.0,1.0,1.2,3.0,0.8,3.0,0,0,3,2,5,1,home_win,1,0,0,,,,0
+1982 FIFA Men's World Cup,1982-07-05,second group stage,0,0,Group 2,Spain,England,ESP,ENG,1501.43,1593.24,-91.80999999999996,1.0,1.0,1.4,1.6,0.8,2.0,0,0,0,0,0,0,draw,0,0,1,,,,0
+1982 FIFA Men's World Cup,1982-07-08,semi-finals,3,1,not applicable,Poland,Italy,POL,ITA,1518.05,1541.43,-23.38000000000011,1.6,0.2,1.8,1.4,1.0,1.8,0,0,0,2,2,-2,away_win,0,1,0,,,,0
+1982 FIFA Men's World Cup,1982-07-08,semi-finals,3,1,not applicable,West Germany,France,DEU,FRA,1563.07,1450.47,112.59999999999992,1.6,0.8,2.0,2.2,1.2,2.0,1,1,3,3,6,0,home_win,1,0,0,,,,0
+1982 FIFA Men's World Cup,1982-07-10,third-place match,0,1,not applicable,Poland,France,POL,FRA,1556.35,1439.48,116.86999999999988,1.6,0.6,1.6,2.6,1.2,2.0,0,0,3,2,5,1,home_win,1,0,0,,,,0
+1982 FIFA Men's World Cup,1982-07-11,final,4,1,not applicable,Italy,West Germany,ITA,DEU,1503.13,1574.06,-70.92999999999984,1.8,1.0,2.2,2.0,1.0,2.6,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1986 FIFA Men's World Cup,1986-05-31,group stage,0,0,Group A,Bulgaria,Italy,BGR,ITA,1521.45,1522.35,-0.8999999999998636,1.0,2.2,0.6,2.2,1.0,2.6,0,0,1,1,2,0,draw,0,0,1,,,,0
+1986 FIFA Men's World Cup,1986-06-01,group stage,0,0,Group C,Canada,France,CAN,FRA,1500.0,1428.67,71.32999999999993,0.0,0.0,0.0,2.2,1.6,1.4,0,0,0,1,1,-1,away_win,0,1,0,,,,0
+1986 FIFA Men's World Cup,1986-06-01,group stage,0,0,Group D,Spain,Brazil,ESP,BRA,1505.56,1443.52,62.03999999999997,0.8,1.0,1.0,3.0,1.2,2.4,0,0,0,1,1,-1,away_win,0,1,0,,,,0
+1986 FIFA Men's World Cup,1986-06-02,group stage,0,0,Group A,Argentina,South Korea,ARG,KOR,1653.02,1469.49,183.53,1.6,1.4,1.2,0.0,8.0,0.0,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1986 FIFA Men's World Cup,1986-06-02,group stage,0,0,Group C,Soviet Union,Hungary,SUN,HUN,1572.11,1499.48,72.62999999999988,1.4,0.8,1.6,2.8,2.4,0.8,0,0,6,0,6,6,home_win,1,0,0,,,,0
+1986 FIFA Men's World Cup,1986-06-02,group stage,0,0,Group F,Morocco,Poland,MAR,POL,1468.31,1567.16,-98.85000000000014,0.67,2.0,0.33,2.2,1.0,2.0,0,0,0,0,0,0,draw,0,0,1,,,,0
+1986 FIFA Men's World Cup,1986-06-03,group stage,0,0,Group B,Belgium,Mexico,BEL,MEX,1578.64,1384.62,194.0200000000002,0.6,1.0,1.4,0.8,3.2,0.6,0,0,1,2,3,-1,away_win,0,1,0,,,,0
+1986 FIFA Men's World Cup,1986-06-03,group stage,0,0,Group D,Algeria,Northern Ireland,DZA,NIR,1522.91,1470.1,52.81000000000017,1.67,1.67,2.0,1.0,1.4,1.2,0,0,1,1,2,0,draw,0,0,1,,,,0
+1986 FIFA Men's World Cup,1986-06-03,group stage,0,0,Group F,Portugal,England,PRT,ENG,1566.23,1589.11,-22.87999999999988,2.8,1.4,2.4,1.2,0.2,2.2,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1986 FIFA Men's World Cup,1986-06-04,group stage,0,0,Group B,Paraguay,Iraq,PRY,IRQ,1490.85,1500.0,-9.150000000000093,2.2,3.2,1.0,0.0,0.0,0.0,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1986 FIFA Men's World Cup,1986-06-04,group stage,0,0,Group E,Uruguay,West Germany,URY,DEU,1472.29,1554.84,-82.54999999999995,0.4,2.0,0.2,1.4,1.4,2.0,0,0,1,1,2,0,draw,0,0,1,,,,0
+1986 FIFA Men's World Cup,1986-06-04,group stage,0,0,Group E,Scotland,Denmark,SCO,DNK,1503.72,1500.0,3.7200000000000273,2.4,2.2,1.6,0.0,0.0,0.0,0,0,0,1,1,-1,away_win,0,1,0,,,,0
+1986 FIFA Men's World Cup,1986-06-05,group stage,0,0,Group A,Italy,Argentina,ITA,ARG,1522.31,1661.28,-138.97000000000003,2.2,1.0,2.6,2.2,1.4,1.8,0,0,1,1,2,0,draw,0,0,1,,,,0
+1986 FIFA Men's World Cup,1986-06-05,group stage,0,0,Group C,France,Soviet Union,FRA,SUN,1480.76,1584.81,-104.04999999999995,2.2,1.4,1.8,2.4,0.4,2.2,0,0,1,1,2,0,draw,0,0,1,,,,0
+1986 FIFA Men's World Cup,1986-06-05,group stage,0,0,Group A,South Korea,Bulgaria,KOR,BGR,1461.23,1521.49,-60.25999999999999,0.33,6.33,0.0,0.8,1.4,0.8,0,0,1,1,2,0,draw,0,0,1,,,,0
+1986 FIFA Men's World Cup,1986-06-06,group stage,0,0,Group F,England,Morocco,ENG,MAR,1572.06,1472.74,99.31999999999994,0.6,0.2,1.6,0.5,1.5,0.5,0,0,0,0,0,0,draw,0,0,1,,,,0
+1986 FIFA Men's World Cup,1986-06-06,group stage,0,0,Group C,Hungary,Canada,HUN,CAN,1486.78,1447.91,38.86999999999989,2.6,3.0,0.8,0.0,1.0,0.0,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1986 FIFA Men's World Cup,1986-06-06,group stage,0,0,Group D,Brazil,Algeria,BRA,DZA,1486.73,1520.5,-33.76999999999998,2.8,1.0,2.4,1.5,1.5,1.75,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1986 FIFA Men's World Cup,1986-06-07,group stage,0,0,Group B,Mexico,Paraguay,MEX,PRY,1554.53,1507.27,47.25999999999999,1.0,3.4,0.6,2.0,2.8,1.4,0,0,1,1,2,0,draw,0,0,1,,,,0
+1986 FIFA Men's World Cup,1986-06-07,group stage,0,0,Group D,Northern Ireland,Spain,NIR,ESP,1472.51,1462.35,10.160000000000082,1.2,1.6,1.2,0.6,1.0,0.8,0,0,1,2,3,-1,away_win,0,1,0,,,,0
+1986 FIFA Men's World Cup,1986-06-07,group stage,0,0,Group F,Poland,Portugal,POL,PRT,1562.73,1583.28,-20.549999999999955,1.2,0.8,1.6,2.4,1.4,2.4,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1986 FIFA Men's World Cup,1986-06-08,group stage,0,0,Group B,Iraq,Belgium,IRQ,BEL,1483.58,1408.73,74.84999999999991,0.0,1.0,0.0,0.6,1.4,0.8,0,0,1,2,3,-1,away_win,0,1,0,,,,0
+1986 FIFA Men's World Cup,1986-06-08,group stage,0,0,Group E,West Germany,Scotland,DEU,SCO,1551.11,1516.17,34.93999999999983,1.4,1.6,1.6,2.2,2.2,1.4,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1986 FIFA Men's World Cup,1986-06-08,group stage,0,0,Group E,Denmark,Uruguay,DNK,URY,1487.55,1476.02,11.529999999999973,1.0,0.0,3.0,0.4,1.6,0.4,0,0,6,1,7,5,home_win,1,0,0,,,,0
+1986 FIFA Men's World Cup,1986-06-09,group stage,0,0,Group C,Hungary,France,HUN,FRA,1501.0,1485.41,15.589999999999918,2.8,2.4,1.4,2.2,1.6,1.4,0,0,0,3,3,-3,away_win,0,1,0,,,,0
+1986 FIFA Men's World Cup,1986-06-09,group stage,0,0,Group C,Soviet Union,Canada,SUN,CAN,1580.16,1433.69,146.47000000000003,2.0,0.6,1.8,0.0,1.5,0.0,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1986 FIFA Men's World Cup,1986-06-10,group stage,0,0,Group A,South Korea,Italy,KOR,ITA,1463.98,1528.39,-64.41000000000008,0.5,5.0,0.25,2.0,1.0,2.2,0,0,2,3,5,-1,away_win,0,1,0,,,,0
+1986 FIFA Men's World Cup,1986-06-10,group stage,0,0,Group A,Argentina,Bulgaria,ARG,BGR,1655.2,1518.74,136.46000000000004,1.6,1.4,1.4,0.8,1.4,0.8,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1986 FIFA Men's World Cup,1986-06-11,group stage,0,0,Group F,Portugal,Morocco,PRT,MAR,1566.33,1477.19,89.13999999999987,1.8,1.4,1.8,0.4,1.2,0.6,0,0,1,3,4,-2,away_win,0,1,0,,,,0
+1986 FIFA Men's World Cup,1986-06-11,group stage,0,0,Group F,England,Poland,ENG,POL,1567.61,1579.68,-12.070000000000164,0.2,0.2,1.2,0.8,0.8,1.6,0,0,3,0,3,3,home_win,1,0,0,,,,0
+1986 FIFA Men's World Cup,1986-06-11,group stage,0,0,Group B,Iraq,Mexico,IRQ,MEX,1428.12,1552.37,-124.25,0.5,1.5,0.0,1.0,2.8,0.8,0,0,0,1,1,-1,away_win,0,1,0,,,,0
+1986 FIFA Men's World Cup,1986-06-11,group stage,0,0,Group B,Paraguay,Belgium,PRY,BEL,1509.43,1464.19,45.24000000000001,2.2,2.6,1.6,0.8,1.6,0.8,0,0,2,2,4,0,draw,0,0,1,,,,0
+1986 FIFA Men's World Cup,1986-06-12,group stage,0,0,Group D,Algeria,Spain,DZA,ESP,1502.95,1456.04,46.91000000000008,1.2,1.4,1.4,0.6,1.0,0.8,0,0,0,3,3,-3,away_win,0,1,0,,,,0
+1986 FIFA Men's World Cup,1986-06-12,group stage,0,0,Group D,Northern Ireland,Brazil,NIR,BRA,1478.82,1504.28,-25.46000000000004,1.2,1.8,1.0,2.2,0.8,2.4,0,0,0,3,3,-3,away_win,0,1,0,,,,0
+1986 FIFA Men's World Cup,1986-06-13,group stage,0,0,Group E,Denmark,West Germany,DNK,DEU,1503.02,1565.51,-62.49000000000001,3.5,0.5,3.0,1.8,1.8,2.0,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1986 FIFA Men's World Cup,1986-06-13,group stage,0,0,Group E,Scotland,Uruguay,SCO,URY,1501.77,1460.55,41.22000000000003,1.8,2.2,0.8,0.6,2.6,0.4,0,0,0,0,0,0,draw,0,0,1,,,,0
+1986 FIFA Men's World Cup,1986-06-15,round of 16,1,1,not applicable,Mexico,Bulgaria,MEX,BGR,1417.61,1508.72,-91.11000000000011,1.0,2.2,1.4,0.8,1.8,0.6,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1986 FIFA Men's World Cup,1986-06-15,round of 16,1,1,not applicable,Soviet Union,Belgium,SUN,BEL,1589.79,1466.26,123.52999999999996,2.0,0.2,2.2,1.0,1.8,0.8,1,0,3,4,7,-1,away_win,0,1,0,,,,0
+1986 FIFA Men's World Cup,1986-06-16,round of 16,1,1,not applicable,Brazil,Poland,BRA,POL,1463.99,1563.12,-99.12999999999988,2.0,0.8,2.4,0.8,1.4,1.4,0,0,4,0,4,4,home_win,1,0,0,,,,0
+1986 FIFA Men's World Cup,1986-06-16,round of 16,1,1,not applicable,Argentina,Uruguay,ARG,URY,1665.22,1462.44,202.78,1.6,1.4,1.4,0.6,2.2,0.6,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1986 FIFA Men's World Cup,1986-06-17,round of 16,1,1,not applicable,Italy,France,ITA,FRA,1450.91,1484.28,-33.36999999999989,2.0,1.0,2.2,2.0,1.4,1.4,0,0,0,2,2,-2,away_win,0,1,0,,,,0
+1986 FIFA Men's World Cup,1986-06-17,round of 16,1,1,not applicable,Morocco,West Germany,MAR,DEU,1546.31,1546.66,-0.3500000000001364,0.8,1.0,1.2,1.4,2.0,1.4,0,0,0,1,1,-1,away_win,0,1,0,,,,0
+1986 FIFA Men's World Cup,1986-06-18,round of 16,1,1,not applicable,Denmark,Spain,DNK,ESP,1521.87,1484.8,37.069999999999936,3.0,0.33,3.0,1.2,0.8,1.4,0,0,1,5,6,-4,away_win,0,1,0,,,,0
+1986 FIFA Men's World Cup,1986-06-18,round of 16,1,1,not applicable,England,Paraguay,ENG,PRY,1584.17,1507.36,76.81000000000017,0.6,0.2,1.2,2.0,1.6,1.8,0,0,3,0,3,3,home_win,1,0,0,,,,0
+1986 FIFA Men's World Cup,1986-06-21,quarter-finals,2,1,not applicable,West Germany,Mexico,DEU,MEX,1530.33,1437.71,92.61999999999988,1.0,1.4,1.4,1.4,1.0,2.0,1,1,0,0,0,0,home_win,1,0,0,,,,0
+1986 FIFA Men's World Cup,1986-06-21,quarter-finals,2,1,not applicable,Brazil,France,BRA,FRA,1484.44,1436.44,48.0,2.2,0.6,2.4,1.8,0.8,2.0,1,1,1,1,2,0,away_win,0,1,0,,,,0
+1986 FIFA Men's World Cup,1986-06-22,quarter-finals,2,1,not applicable,Argentina,England,ARG,ENG,1672.82,1596.69,76.12999999999988,1.6,1.0,2.0,1.2,0.2,1.6,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1986 FIFA Men's World Cup,1986-06-22,quarter-finals,2,1,not applicable,Spain,Belgium,ESP,BEL,1504.17,1568.33,-64.15999999999985,2.0,0.6,2.0,1.8,1.8,1.4,1,1,1,1,2,0,away_win,0,1,0,,,,0
+1986 FIFA Men's World Cup,1986-06-25,semi-finals,3,1,not applicable,France,West Germany,FRA,DEU,1466.24,1542.16,-75.92000000000007,1.6,0.4,2.6,0.8,0.8,2.0,0,0,0,2,2,-2,away_win,0,1,0,,,,0
+1986 FIFA Men's World Cup,1986-06-25,semi-finals,3,1,not applicable,Argentina,Belgium,ARG,BEL,1685.37,1491.09,194.28,1.8,0.6,2.6,2.0,1.8,2.0,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1986 FIFA Men's World Cup,1986-06-28,third-place match,0,1,not applicable,Belgium,France,BEL,FRA,1483.21,1554.72,-71.50999999999999,1.8,1.8,2.0,1.4,0.8,2.0,1,0,2,4,6,-2,away_win,0,1,0,,,,0
+1986 FIFA Men's World Cup,1986-06-29,final,4,1,not applicable,Argentina,West Germany,ARG,DEU,1693.25,1453.68,239.56999999999996,1.6,0.4,2.6,1.0,0.6,2.4,0,0,3,2,5,1,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-06-08,group stage,0,0,Group B,Argentina,Cameroon,ARG,CMR,1699.69,1500.04,199.6500000000001,2.0,0.6,3.0,0.33,0.33,1.0,0,0,0,1,1,-1,away_win,0,1,0,,,,0
+1990 FIFA Men's World Cup,1990-06-09,group stage,0,0,Group B,Soviet Union,Romania,SUN,ROU,1487.72,1467.31,20.41000000000008,2.4,1.0,1.6,1.6,2.0,0.8,0,0,0,2,2,-2,away_win,0,1,0,,,,0
+1990 FIFA Men's World Cup,1990-06-09,group stage,0,0,Group D,United Arab Emirates,Colombia,ARE,COL,1500.0,1475.27,24.730000000000015,0.0,0.0,0.0,1.67,3.67,0.33,0,0,0,2,2,-2,away_win,0,1,0,,,,0
+1990 FIFA Men's World Cup,1990-06-09,group stage,0,0,Group A,Italy,Austria,ITA,AUT,1498.75,1489.76,8.990000000000009,1.6,1.4,1.6,1.0,0.8,1.4,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-06-10,group stage,0,0,Group C,Brazil,Sweden,BRA,SWE,1454.64,1480.59,-25.949999999999815,2.0,0.2,2.4,1.0,1.6,0.8,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-06-10,group stage,0,0,Group D,West Germany,Yugoslavia,DEU,YUG,1447.24,1480.81,-33.569999999999936,1.0,1.0,1.8,0.8,1.2,0.8,0,0,4,1,5,3,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-06-10,group stage,0,0,Group A,United States,Czechoslovakia,USA,CSK,1483.97,1464.01,19.96000000000004,1.2,4.2,0.6,0.6,1.4,0.4,0,0,1,5,6,-4,away_win,0,1,0,,,,0
+1990 FIFA Men's World Cup,1990-06-11,group stage,0,0,Group F,England,Republic of Ireland,ENG,IRL,1584.14,1500.0,84.1400000000001,1.4,0.6,1.4,0.0,0.0,0.0,0,0,1,1,2,0,draw,0,0,1,,,,0
+1990 FIFA Men's World Cup,1990-06-11,group stage,0,0,Group C,Costa Rica,Scotland,CRI,SCO,1500.0,1499.88,0.1199999999998908,0.0,0.0,0.0,0.8,1.8,0.4,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-06-12,group stage,0,0,Group E,Belgium,South Korea,BEL,KOR,1567.47,1541.46,26.00999999999999,1.8,2.4,1.4,0.8,4.6,0.2,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-06-12,group stage,0,0,Group F,Netherlands,Egypt,NLD,EGY,1493.71,1484.0,9.710000000000036,2.4,2.0,1.4,2.0,4.0,0.0,0,0,1,1,2,0,draw,0,0,1,,,,0
+1990 FIFA Men's World Cup,1990-06-13,group stage,0,0,Group E,Uruguay,Spain,URY,ESP,1454.84,1581.41,-126.57000000000016,0.4,2.2,0.4,2.2,0.8,1.8,0,0,0,0,0,0,draw,0,0,1,,,,0
+1990 FIFA Men's World Cup,1990-06-13,group stage,0,0,Group B,Argentina,Soviet Union,ARG,SUN,1524.34,1484.25,40.08999999999992,1.6,0.8,2.4,2.4,1.4,1.4,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-06-14,group stage,0,0,Group B,Cameroon,Romania,CMR,ROU,1675.39,1470.78,204.61000000000013,0.5,0.25,1.5,1.4,1.4,1.2,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-06-14,group stage,0,0,Group D,Yugoslavia,Colombia,YUG,COL,1463.27,1482.86,-19.58999999999992,0.8,1.6,0.8,1.75,2.75,1.0,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-06-14,group stage,0,0,Group A,Italy,United States,ITA,USA,1514.34,1480.93,33.409999999999854,1.2,1.2,1.6,1.2,4.0,0.6,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-06-15,group stage,0,0,Group A,Austria,Czechoslovakia,AUT,CSK,1474.17,1467.05,7.120000000000118,0.8,1.0,0.8,1.4,1.2,1.0,0,0,0,1,1,-1,away_win,0,1,0,,,,0
+1990 FIFA Men's World Cup,1990-06-15,group stage,0,0,Group D,West Germany,United Arab Emirates,DEU,ARE,1464.78,1492.41,-27.63000000000011,1.8,0.8,2.4,0.0,2.0,0.0,0,0,5,1,6,4,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-06-16,group stage,0,0,Group C,Brazil,Costa Rica,BRA,CRI,1471.83,1515.99,-44.16000000000008,2.2,0.4,2.4,1.0,0.0,3.0,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-06-16,group stage,0,0,Group C,Sweden,Scotland,SWE,SCO,1463.4,1483.89,-20.49000000000001,0.8,1.2,0.8,0.6,1.2,0.4,0,0,1,2,3,-1,away_win,0,1,0,,,,0
+1990 FIFA Men's World Cup,1990-06-16,group stage,0,0,Group F,England,Netherlands,ENG,NLD,1580.34,1493.26,87.07999999999993,1.6,0.6,1.6,2.2,1.6,1.6,0,0,0,0,0,0,draw,0,0,1,,,,0
+1990 FIFA Men's World Cup,1990-06-17,group stage,0,0,Group E,South Korea,Spain,KOR,ESP,1526.66,1575.83,-49.169999999999845,0.8,3.2,0.2,2.2,0.6,2.0,0,0,1,3,4,-2,away_win,0,1,0,,,,0
+1990 FIFA Men's World Cup,1990-06-17,group stage,0,0,Group E,Belgium,Uruguay,BEL,URY,1582.27,1460.42,121.84999999999992,1.8,2.0,1.8,0.4,1.6,0.6,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-06-17,group stage,0,0,Group F,Republic of Ireland,Egypt,IRL,EGY,1503.8,1484.45,19.34999999999991,1.0,1.0,1.0,1.5,2.5,0.5,0,0,0,0,0,0,draw,0,0,1,,,,0
+1990 FIFA Men's World Cup,1990-06-18,group stage,0,0,Group B,Argentina,Romania,ARG,ROU,1538.5,1463.25,75.25,1.8,0.8,2.4,1.4,1.4,1.2,0,0,1,1,2,0,draw,0,0,1,,,,0
+1990 FIFA Men's World Cup,1990-06-18,group stage,0,0,Group B,Cameroon,Soviet Union,CMR,SUN,1682.92,1470.09,212.83000000000013,0.8,0.4,1.8,1.2,1.8,0.8,0,0,0,4,4,-4,away_win,0,1,0,,,,0
+1990 FIFA Men's World Cup,1990-06-19,group stage,0,0,Group D,West Germany,Colombia,DEU,COL,1482.05,1465.96,16.089999999999918,2.6,1.0,2.4,1.4,2.4,0.8,0,0,1,1,2,0,draw,0,0,1,,,,0
+1990 FIFA Men's World Cup,1990-06-19,group stage,0,0,Group D,Yugoslavia,United Arab Emirates,YUG,ARE,1480.17,1475.14,5.029999999999973,0.8,1.2,1.4,0.5,3.5,0.0,0,0,4,1,5,3,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-06-19,group stage,0,0,Group A,Austria,United States,AUT,USA,1483.38,1466.46,16.920000000000073,0.4,1.2,0.2,1.0,2.8,0.6,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-06-19,group stage,0,0,Group A,Italy,Czechoslovakia,ITA,CSK,1528.81,1457.84,70.97000000000003,1.2,1.0,2.0,1.6,1.0,1.6,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-06-20,group stage,0,0,Group C,Brazil,Scotland,BRA,SCO,1489.85,1448.34,41.50999999999999,2.2,0.4,2.4,0.6,1.0,0.8,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-06-20,group stage,0,0,Group C,Sweden,Costa Rica,SWE,CRI,1498.95,1497.97,0.9800000000000182,0.6,1.4,0.2,0.5,0.5,1.5,0,0,1,2,3,-1,away_win,0,1,0,,,,0
+1990 FIFA Men's World Cup,1990-06-21,group stage,0,0,Group E,Belgium,Spain,BEL,ESP,1592.88,1512.91,79.97000000000003,1.6,1.6,1.8,2.4,0.6,2.0,0,0,1,2,3,-1,away_win,0,1,0,,,,0
+1990 FIFA Men's World Cup,1990-06-21,group stage,0,0,Group E,South Korea,Uruguay,KOR,URY,1589.58,1449.81,139.76999999999998,1.0,2.4,0.2,0.4,2.0,0.4,0,0,0,1,1,-1,away_win,0,1,0,,,,0
+1990 FIFA Men's World Cup,1990-06-21,group stage,0,0,Group F,England,Egypt,ENG,EGY,1576.41,1485.34,91.07000000000016,1.6,0.6,1.6,1.0,1.67,0.67,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-06-21,group stage,0,0,Group F,Republic of Ireland,Netherlands,IRL,NLD,1502.91,1497.19,5.720000000000027,0.5,0.5,1.0,1.2,1.4,1.2,0,0,1,1,2,0,draw,0,0,1,,,,0
+1990 FIFA Men's World Cup,1990-06-23,round of 16,1,1,not applicable,Czechoslovakia,Costa Rica,CSK,CRI,1445.06,1482.9,-37.84000000000015,1.4,1.2,1.4,1.0,0.67,2.0,0,0,4,1,5,3,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-06-23,round of 16,1,1,not applicable,Cameroon,Colombia,CMR,COL,1494.82,1466.7,28.11999999999989,0.8,1.2,1.6,1.4,2.2,1.0,1,0,2,1,3,1,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-06-24,round of 16,1,1,not applicable,Brazil,Argentina,BRA,ARG,1503.95,1535.09,-31.139999999999876,1.8,0.4,2.4,1.6,0.8,2.0,0,0,0,1,1,-1,away_win,0,1,0,,,,0
+1990 FIFA Men's World Cup,1990-06-24,round of 16,1,1,not applicable,West Germany,Netherlands,DEU,NLD,1481.31,1497.45,-16.1400000000001,2.8,1.2,2.0,1.0,1.2,1.2,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-06-25,round of 16,1,1,not applicable,Republic of Ireland,Romania,IRL,ROU,1502.65,1466.66,35.99000000000001,0.67,0.67,1.0,1.6,1.4,1.4,1,1,0,0,0,0,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-06-25,round of 16,1,1,not applicable,Italy,Uruguay,ITA,URY,1541.59,1567.47,-25.88000000000011,1.4,0.8,2.4,0.4,0.8,1.0,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-06-26,round of 16,1,1,not applicable,Spain,Yugoslavia,ESP,YUG,1573.26,1495.94,77.31999999999994,2.2,0.8,2.0,1.6,1.4,1.8,1,0,1,2,3,-1,away_win,0,1,0,,,,0
+1990 FIFA Men's World Cup,1990-06-26,round of 16,1,1,not applicable,England,Belgium,ENG,BEL,1588.31,1532.53,55.77999999999997,1.2,0.6,1.6,1.6,1.8,1.2,1,0,1,0,1,1,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-06-30,quarter-finals,2,1,not applicable,Argentina,Yugoslavia,ARG,YUG,1489.38,1553.76,-64.37999999999988,1.4,0.8,2.0,1.8,1.2,2.4,1,1,0,0,0,0,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-06-30,quarter-finals,2,1,not applicable,Republic of Ireland,Italy,IRL,ITA,1517.0,1558.78,-41.77999999999997,0.5,0.5,1.5,1.2,0.4,2.4,0,0,0,1,1,-1,away_win,0,1,0,,,,0
+1990 FIFA Men's World Cup,1990-07-01,quarter-finals,2,1,not applicable,Czechoslovakia,West Germany,CSK,DEU,1462.8,1498.05,-35.25,2.2,1.0,2.0,2.8,1.4,2.0,0,0,0,1,1,-1,away_win,0,1,0,,,,0
+1990 FIFA Men's World Cup,1990-07-01,quarter-finals,2,1,not applicable,Cameroon,England,CMR,ENG,1509.53,1601.76,-92.23000000000002,1.2,1.4,2.0,0.8,0.6,1.6,1,0,2,3,5,-1,away_win,0,1,0,,,,0
+1990 FIFA Men's World Cup,1990-07-03,semi-finals,3,1,not applicable,Argentina,Italy,ARG,ITA,1508.31,1502.91,5.399999999999864,0.8,0.4,2.0,1.4,0.0,3.0,1,1,1,1,2,0,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-07-04,semi-finals,3,1,not applicable,West Germany,England,DEU,ENG,1448.42,1497.68,-49.25999999999999,2.6,0.8,2.6,1.2,0.6,2.2,1,1,1,1,2,0,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-07-07,third-place match,0,1,not applicable,Italy,England,ITA,ENG,1487.16,1479.43,7.730000000000018,1.4,0.2,2.4,1.2,0.6,2.0,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1990 FIFA Men's World Cup,1990-07-08,final,4,1,not applicable,West Germany,Argentina,DEU,ARG,1466.67,1524.06,-57.38999999999987,2.0,0.8,2.6,1.0,0.4,2.6,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1994 FIFA Men's World Cup,1994-06-17,group stage,0,0,Group C,Germany,Bolivia,DEU,BOL,1512.09,1456.99,55.09999999999991,1.8,2.2,1.4,0.0,5.33,0.0,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1994 FIFA Men's World Cup,1994-06-17,group stage,0,0,Group C,Spain,South Korea,ESP,KOR,1515.44,1471.92,43.51999999999998,1.4,1.0,1.4,0.8,2.0,0.2,0,0,2,2,4,0,draw,0,0,1,,,,0
+1994 FIFA Men's World Cup,1994-06-18,group stage,0,0,Group A,United States,Switzerland,USA,CHE,1451.24,1426.95,24.289999999999964,1.0,2.6,0.6,0.4,2.8,0.0,0,0,1,1,2,0,draw,0,0,1,,,,0
+1994 FIFA Men's World Cup,1994-06-18,group stage,0,0,Group E,Italy,Republic of Ireland,ITA,IRL,1502.8,1572.87,-70.06999999999994,1.6,0.4,2.4,0.4,0.6,1.2,0,0,0,1,1,-1,away_win,0,1,0,,,,0
+1994 FIFA Men's World Cup,1994-06-18,group stage,0,0,Group A,Colombia,Romania,COL,ROU,1451.99,1452.31,-0.3199999999999363,0.8,1.8,0.8,1.2,1.2,0.8,0,0,1,3,4,-2,away_win,0,1,0,,,,0
+1994 FIFA Men's World Cup,1994-06-19,group stage,0,0,Group F,Belgium,Morocco,BEL,MAR,1519.08,1562.64,-43.56000000000017,1.6,1.6,1.2,0.8,0.6,1.2,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1994 FIFA Men's World Cup,1994-06-19,group stage,0,0,Group E,Norway,Mexico,NOR,MEX,1486.94,1425.88,61.059999999999945,1.0,2.0,0.0,1.2,0.4,2.0,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1994 FIFA Men's World Cup,1994-06-19,group stage,0,0,Group B,Cameroon,Sweden,CMR,SWE,1613.61,1514.02,99.58999999999992,1.4,1.8,1.8,0.6,1.6,0.0,0,0,2,2,4,0,draw,0,0,1,,,,0
+1994 FIFA Men's World Cup,1994-06-20,group stage,0,0,Group B,Brazil,Russia,BRA,RUS,1549.66,1500.0,49.66000000000008,1.0,0.6,1.8,0.0,0.0,0.0,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1994 FIFA Men's World Cup,1994-06-20,group stage,0,0,Group F,Netherlands,Saudi Arabia,NLD,SAU,1480.71,1500.0,-19.289999999999964,0.8,1.4,0.6,0.0,0.0,0.0,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1994 FIFA Men's World Cup,1994-06-21,group stage,0,0,Group D,Argentina,Greece,ARG,GRC,1505.44,1500.0,5.440000000000055,0.6,0.6,2.0,0.0,0.0,0.0,0,0,4,0,4,4,home_win,1,0,0,,,,0
+1994 FIFA Men's World Cup,1994-06-21,group stage,0,0,Group C,Germany,Spain,DEU,ESP,1525.57,1513.45,12.11999999999989,1.6,2.0,1.4,1.6,1.2,1.6,0,0,1,1,2,0,draw,0,0,1,,,,0
+1994 FIFA Men's World Cup,1994-06-21,group stage,0,0,Group D,Nigeria,Bulgaria,NGA,BGR,1500.0,1488.62,11.38000000000011,0.0,0.0,0.0,0.6,2.0,0.4,0,0,3,0,3,3,home_win,1,0,0,,,,0
+1994 FIFA Men's World Cup,1994-06-22,group stage,0,0,Group A,Romania,Switzerland,ROU,CHE,1436.0,1428.07,7.930000000000064,1.4,0.8,1.4,0.4,2.6,0.2,0,0,1,4,5,-3,away_win,0,1,0,,,,0
+1994 FIFA Men's World Cup,1994-06-22,group stage,0,0,Group A,United States,Colombia,USA,COL,1450.12,1468.3,-18.180000000000064,1.0,2.8,0.2,1.0,1.4,0.8,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1994 FIFA Men's World Cup,1994-06-23,group stage,0,0,Group C,South Korea,Bolivia,KOR,BOL,1473.91,1443.51,30.40000000000009,1.0,2.2,0.2,0.0,4.25,0.0,0,0,0,0,0,0,draw,0,0,1,,,,0
+1994 FIFA Men's World Cup,1994-06-23,group stage,0,0,Group E,Italy,Norway,ITA,NOR,1585.69,1500.16,85.52999999999997,1.2,0.6,1.8,1.0,1.0,1.5,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1994 FIFA Men's World Cup,1994-06-24,group stage,0,0,Group B,Sweden,Russia,SWE,RUS,1518.48,1486.27,32.21000000000004,1.0,1.8,0.2,0.0,2.0,0.0,0,0,3,1,4,2,home_win,1,0,0,,,,0
+1994 FIFA Men's World Cup,1994-06-24,group stage,0,0,Group E,Mexico,Republic of Ireland,MEX,IRL,1412.66,1489.98,-77.31999999999994,0.8,0.4,1.4,0.4,0.4,1.6,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1994 FIFA Men's World Cup,1994-06-24,group stage,0,0,Group B,Brazil,Cameroon,BRA,CMR,1563.39,1609.15,-45.75999999999999,1.2,0.4,2.4,1.6,2.2,1.4,0,0,3,0,3,3,home_win,1,0,0,,,,0
+1994 FIFA Men's World Cup,1994-06-25,group stage,0,0,Group F,Belgium,Netherlands,BEL,NLD,1537.08,1497.6,39.48000000000002,1.4,0.8,1.8,1.0,1.0,1.2,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1994 FIFA Men's World Cup,1994-06-25,group stage,0,0,Group F,Saudi Arabia,Morocco,SAU,MAR,1483.11,1544.64,-61.5300000000002,1.0,2.0,0.0,0.6,0.6,1.0,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1994 FIFA Men's World Cup,1994-06-25,group stage,0,0,Group D,Argentina,Nigeria,ARG,NGA,1521.19,1515.48,5.710000000000036,1.2,0.4,2.4,3.0,0.0,3.0,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1994 FIFA Men's World Cup,1994-06-26,group stage,0,0,Group D,Bulgaria,Greece,BGR,GRC,1473.14,1484.25,-11.1099999999999,0.4,1.8,0.4,0.0,4.0,0.0,0,0,4,0,4,4,home_win,1,0,0,,,,0
+1994 FIFA Men's World Cup,1994-06-26,group stage,0,0,Group A,Switzerland,Colombia,CHE,COL,1419.63,1451.46,-31.829999999999927,1.2,2.2,0.8,0.8,1.8,0.2,0,0,0,2,2,-2,away_win,0,1,0,,,,0
+1994 FIFA Men's World Cup,1994-06-26,group stage,0,0,Group A,United States,Romania,USA,ROU,1466.96,1444.44,22.519999999999985,1.0,2.0,0.8,1.2,1.6,0.8,0,0,0,1,1,-1,away_win,0,1,0,,,,0
+1994 FIFA Men's World Cup,1994-06-27,group stage,0,0,Group C,Bolivia,Spain,BOL,ESP,1444.91,1514.01,-69.09999999999991,0.0,3.4,0.2,1.8,1.4,1.6,0,0,1,3,4,-2,away_win,0,1,0,,,,0
+1994 FIFA Men's World Cup,1994-06-27,group stage,0,0,Group C,Germany,South Korea,DEU,KOR,1525.01,1472.51,52.5,1.6,1.6,1.6,0.6,1.6,0.4,0,0,3,2,5,1,home_win,1,0,0,,,,0
+1994 FIFA Men's World Cup,1994-06-28,group stage,0,0,Group E,Italy,Mexico,ITA,MEX,1597.83,1432.16,165.66999999999985,1.0,0.6,1.8,1.0,0.4,1.8,0,0,1,1,2,0,draw,0,0,1,,,,0
+1994 FIFA Men's World Cup,1994-06-28,group stage,0,0,Group E,Republic of Ireland,Norway,IRL,NOR,1470.48,1488.02,-17.539999999999964,0.6,0.8,1.4,0.67,1.0,1.0,0,0,0,0,0,0,draw,0,0,1,,,,0
+1994 FIFA Men's World Cup,1994-06-28,group stage,0,0,Group B,Russia,Cameroon,RUS,CMR,1471.75,1591.05,-119.29999999999995,0.5,2.5,0.0,1.2,2.6,0.8,0,0,6,1,7,5,home_win,1,0,0,,,,0
+1994 FIFA Men's World Cup,1994-06-28,group stage,0,0,Group B,Brazil,Sweden,BRA,SWE,1581.49,1533.0,48.49000000000001,1.4,0.2,2.4,1.6,1.8,0.8,0,0,1,1,2,0,draw,0,0,1,,,,0
+1994 FIFA Men's World Cup,1994-06-29,group stage,0,0,Group F,Morocco,Netherlands,MAR,NLD,1525.84,1483.41,42.42999999999984,0.8,1.0,0.8,0.8,1.0,1.0,0,0,1,2,3,-1,away_win,0,1,0,,,,0
+1994 FIFA Men's World Cup,1994-06-29,group stage,0,0,Group F,Belgium,Saudi Arabia,BEL,SAU,1551.27,1501.91,49.3599999999999,1.2,0.8,1.8,1.5,1.5,1.5,0,0,0,1,1,-1,away_win,0,1,0,,,,0
+1994 FIFA Men's World Cup,1994-06-30,group stage,0,0,Group D,Argentina,Bulgaria,ARG,BGR,1536.93,1489.65,47.27999999999997,1.4,0.6,2.4,1.0,1.6,0.8,0,0,0,2,2,-2,away_win,0,1,0,,,,0
+1994 FIFA Men's World Cup,1994-06-30,group stage,0,0,Group D,Greece,Nigeria,GRC,NGA,1467.74,1499.74,-32.0,0.0,4.0,0.0,2.0,1.0,1.5,0,0,0,2,2,-2,away_win,0,1,0,,,,0
+1994 FIFA Men's World Cup,1994-07-02,round of 16,1,1,not applicable,Germany,Belgium,DEU,BEL,1538.61,1520.17,18.439999999999827,1.6,1.6,1.6,0.6,0.8,1.2,0,0,3,2,5,1,home_win,1,0,0,,,,0
+1994 FIFA Men's World Cup,1994-07-02,round of 16,1,1,not applicable,Spain,Switzerland,ESP,CHE,1432.05,1466.0,-33.950000000000045,1.8,1.4,1.6,1.2,1.6,0.8,0,0,3,0,3,3,home_win,1,0,0,,,,0
+1994 FIFA Men's World Cup,1994-07-03,round of 16,1,1,not applicable,Saudi Arabia,Sweden,SAU,SWE,1533.01,1535.22,-2.2100000000000364,1.33,1.0,2.0,1.6,1.6,1.0,0,0,1,3,4,-2,away_win,0,1,0,,,,0
+1994 FIFA Men's World Cup,1994-07-03,round of 16,1,1,not applicable,Romania,Argentina,ROU,ARG,1449.92,1507.81,-57.88999999999987,1.2,1.2,1.4,1.4,1.0,1.8,0,0,3,2,5,1,home_win,1,0,0,,,,0
+1994 FIFA Men's World Cup,1994-07-04,round of 16,1,1,not applicable,Netherlands,Republic of Ireland,NLD,IRL,1507.9,1471.29,36.61000000000013,1.2,1.2,1.4,0.4,0.6,1.4,0,0,2,0,2,2,home_win,1,0,0,,,,0
+1994 FIFA Men's World Cup,1994-07-04,round of 16,1,1,not applicable,Brazil,United States,BRA,USA,1579.27,1461.48,117.78999999999996,1.4,0.4,2.0,0.8,1.2,0.8,0,0,1,0,1,1,home_win,1,0,0,,,,0
+1994 FIFA Men's World Cup,1994-07-05,round of 16,1,1,not applicable,Nigeria,Italy,NGA,ITA,1453.21,1590.73,-137.51999999999998,2.0,0.67,2.0,1.0,0.8,1.4,1,0,1,2,3,-1,away_win,0,1,0,,,,0
+1994 FIFA Men's World Cup,1994-07-05,round of 16,1,1,not applicable,Mexico,Bulgaria,MEX,BGR,1439.26,1518.77,-79.50999999999999,1.0,0.6,1.4,1.2,1.4,1.2,1,1,1,1,2,0,away_win,0,1,0,,,,0
+1994 FIFA Men's World Cup,1994-07-09,quarter-finals,2,1,not applicable,Italy,Spain,ITA,ESP,1443.23,1449.61,-6.379999999999882,1.2,0.8,2.0,2.0,1.2,1.6,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1994 FIFA Men's World Cup,1994-07-09,quarter-finals,2,1,not applicable,Netherlands,Brazil,NLD,BRA,1522.22,1590.04,-67.81999999999994,1.4,1.0,1.8,1.4,0.4,2.0,0,0,2,3,5,-1,away_win,0,1,0,,,,0
+1994 FIFA Men's World Cup,1994-07-10,quarter-finals,2,1,not applicable,Bulgaria,Germany,BGR,DEU,1426.86,1553.76,-126.90000000000008,1.4,1.2,1.8,2.0,1.8,2.0,0,0,2,1,3,1,home_win,1,0,0,,,,0
+1994 FIFA Men's World Cup,1994-07-10,quarter-finals,2,1,not applicable,Romania,Sweden,ROU,SWE,1468.56,1517.11,-48.54999999999996,1.6,1.4,1.8,2.0,1.4,1.6,1,1,2,2,4,0,away_win,0,1,0,,,,0
+1994 FIFA Men's World Cup,1994-07-13,semi-finals,3,1,not applicable,Sweden,Brazil,SWE,BRA,1454.78,1509.3,-54.51999999999998,2.2,1.4,2.2,2.0,0.6,2.6,0,0,0,1,1,-1,away_win,0,1,0,,,,0
+1994 FIFA Men's World Cup,1994-07-13,semi-finals,3,1,not applicable,Bulgaria,Italy,BGR,ITA,1448.46,1459.52,-11.059999999999944,1.8,1.0,2.4,1.2,0.8,2.0,0,0,1,2,3,-1,away_win,0,1,0,,,,0
+1994 FIFA Men's World Cup,1994-07-16,third-place match,0,1,not applicable,Sweden,Bulgaria,SWE,BGR,1522.81,1475.01,47.79999999999996,1.8,1.2,2.0,2.0,0.8,2.4,0,0,4,0,4,4,home_win,1,0,0,,,,0
+1994 FIFA Men's World Cup,1994-07-17,final,4,1,not applicable,Brazil,Italy,BRA,ITA,1441.27,1432.97,8.299999999999955,1.8,0.6,2.6,1.6,0.8,2.6,1,1,0,0,0,0,home_win,1,0,0,,,,0
+1998 FIFA Men's World Cup,1998-06-10,group stage,0,0,Group A,Brazil,Scotland,BRA,SCO,1456.89,1434.24,22.65000000000009,1.2,0.6,2.6,0.6,1.0,0.8,0,0,2,1,3,1,home_win,1,0,0,,41.0,,1
+1998 FIFA Men's World Cup,1998-06-10,group stage,0,0,Group A,Morocco,Norway,MAR,NOR,1501.35,1487.21,14.139999999999873,1.0,1.4,0.6,0.5,0.75,1.0,0,0,2,2,4,0,draw,0,0,1,13.0,7.0,6.0,1
+1998 FIFA Men's World Cup,1998-06-11,group stage,0,0,Group B,Italy,Chile,ITA,CHL,1417.35,1526.71,-109.36000000000011,1.4,0.8,2.0,0.8,1.8,0.4,0,0,2,2,4,0,draw,0,0,1,,9.0,,1
+1998 FIFA Men's World Cup,1998-06-11,group stage,0,0,Group B,Cameroon,Austria,CMR,AUT,1569.76,1498.6,71.16000000000008,1.4,3.0,0.8,0.8,1.2,0.8,0,0,1,1,2,0,draw,0,0,1,49.0,31.0,18.0,1
+1998 FIFA Men's World Cup,1998-06-12,group stage,0,0,Group D,Paraguay,Bulgaria,PRY,BGR,1494.84,1461.2,33.63999999999987,1.4,1.8,1.2,1.2,1.6,1.8,0,0,0,0,0,0,draw,0,0,1,29.0,35.0,-6.0,1
+1998 FIFA Men's World Cup,1998-06-12,group stage,0,0,Group C,Saudi Arabia,Denmark,SAU,DNK,1551.12,1502.5,48.61999999999989,1.25,1.5,1.5,2.5,1.5,2.25,0,0,0,1,1,-1,away_win,0,1,0,34.0,27.0,7.0,1
+1998 FIFA Men's World Cup,1998-06-12,group stage,0,0,Group C,France,South Africa,FRA,ZAF,1470.46,1500.0,-29.539999999999964,2.0,1.0,2.4,0.0,0.0,0.0,0,0,3,0,3,3,home_win,1,0,0,1.0,24.0,-23.0,1
+1998 FIFA Men's World Cup,1998-06-13,group stage,0,0,Group D,Spain,Nigeria,ESP,NGA,1433.32,1600.71,-167.3900000000001,2.0,1.2,1.6,1.75,1.0,1.5,0,0,2,3,5,-1,away_win,0,1,0,,74.0,,1
+1998 FIFA Men's World Cup,1998-06-13,group stage,0,0,Group E,South Korea,Mexico,KOR,MEX,1458.91,1531.17,-72.25999999999999,1.0,1.8,0.4,0.8,0.8,0.8,0,0,1,3,4,-2,away_win,0,1,0,20.0,4.0,16.0,1
+1998 FIFA Men's World Cup,1998-06-13,group stage,0,0,Group E,Netherlands,Belgium,NLD,BEL,1602.96,1505.02,97.94000000000004,1.6,1.2,1.8,0.8,1.0,1.2,0,0,0,0,0,0,draw,0,0,1,25.0,36.0,-11.0,1
+1998 FIFA Men's World Cup,1998-06-14,group stage,0,0,Group H,Jamaica,Croatia,JAM,HRV,1500.0,1500.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1,3,4,-2,away_win,0,1,0,30.0,19.0,11.0,1
+1998 FIFA Men's World Cup,1998-06-14,group stage,0,0,Group H,Argentina,Japan,ARG,JPN,1489.17,1500.0,-10.829999999999927,1.6,1.4,1.2,0.0,0.0,0.0,0,0,1,0,1,1,home_win,1,0,0,6.0,12.0,-6.0,1
+1998 FIFA Men's World Cup,1998-06-14,group stage,0,0,Group F,Yugoslavia,Iran,YUG,IRN,1534.83,1470.17,64.65999999999985,1.6,1.2,1.8,0.67,2.67,0.33,0,0,1,0,1,1,home_win,1,0,0,8.0,42.0,-34.0,1
+1998 FIFA Men's World Cup,1998-06-15,group stage,0,0,Group G,England,Tunisia,ENG,TUN,1463.79,1495.82,-32.02999999999997,1.4,1.0,1.8,1.0,0.67,1.33,0,0,2,0,2,2,home_win,1,0,0,5.0,21.0,-16.0,1
+1998 FIFA Men's World Cup,1998-06-15,group stage,0,0,Group G,Romania,Colombia,ROU,COL,1530.89,1405.09,125.80000000000018,2.0,1.8,1.8,1.2,1.6,0.8,0,0,1,0,1,1,home_win,1,0,0,,10.0,,1
+1998 FIFA Men's World Cup,1998-06-15,group stage,0,0,Group F,Germany,United States,DEU,USA,1532.16,1450.71,81.45000000000005,1.8,1.4,2.0,0.8,1.2,0.8,0,0,2,0,2,2,home_win,1,0,0,,11.0,,1
+1998 FIFA Men's World Cup,1998-06-16,group stage,0,0,Group A,Scotland,Norway,SCO,NOR,1419.28,1487.86,-68.57999999999993,0.6,1.0,0.8,0.8,1.0,1.0,0,0,1,1,2,0,draw,0,0,1,41.0,7.0,34.0,1
+1998 FIFA Men's World Cup,1998-06-16,group stage,0,0,Group A,Brazil,Morocco,BRA,MAR,1471.85,1500.7,-28.850000000000136,1.4,0.6,3.0,0.8,1.6,0.2,0,0,3,0,3,3,home_win,1,0,0,,13.0,,1
+1998 FIFA Men's World Cup,1998-06-17,group stage,0,0,Group B,Chile,Austria,CHL,AUT,1521.83,1501.83,20.0,1.0,2.0,0.4,1.0,1.2,1.0,0,0,1,1,2,0,draw,0,0,1,9.0,31.0,-22.0,1
+1998 FIFA Men's World Cup,1998-06-17,group stage,0,0,Group B,Italy,Cameroon,ITA,CMR,1422.23,1566.53,-144.29999999999995,1.6,1.0,2.0,1.2,3.0,0.4,0,0,3,0,3,3,home_win,1,0,0,,49.0,,1
+1998 FIFA Men's World Cup,1998-06-18,group stage,0,0,Group C,South Africa,Denmark,ZAF,DNK,1482.64,1532.9,-50.25999999999999,0.0,3.0,0.0,2.2,1.2,2.4,0,0,1,1,2,0,draw,0,0,1,24.0,27.0,-3.0,1
+1998 FIFA Men's World Cup,1998-06-18,group stage,0,0,Group C,France,Saudi Arabia,FRA,SAU,1487.82,1520.72,-32.90000000000009,2.0,1.0,2.4,1.0,1.4,1.2,0,0,4,0,4,4,home_win,1,0,0,1.0,34.0,-33.0,1
+1998 FIFA Men's World Cup,1998-06-19,group stage,0,0,Group D,Spain,Paraguay,ESP,PRY,1609.55,1493.3,116.25,2.0,1.4,1.4,0.8,1.2,1.2,0,0,0,0,0,0,draw,0,0,1,,29.0,,1
+1998 FIFA Men's World Cup,1998-06-19,group stage,0,0,Group D,Nigeria,Bulgaria,NGA,BGR,1424.48,1462.74,-38.25999999999999,2.0,1.2,1.8,0.8,1.6,1.4,0,0,1,0,1,1,home_win,1,0,0,74.0,35.0,39.0,1
+1998 FIFA Men's World Cup,1998-06-20,group stage,0,0,Group E,Belgium,Mexico,BEL,MEX,1509.41,1446.19,63.22000000000003,0.8,0.8,1.4,1.4,1.0,1.4,0,0,2,2,4,0,draw,0,0,1,36.0,4.0,32.0,1
+1998 FIFA Men's World Cup,1998-06-20,group stage,0,0,Group E,Netherlands,South Korea,NLD,KOR,1598.57,1543.89,54.67999999999984,1.2,1.0,1.4,1.0,1.8,0.4,0,0,5,0,5,5,home_win,1,0,0,25.0,20.0,5.0,1
+1998 FIFA Men's World Cup,1998-06-20,group stage,0,0,Group H,Japan,Croatia,JPN,HRV,1483.5,1484.0,-0.5,0.0,1.0,0.0,3.0,1.0,3.0,0,0,0,1,1,-1,away_win,0,1,0,12.0,19.0,-7.0,1
+1998 FIFA Men's World Cup,1998-06-21,group stage,0,0,Group F,United States,Iran,USA,IRN,1438.39,1457.11,-18.7199999999998,0.6,1.2,0.8,0.5,2.25,0.25,0,0,1,2,3,-1,away_win,0,1,0,11.0,42.0,-31.0,1
+1998 FIFA Men's World Cup,1998-06-21,group stage,0,0,Group F,Germany,Yugoslavia,DEU,YUG,1544.48,1547.89,-3.410000000000082,2.0,1.4,2.0,1.6,0.4,2.4,0,0,2,2,4,0,draw,0,0,1,,8.0,,1
+1998 FIFA Men's World Cup,1998-06-21,group stage,0,0,Group H,Argentina,Jamaica,ARG,JAM,1505.67,1516.0,-10.329999999999927,1.8,1.2,1.8,1.0,3.0,0.0,0,0,5,0,5,5,home_win,1,0,0,6.0,30.0,-24.0,1
+1998 FIFA Men's World Cup,1998-06-22,group stage,0,0,Group G,Colombia,Tunisia,COL,TUN,1394.64,1478.35,-83.70999999999981,1.0,1.6,0.6,0.75,1.0,1.0,0,0,1,0,1,1,home_win,1,0,0,10.0,21.0,-11.0,1
+1998 FIFA Men's World Cup,1998-06-22,group stage,0,0,Group G,Romania,England,ROU,ENG,1541.34,1481.26,60.07999999999993,1.6,1.6,1.8,1.6,1.0,1.8,0,0,2,1,3,1,home_win,1,0,0,,5.0,,1
+1998 FIFA Men's World Cup,1998-06-23,group stage,0,0,Group B,Chile,Cameroon,CHL,CMR,1520.91,1544.24,-23.329999999999927,1.2,2.2,0.4,0.8,3.0,0.4,0,0,1,1,2,0,draw,0,0,1,9.0,49.0,-40.0,1
+1998 FIFA Men's World Cup,1998-06-23,group stage,0,0,Group B,Italy,Austria,ITA,AUT,1444.52,1502.75,-58.23000000000002,1.8,0.8,2.0,0.8,1.0,1.0,0,0,2,1,3,1,home_win,1,0,0,,31.0,,1
+1998 FIFA Men's World Cup,1998-06-23,group stage,0,0,Group A,Brazil,Norway,BRA,NOR,1489.18,1484.74,4.440000000000055,1.8,0.6,3.0,0.8,0.8,1.2,0,0,1,2,3,-1,away_win,0,1,0,,7.0,,1
+1998 FIFA Men's World Cup,1998-06-23,group stage,0,0,Group A,Scotland,Morocco,SCO,MAR,1422.4,1483.37,-60.9699999999998,0.8,1.2,0.8,0.8,2.0,0.2,0,0,0,3,3,-3,away_win,0,1,0,41.0,13.0,28.0,1
+1998 FIFA Men's World Cup,1998-06-24,group stage,0,0,Group C,France,Denmark,FRA,DNK,1505.33,1530.6,-25.269999999999985,2.4,1.0,2.4,2.2,1.4,2.0,0,0,2,1,3,1,home_win,1,0,0,1.0,27.0,-26.0,1
+1998 FIFA Men's World Cup,1998-06-24,group stage,0,0,Group C,South Africa,Saudi Arabia,ZAF,SAU,1484.94,1503.21,-18.269999999999985,0.5,2.0,0.5,0.8,1.8,1.2,0,0,2,2,4,0,draw,0,0,1,24.0,34.0,-10.0,1
+1998 FIFA Men's World Cup,1998-06-24,group stage,0,0,Group D,Nigeria,Paraguay,NGA,PRY,1442.23,1498.46,-56.23000000000002,1.6,1.2,1.8,0.6,1.2,0.8,0,0,1,3,4,-2,away_win,0,1,0,74.0,29.0,45.0,1
+1998 FIFA Men's World Cup,1998-06-24,group stage,0,0,Group D,Spain,Bulgaria,ESP,BGR,1604.39,1444.99,159.4000000000001,1.8,1.2,1.4,0.6,1.6,0.8,0,0,6,1,7,5,home_win,1,0,0,,35.0,,1
+1998 FIFA Men's World Cup,1998-06-25,group stage,0,0,Group F,Germany,Iran,DEU,IRN,1544.64,1423.25,121.3900000000001,2.2,1.6,2.0,0.8,2.0,0.8,0,0,2,0,2,2,home_win,1,0,0,,42.0,,1
+1998 FIFA Men's World Cup,1998-06-25,group stage,0,0,Group F,United States,Yugoslavia,USA,YUG,1472.25,1547.73,-75.48000000000002,0.6,1.4,0.6,1.8,0.8,2.0,0,0,0,1,1,-1,away_win,0,1,0,11.0,8.0,3.0,1
+1998 FIFA Men's World Cup,1998-06-25,group stage,0,0,Group E,Belgium,South Korea,BEL,KOR,1506.53,1530.39,-23.860000000000127,1.0,1.2,1.0,1.0,2.6,0.4,0,0,1,1,2,0,draw,0,0,1,36.0,20.0,16.0,1
+1998 FIFA Men's World Cup,1998-06-25,group stage,0,0,Group E,Netherlands,Mexico,NLD,MEX,1612.07,1449.07,163.0,2.2,0.8,2.0,1.8,1.2,1.6,0,0,2,2,4,0,draw,0,0,1,25.0,4.0,21.0,1
+1998 FIFA Men's World Cup,1998-06-26,group stage,0,0,Group H,Argentina,Croatia,ARG,HRV,1522.15,1467.52,54.63000000000011,2.0,1.2,1.8,2.0,0.5,3.0,0,0,1,0,1,1,home_win,1,0,0,6.0,19.0,-13.0,1
+1998 FIFA Men's World Cup,1998-06-26,group stage,0,0,Group H,Japan,Jamaica,JPN,JAM,1499.98,1499.52,0.4600000000000364,0.0,1.0,0.0,0.5,4.0,0.0,0,0,1,2,3,-1,away_win,0,1,0,12.0,30.0,-18.0,1
+1998 FIFA Men's World Cup,1998-06-26,group stage,0,0,Group G,Colombia,England,COL,ENG,1414.42,1468.0,-53.57999999999993,1.0,1.2,1.2,1.6,1.4,1.2,0,0,0,2,2,-2,away_win,0,1,0,10.0,5.0,5.0,1
+1998 FIFA Men's World Cup,1998-06-26,group stage,0,0,Group G,Romania,Tunisia,ROU,TUN,1554.6,1458.57,96.02999999999996,1.8,1.0,2.4,0.6,1.0,0.8,0,0,1,1,2,0,draw,0,0,1,,21.0,,1
+1998 FIFA Men's World Cup,1998-06-27,round of 16,1,1,not applicable,Italy,Norway,ITA,NOR,1463.18,1472.98,-9.799999999999956,1.8,0.8,2.0,1.0,1.0,1.2,0,0,1,0,1,1,home_win,1,0,0,,7.0,,1
+1998 FIFA Men's World Cup,1998-06-27,round of 16,1,1,not applicable,Brazil,Chile,BRA,CHL,1500.94,1521.98,-21.039999999999964,1.4,0.6,2.4,1.4,2.2,0.6,0,0,4,1,5,3,home_win,1,0,0,,9.0,,1
+1998 FIFA Men's World Cup,1998-06-28,round of 16,1,1,not applicable,Nigeria,Denmark,NGA,DNK,1511.89,1513.44,-1.5499999999999543,1.6,1.4,1.8,1.2,1.6,1.4,0,0,1,4,5,-3,away_win,0,1,0,74.0,27.0,47.0,1
+1998 FIFA Men's World Cup,1998-06-28,round of 16,1,1,not applicable,France,Paraguay,FRA,PRY,1522.49,1428.8,93.69000000000004,2.6,1.0,2.4,1.0,1.2,1.2,1,0,1,0,1,1,home_win,1,0,0,1.0,29.0,-28.0,1
+1998 FIFA Men's World Cup,1998-06-29,round of 16,1,1,not applicable,Germany,Mexico,DEU,MEX,1555.27,1456.07,99.20000000000005,2.0,1.2,2.0,1.8,1.4,1.2,0,0,2,1,3,1,home_win,1,0,0,,4.0,,1
+1998 FIFA Men's World Cup,1998-06-29,round of 16,1,1,not applicable,Netherlands,Yugoslavia,NLD,YUG,1605.07,1459.67,145.39999999999986,2.2,1.0,1.6,1.2,0.6,2.0,0,0,2,1,3,1,home_win,1,0,0,25.0,8.0,17.0,1
+1998 FIFA Men's World Cup,1998-06-30,round of 16,1,1,not applicable,Romania,Croatia,ROU,HRV,1550.29,1454.02,96.26999999999998,1.8,1.2,2.0,1.33,0.67,2.0,0,0,0,1,1,-1,away_win,0,1,0,,19.0,,1
+1998 FIFA Men's World Cup,1998-06-30,round of 16,1,1,not applicable,Argentina,England,ARG,ENG,1535.65,1400.87,134.7800000000002,1.8,1.0,1.8,1.4,1.0,1.2,1,1,2,2,4,0,home_win,1,0,0,6.0,5.0,1.0,1
+1998 FIFA Men's World Cup,1998-07-03,quarter-finals,2,1,not applicable,Brazil,Denmark,BRA,DNK,1517.91,1495.96,21.950000000000045,2.0,0.8,2.4,1.6,1.8,1.4,0,0,3,2,5,1,home_win,1,0,0,,27.0,,1
+1998 FIFA Men's World Cup,1998-07-03,quarter-finals,2,1,not applicable,Italy,France,ITA,FRA,1479.63,1534.28,-54.64999999999986,1.6,0.6,2.0,2.8,0.6,3.0,1,1,0,0,0,0,away_win,0,1,0,,1.0,,1
+1998 FIFA Men's World Cup,1998-07-04,quarter-finals,2,1,not applicable,Germany,Croatia,DEU,HRV,1566.82,1529.97,36.84999999999991,1.8,1.0,2.0,1.25,0.5,2.25,0,0,0,3,3,-3,away_win,0,1,0,,19.0,,1
+1998 FIFA Men's World Cup,1998-07-04,quarter-finals,2,1,not applicable,Netherlands,Argentina,NLD,ARG,1614.74,1545.74,69.0,2.2,1.2,1.6,2.2,1.0,2.4,0,0,2,1,3,1,home_win,1,0,0,25.0,6.0,19.0,1
+1998 FIFA Men's World Cup,1998-07-07,semi-finals,3,1,not applicable,Brazil,Netherlands,BRA,NLD,1532.9,1627.6,-94.69999999999982,2.6,1.2,2.4,2.2,0.8,2.2,1,1,1,1,2,0,home_win,1,0,0,,25.0,,1
+1998 FIFA Men's World Cup,1998-07-08,semi-finals,3,1,not applicable,France,Croatia,FRA,HRV,1466.13,1549.13,-83.0,2.0,0.2,3.0,1.6,0.4,2.4,0,0,2,1,3,1,home_win,1,0,0,1.0,19.0,-18.0,1
+1998 FIFA Men's World Cup,1998-07-11,third-place match,0,1,not applicable,Netherlands,Croatia,NLD,HRV,1607.34,1529.38,77.95999999999981,2.4,1.0,2.0,1.2,0.6,1.8,0,0,1,2,3,-1,away_win,0,1,0,25.0,19.0,6.0,1
+1998 FIFA Men's World Cup,1998-07-12,final,4,1,not applicable,Brazil,France,BRA,FRA,1553.16,1485.88,67.27999999999997,2.4,1.2,2.4,1.8,0.4,3.0,0,0,0,3,3,-3,away_win,0,1,0,,1.0,,1
+2002 FIFA Men's World Cup,2002-05-31,group stage,0,0,Group A,France,Senegal,FRA,SEN,1534.1,1500.0,34.09999999999991,1.6,0.4,3.0,0.0,0.0,0.0,0,0,0,1,1,-1,away_win,0,1,0,1.0,42.0,-41.0,1
+2002 FIFA Men's World Cup,2002-06-01,group stage,0,0,Group E,Republic of Ireland,Cameroon,IRL,CMR,1456.97,1543.17,-86.20000000000005,0.4,1.0,0.8,0.6,2.8,0.4,0,0,1,1,2,0,draw,0,0,1,15.0,17.0,-2.0,1
+2002 FIFA Men's World Cup,2002-06-01,group stage,0,0,Group A,Uruguay,Denmark,URY,DNK,1550.28,1480.97,69.30999999999995,0.4,1.2,0.8,1.8,1.4,1.4,0,0,1,2,3,-1,away_win,0,1,0,24.0,20.0,4.0,1
+2002 FIFA Men's World Cup,2002-06-01,group stage,0,0,Group E,Germany,Saudi Arabia,DEU,SAU,1547.66,1502.37,45.29000000000019,1.6,1.2,2.0,0.8,2.0,0.8,0,0,8,0,8,8,home_win,1,0,0,11.0,34.0,-23.0,1
+2002 FIFA Men's World Cup,2002-06-02,group stage,0,0,Group F,Argentina,Nigeria,ARG,NGA,1532.88,1529.37,3.5100000000002183,2.0,0.8,2.4,1.4,2.2,1.2,0,0,1,0,1,1,home_win,1,0,0,3.0,27.0,-24.0,1
+2002 FIFA Men's World Cup,2002-06-02,group stage,0,0,Group B,Paraguay,South Africa,PRY,ZAF,1417.01,1485.78,-68.76999999999998,0.6,1.0,1.0,1.0,2.0,0.67,0,0,2,2,4,0,draw,0,0,1,18.0,37.0,-19.0,1
+2002 FIFA Men's World Cup,2002-06-02,group stage,0,0,Group F,England,Sweden,ENG,SWE,1390.78,1536.62,-145.83999999999992,1.6,1.2,1.2,2.0,1.0,2.0,0,0,1,1,2,0,draw,0,0,1,12.0,19.0,-7.0,1
+2002 FIFA Men's World Cup,2002-06-02,group stage,0,0,Group B,Spain,Slovenia,ESP,SVN,1613.52,1500.0,113.51999999999998,2.4,1.2,1.4,0.0,0.0,0.0,0,0,3,1,4,2,home_win,1,0,0,8.0,25.0,-17.0,1
+2002 FIFA Men's World Cup,2002-06-03,group stage,0,0,Group G,Italy,Ecuador,ITA,ECU,1547.78,1500.0,47.77999999999997,1.6,0.6,2.0,0.0,0.0,0.0,0,0,2,0,2,2,home_win,1,0,0,6.0,36.0,-30.0,1
+2002 FIFA Men's World Cup,2002-06-03,group stage,0,0,Group G,Croatia,Mexico,HRV,MEX,1587.81,1444.52,143.28999999999996,1.4,0.8,1.8,1.8,1.6,1.0,0,0,0,1,1,-1,away_win,0,1,0,21.0,7.0,14.0,1
+2002 FIFA Men's World Cup,2002-06-03,group stage,0,0,Group C,Brazil,Turkey,BRA,TUR,1504.94,1484.14,20.799999999999955,1.8,1.8,1.8,3.33,3.67,1.0,0,0,2,1,3,1,home_win,1,0,0,,,,0
+2002 FIFA Men's World Cup,2002-06-04,group stage,0,0,Group C,China,Costa Rica,CHN,CRI,1500.0,1465.16,34.83999999999992,0.0,0.0,0.0,1.0,1.5,1.5,0,0,0,2,2,-2,away_win,0,1,0,50.0,29.0,21.0,1
+2002 FIFA Men's World Cup,2002-06-04,group stage,0,0,Group H,Japan,Belgium,JPN,BEL,1515.54,1507.63,7.9099999999998545,0.33,1.33,0.0,1.0,1.4,0.6,0,0,2,2,4,0,draw,0,0,1,1.0,23.0,-22.0,1
+2002 FIFA Men's World Cup,2002-06-04,group stage,0,0,Group D,South Korea,Poland,KOR,POL,1529.29,1542.67,-13.38000000000011,0.8,2.4,0.4,0.8,1.8,1.4,0,0,2,0,2,2,home_win,1,0,0,1.0,38.0,-37.0,1
+2002 FIFA Men's World Cup,2002-06-05,group stage,0,0,Group H,Russia,Tunisia,RUS,TUN,1493.04,1462.88,30.15999999999985,2.33,2.0,1.0,0.2,1.0,0.4,0,0,2,0,2,2,home_win,1,0,0,28.0,31.0,-3.0,1
+2002 FIFA Men's World Cup,2002-06-05,group stage,0,0,Group D,United States,Portugal,USA,PRT,1560.31,1497.21,63.09999999999991,0.2,1.4,0.0,1.0,1.4,1.2,0,0,3,2,5,1,home_win,1,0,0,13.0,5.0,8.0,1
+2002 FIFA Men's World Cup,2002-06-05,group stage,0,0,Group E,Germany,Republic of Ireland,DEU,IRL,1561.59,1460.86,100.73000000000002,2.8,1.2,2.0,0.6,1.0,1.0,0,0,1,1,2,0,draw,0,0,1,11.0,15.0,-4.0,1
+2002 FIFA Men's World Cup,2002-06-06,group stage,0,0,Group A,France,Uruguay,FRA,URY,1517.57,1500.12,17.450000000000045,1.2,0.4,2.4,0.6,1.4,0.8,0,0,0,0,0,0,draw,0,0,1,1.0,24.0,-23.0,1
+2002 FIFA Men's World Cup,2002-06-06,group stage,0,0,Group A,Denmark,Senegal,DNK,SEN,1531.13,1516.53,14.600000000000136,2.0,1.6,1.4,1.0,0.0,3.0,0,0,1,1,2,0,draw,0,0,1,20.0,42.0,-22.0,1
+2002 FIFA Men's World Cup,2002-06-06,group stage,0,0,Group E,Cameroon,Saudi Arabia,CMR,SAU,1539.28,1488.44,50.83999999999992,0.8,2.4,0.6,0.6,3.6,0.2,0,0,1,0,1,1,home_win,1,0,0,17.0,34.0,-17.0,1
+2002 FIFA Men's World Cup,2002-06-07,group stage,0,0,Group B,Spain,Paraguay,ESP,PRY,1624.47,1420.14,204.32999999999996,2.4,1.4,1.4,1.0,0.8,1.2,0,0,3,1,4,2,home_win,1,0,0,8.0,18.0,-10.0,1
+2002 FIFA Men's World Cup,2002-06-07,group stage,0,0,Group F,Argentina,England,ARG,ENG,1548.72,1397.13,151.58999999999992,2.0,0.8,2.4,1.6,1.0,1.4,0,0,0,1,1,-1,away_win,0,1,0,3.0,12.0,-9.0,1
+2002 FIFA Men's World Cup,2002-06-07,group stage,0,0,Group F,Sweden,Nigeria,SWE,NGA,1530.27,1513.53,16.74000000000001,2.0,1.0,2.0,1.2,2.0,1.2,0,0,2,1,3,1,home_win,1,0,0,19.0,27.0,-8.0,1
+2002 FIFA Men's World Cup,2002-06-08,group stage,0,0,Group C,Brazil,China,BRA,CHN,1519.98,1482.76,37.22000000000003,2.0,1.6,2.4,0.0,2.0,0.0,0,0,4,0,4,4,home_win,1,0,0,2.0,50.0,-48.0,1
+2002 FIFA Men's World Cup,2002-06-08,group stage,0,0,Group B,South Africa,Slovenia,ZAF,SVN,1482.65,1489.05,-6.399999999999864,1.25,2.0,0.75,1.0,3.0,0.0,0,0,1,0,1,1,home_win,1,0,0,37.0,25.0,12.0,1
+2002 FIFA Men's World Cup,2002-06-08,group stage,0,0,Group G,Italy,Croatia,ITA,HRV,1561.59,1466.77,94.81999999999994,1.6,0.2,2.4,1.4,0.8,1.8,0,0,1,2,3,-1,away_win,0,1,0,6.0,21.0,-15.0,1
+2002 FIFA Men's World Cup,2002-06-09,group stage,0,0,Group G,Mexico,Ecuador,MEX,ECU,1565.56,1486.19,79.36999999999989,1.8,1.4,1.6,0.0,2.0,0.0,0,0,2,1,3,1,home_win,1,0,0,7.0,36.0,-29.0,1
+2002 FIFA Men's World Cup,2002-06-09,group stage,0,0,Group C,Costa Rica,Turkey,CRI,TUR,1482.4,1469.1,13.300000000000182,1.2,1.2,1.8,2.75,3.25,0.75,0,0,1,1,2,0,draw,0,0,1,29.0,22.0,7.0,1
+2002 FIFA Men's World Cup,2002-06-09,group stage,0,0,Group H,Japan,Russia,JPN,RUS,1515.18,1507.65,7.529999999999973,0.75,1.5,0.25,2.25,1.5,1.5,0,0,1,0,1,1,home_win,1,0,0,1.0,28.0,-27.0,1
+2002 FIFA Men's World Cup,2002-06-10,group stage,0,0,Group D,South Korea,United States,KOR,USA,1545.91,1573.44,-27.529999999999973,1.2,2.4,0.8,0.8,1.6,0.6,0,0,1,1,2,0,draw,0,0,1,1.0,13.0,-12.0,1
+2002 FIFA Men's World Cup,2002-06-10,group stage,0,0,Group H,Tunisia,Belgium,TUN,BEL,1448.27,1507.99,-59.72000000000003,0.2,1.2,0.4,1.4,1.6,0.8,0,0,1,1,2,0,draw,0,0,1,31.0,23.0,8.0,1
+2002 FIFA Men's World Cup,2002-06-10,group stage,0,0,Group D,Portugal,Poland,PRT,POL,1484.08,1526.05,-41.97000000000003,1.2,1.6,1.2,0.2,1.8,0.8,0,0,4,0,4,4,home_win,1,0,0,5.0,38.0,-33.0,1
+2002 FIFA Men's World Cup,2002-06-11,group stage,0,0,Group A,Denmark,France,DNK,FRA,1530.46,1516.77,13.690000000000056,2.0,1.6,1.4,1.0,0.4,2.0,0,0,2,0,2,2,home_win,1,0,0,20.0,1.0,19.0,1
+2002 FIFA Men's World Cup,2002-06-11,group stage,0,0,Group A,Senegal,Uruguay,SEN,URY,1517.2,1500.92,16.279999999999973,1.0,0.5,2.0,0.6,1.4,0.8,0,0,3,3,6,0,draw,0,0,1,42.0,24.0,18.0,1
+2002 FIFA Men's World Cup,2002-06-11,group stage,0,0,Group E,Cameroon,Germany,CMR,DEU,1552.96,1557.08,-4.119999999999891,0.8,1.2,1.2,2.6,1.0,2.0,0,0,0,2,2,-2,away_win,0,1,0,17.0,11.0,6.0,1
+2002 FIFA Men's World Cup,2002-06-11,group stage,0,0,Group E,Saudi Arabia,Republic of Ireland,SAU,IRL,1474.76,1465.37,9.3900000000001,0.4,3.2,0.2,0.6,1.2,0.6,0,0,0,3,3,-3,away_win,0,1,0,34.0,15.0,19.0,1
+2002 FIFA Men's World Cup,2002-06-12,group stage,0,0,Group B,Slovenia,Paraguay,SVN,PRY,1472.76,1412.6,60.16000000000008,0.5,2.0,0.0,1.2,1.4,1.0,0,0,1,3,4,-2,away_win,0,1,0,25.0,18.0,7.0,1
+2002 FIFA Men's World Cup,2002-06-12,group stage,0,0,Group B,South Africa,Spain,ZAF,ESP,1498.94,1632.01,-133.06999999999994,1.2,1.6,1.2,2.8,1.2,2.0,0,0,2,3,5,-1,away_win,0,1,0,37.0,8.0,29.0,1
+2002 FIFA Men's World Cup,2002-06-12,group stage,0,0,Group F,Nigeria,England,NGA,ENG,1498.3,1526.15,-27.850000000000136,0.8,2.0,0.6,1.4,1.0,1.4,0,0,0,0,0,0,draw,0,0,1,27.0,12.0,15.0,1
+2002 FIFA Men's World Cup,2002-06-12,group stage,0,0,Group F,Sweden,Argentina,SWE,ARG,1545.5,1419.7,125.79999999999995,1.8,1.0,2.0,1.0,1.0,1.8,0,0,1,1,2,0,draw,0,0,1,19.0,3.0,16.0,1
+2002 FIFA Men's World Cup,2002-06-13,group stage,0,0,Group C,Costa Rica,Brazil,CRI,BRA,1481.79,1534.27,-52.48000000000002,1.2,1.4,1.4,2.0,1.4,2.4,0,0,2,5,7,-3,away_win,0,1,0,29.0,2.0,27.0,1
+2002 FIFA Men's World Cup,2002-06-13,group stage,0,0,Group C,Turkey,China,TUR,CHN,1469.71,1468.47,1.240000000000009,2.4,2.8,0.8,0.0,3.0,0.0,0,0,3,0,3,3,home_win,1,0,0,22.0,50.0,-28.0,1
+2002 FIFA Men's World Cup,2002-06-13,group stage,0,0,Group G,Ecuador,Croatia,ECU,HRV,1473.78,1541.33,-67.54999999999995,0.5,2.0,0.0,1.6,1.0,1.8,0,0,1,0,1,1,home_win,1,0,0,36.0,21.0,15.0,1
+2002 FIFA Men's World Cup,2002-06-13,group stage,0,0,Group G,Mexico,Italy,MEX,ITA,1577.97,1487.03,90.94000000000004,1.6,1.4,1.6,1.2,0.6,1.8,0,0,1,1,2,0,draw,0,0,1,7.0,6.0,1.0,1
+2002 FIFA Men's World Cup,2002-06-14,group stage,0,0,Group D,Portugal,South Korea,PRT,KOR,1502.0,1547.18,-45.180000000000064,1.6,1.4,1.2,1.0,2.0,1.0,0,0,0,1,1,-1,away_win,0,1,0,5.0,1.0,4.0,1
+2002 FIFA Men's World Cup,2002-06-14,group stage,0,0,Group D,Poland,United States,POL,USA,1508.13,1572.17,-64.03999999999996,0.2,2.6,0.6,1.0,1.6,0.8,0,0,3,1,4,2,home_win,1,0,0,38.0,13.0,25.0,1
+2002 FIFA Men's World Cup,2002-06-14,group stage,0,0,Group H,Belgium,Russia,BEL,RUS,1505.27,1492.0,13.269999999999982,1.2,1.2,1.0,1.8,1.4,1.2,0,0,3,2,5,1,home_win,1,0,0,23.0,28.0,-5.0,1
+2002 FIFA Men's World Cup,2002-06-14,group stage,0,0,Group H,Tunisia,Japan,TUN,JPN,1450.99,1530.83,-79.83999999999992,0.4,1.4,0.4,0.8,1.2,0.8,0,0,0,2,2,-2,away_win,0,1,0,31.0,1.0,30.0,1
+2002 FIFA Men's World Cup,2002-06-15,round of 16,1,1,not applicable,Germany,Paraguay,DEU,PRY,1537.15,1454.02,83.13000000000011,2.6,1.0,2.0,1.8,1.6,1.4,0,0,1,0,1,1,home_win,1,0,0,11.0,18.0,-7.0,1
+2002 FIFA Men's World Cup,2002-06-15,round of 16,1,1,not applicable,Denmark,England,DNK,ENG,1545.83,1524.87,20.96000000000004,2.2,1.2,2.0,1.2,0.6,1.6,0,0,0,3,3,-3,away_win,0,1,0,20.0,12.0,8.0,1
+2002 FIFA Men's World Cup,2002-06-16,round of 16,1,1,not applicable,Sweden,Senegal,SWE,SEN,1539.95,1516.45,23.5,1.6,0.8,1.6,1.67,1.33,1.67,1,0,1,2,3,-1,away_win,0,1,0,19.0,42.0,-23.0,1
+2002 FIFA Men's World Cup,2002-06-16,round of 16,1,1,not applicable,Spain,Republic of Ireland,ESP,IRL,1488.79,1458.33,30.46000000000004,3.0,1.0,2.6,1.0,0.8,1.2,1,1,1,1,2,0,home_win,1,0,0,8.0,15.0,-7.0,1
+2002 FIFA Men's World Cup,2002-06-17,round of 16,1,1,not applicable,Brazil,Belgium,BRA,BEL,1468.19,1520.66,-52.47000000000003,2.4,1.4,2.4,1.8,1.6,1.4,0,0,2,0,2,2,home_win,1,0,0,2.0,23.0,-21.0,1
+2002 FIFA Men's World Cup,2002-06-17,round of 16,1,1,not applicable,Mexico,United States,MEX,USA,1573.88,1553.25,20.63000000000011,1.4,1.2,1.6,1.2,1.8,0.8,0,0,0,2,2,-2,away_win,0,1,0,7.0,13.0,-6.0,1
+2002 FIFA Men's World Cup,2002-06-18,round of 16,1,1,not applicable,South Korea,Italy,KOR,ITA,1488.07,1491.12,-3.0499999999999545,1.0,1.4,1.6,1.0,0.6,1.4,1,0,2,1,3,1,home_win,1,0,0,1.0,6.0,-5.0,1
+2002 FIFA Men's World Cup,2002-06-18,round of 16,1,1,not applicable,Japan,Turkey,JPN,TUR,1438.6,1485.65,-47.05000000000018,1.2,1.0,1.4,2.8,2.0,1.4,0,0,0,1,1,-1,away_win,0,1,0,1.0,22.0,-21.0,1
+2002 FIFA Men's World Cup,2002-06-21,quarter-finals,2,1,not applicable,England,Brazil,ENG,BRA,1528.87,1486.59,42.27999999999997,1.4,0.6,1.6,2.6,1.2,2.4,0,0,1,2,3,-1,away_win,0,1,0,12.0,2.0,10.0,1
+2002 FIFA Men's World Cup,2002-06-21,quarter-finals,2,1,not applicable,Germany,United States,DEU,USA,1549.39,1556.93,-7.539999999999964,2.4,0.8,2.0,1.4,1.4,1.4,0,0,1,0,1,1,home_win,1,0,0,11.0,13.0,-2.0,1
+2002 FIFA Men's World Cup,2002-06-22,quarter-finals,2,1,not applicable,Spain,South Korea,ESP,KOR,1503.39,1504.21,-0.8199999999999363,3.2,1.2,3.0,1.4,0.6,2.2,1,1,0,0,0,0,away_win,0,1,0,8.0,1.0,7.0,1
+2002 FIFA Men's World Cup,2002-06-22,quarter-finals,2,1,not applicable,Senegal,Turkey,SEN,TUR,1522.87,1424.75,98.11999999999988,1.75,1.25,2.0,1.6,2.0,1.4,1,0,0,1,1,-1,away_win,0,1,0,42.0,22.0,20.0,1
+2002 FIFA Men's World Cup,2002-06-25,semi-finals,3,1,not applicable,Germany,South Korea,DEU,KOR,1565.74,1487.43,78.30999999999995,2.6,0.2,2.6,1.2,0.4,2.6,0,0,1,0,1,1,home_win,1,0,0,11.0,1.0,10.0,1
+2002 FIFA Men's World Cup,2002-06-26,semi-finals,3,1,not applicable,Brazil,Turkey,BRA,TUR,1510.93,1502.47,8.460000000000036,3.0,0.8,3.0,1.4,0.6,2.0,0,0,1,0,1,1,home_win,1,0,0,,,,0
+2002 FIFA Men's World Cup,2002-06-29,third-place match,0,1,not applicable,South Korea,Turkey,KOR,TUR,1474.98,1486.86,-11.879999999999882,0.8,0.6,2.0,1.2,0.4,2.0,0,0,2,3,5,-1,away_win,0,1,0,1.0,22.0,-21.0,1
+2002 FIFA Men's World Cup,2002-06-30,final,4,1,not applicable,Germany,Brazil,DEU,BRA,1578.19,1526.54,51.65000000000009,1.2,0.2,2.6,2.8,0.6,3.0,0,0,0,2,2,-2,away_win,0,1,0,11.0,2.0,9.0,1
+2006 FIFA Men's World Cup,2006-06-09,group stage,0,0,Group A,Germany,Costa Rica,DEU,CRI,1544.9,1547.87,-2.9699999999998,1.0,0.4,2.4,1.6,2.2,1.4,0,0,4,2,6,2,home_win,1,0,0,19.0,26.0,-7.0,1
+2006 FIFA Men's World Cup,2006-06-09,group stage,0,0,Group A,Poland,Ecuador,POL,ECU,1527.05,1492.85,34.200000000000045,0.6,2.8,0.6,0.67,1.33,1.0,0,0,0,2,2,-2,away_win,0,1,0,29.0,39.0,-10.0,1
+2006 FIFA Men's World Cup,2006-06-10,group stage,0,0,Group B,England,Paraguay,ENG,PRY,1504.53,1441.78,62.75,1.2,0.6,1.6,1.2,1.6,0.8,0,0,1,0,1,1,home_win,1,0,0,10.0,33.0,-23.0,1
+2006 FIFA Men's World Cup,2006-06-10,group stage,0,0,Group B,Trinidad and Tobago,Sweden,TTO,SWE,1500.0,1533.53,-33.52999999999997,0.0,0.0,0.0,1.8,1.0,1.6,0,0,0,0,0,0,draw,0,0,1,47.0,16.0,31.0,1
+2006 FIFA Men's World Cup,2006-06-10,group stage,0,0,Group C,Argentina,Ivory Coast,ARG,CIV,1425.25,1500.0,-74.75,1.0,1.2,1.4,0.0,0.0,0.0,0,0,2,1,3,1,home_win,1,0,0,9.0,32.0,-23.0,1
+2006 FIFA Men's World Cup,2006-06-11,group stage,0,0,Group D,Angola,Portugal,AGO,PRT,1500.0,1561.11,-61.1099999999999,0.0,0.0,0.0,1.4,1.6,0.6,0,0,0,1,1,-1,away_win,0,1,0,57.0,7.0,50.0,1
+2006 FIFA Men's World Cup,2006-06-11,group stage,0,0,Group D,Mexico,Iran,MEX,IRN,1570.2,1412.62,157.58000000000015,1.0,1.2,1.4,0.8,1.8,0.8,0,0,3,1,4,2,home_win,1,0,0,4.0,23.0,-19.0,1
+2006 FIFA Men's World Cup,2006-06-11,group stage,0,0,Group C,Serbia and Montenegro,Netherlands,SCG,NLD,1500.0,1548.91,-48.91000000000008,0.0,0.0,0.0,1.6,1.4,1.4,0,0,0,1,1,-1,away_win,0,1,0,44.0,3.0,41.0,1
+2006 FIFA Men's World Cup,2006-06-12,group stage,0,0,Group F,Australia,Japan,AUS,JPN,1624.11,1499.5,124.6099999999999,0.0,1.67,0.33,1.2,1.0,1.4,0,0,3,1,4,2,home_win,1,0,0,42.0,18.0,24.0,1
+2006 FIFA Men's World Cup,2006-06-12,group stage,0,0,Group E,United States,Czech Republic,USA,CZE,1540.58,1500.0,40.57999999999993,1.4,1.4,1.4,0.0,0.0,0.0,0,0,0,3,3,-3,away_win,0,1,0,5.0,2.0,3.0,1
+2006 FIFA Men's World Cup,2006-06-12,group stage,0,0,Group E,Italy,Ghana,ITA,GHA,1474.98,1500.0,-25.019999999999985,1.0,1.0,0.8,0.0,0.0,0.0,0,0,2,0,2,2,home_win,1,0,0,13.0,48.0,-35.0,1
+2006 FIFA Men's World Cup,2006-06-13,group stage,0,0,Group G,South Korea,Togo,KOR,TGO,1502.31,1500.0,2.309999999999945,1.0,1.0,1.8,0.0,0.0,0.0,0,0,2,1,3,1,home_win,1,0,0,29.0,61.0,-32.0,1
+2006 FIFA Men's World Cup,2006-06-13,group stage,0,0,Group G,France,Switzerland,FRA,CHE,1501.4,1448.44,52.96000000000004,1.0,0.8,1.4,1.0,1.8,0.8,0,0,0,0,0,0,draw,0,0,1,8.0,35.0,-27.0,1
+2006 FIFA Men's World Cup,2006-06-13,group stage,0,0,Group F,Brazil,Croatia,BRA,HRV,1559.83,1522.26,37.569999999999936,2.4,0.6,3.0,1.0,1.2,1.2,0,0,1,0,1,1,home_win,1,0,0,1.0,23.0,-22.0,1
+2006 FIFA Men's World Cup,2006-06-14,group stage,0,0,Group H,Spain,Ukraine,ESP,UKR,1520.17,1500.0,20.170000000000076,2.0,1.0,2.4,0.0,0.0,0.0,0,0,4,0,4,4,home_win,1,0,0,5.0,45.0,-40.0,1
+2006 FIFA Men's World Cup,2006-06-14,group stage,0,0,Group H,Tunisia,Saudi Arabia,TUN,SAU,1543.22,1481.8,61.42000000000007,0.4,1.4,0.4,0.4,3.6,0.2,0,0,2,2,4,0,draw,0,0,1,21.0,34.0,-13.0,1
+2006 FIFA Men's World Cup,2006-06-14,group stage,0,0,Group A,Germany,Poland,DEU,POL,1561.04,1510.42,50.61999999999989,1.4,0.8,2.4,0.6,2.6,0.6,0,0,1,0,1,1,home_win,1,0,0,19.0,29.0,-10.0,1
+2006 FIFA Men's World Cup,2006-06-15,group stage,0,0,Group A,Ecuador,Costa Rica,ECU,CRI,1509.48,1531.73,-22.25,1.0,1.0,1.5,1.6,2.8,0.8,0,0,3,0,3,3,home_win,1,0,0,39.0,26.0,13.0,1
+2006 FIFA Men's World Cup,2006-06-15,group stage,0,0,Group B,England,Trinidad and Tobago,ENG,TTO,1517.67,1501.54,16.13000000000011,1.2,0.4,2.0,0.0,0.0,1.0,0,0,2,0,2,2,home_win,1,0,0,10.0,47.0,-37.0,1
+2006 FIFA Men's World Cup,2006-06-15,group stage,0,0,Group B,Sweden,Paraguay,SWE,PRY,1531.99,1428.64,103.34999999999992,1.0,1.0,1.2,1.2,1.6,0.8,0,0,1,0,1,1,home_win,1,0,0,16.0,33.0,-17.0,1
+2006 FIFA Men's World Cup,2006-06-16,group stage,0,0,Group D,Mexico,Angola,MEX,AGO,1579.4,1574.32,5.080000000000155,1.4,1.0,2.0,0.0,1.0,0.0,0,0,0,0,0,0,draw,0,0,1,4.0,57.0,-53.0,1
+2006 FIFA Men's World Cup,2006-06-16,group stage,0,0,Group C,Argentina,Serbia and Montenegro,ARG,SCG,1444.64,1562.67,-118.02999999999996,1.0,1.0,1.4,0.0,1.0,0.0,0,0,6,0,6,6,home_win,1,0,0,9.0,44.0,-35.0,1
+2006 FIFA Men's World Cup,2006-06-16,group stage,0,0,Group C,Netherlands,Ivory Coast,NLD,CIV,1486.24,1480.61,5.630000000000109,1.4,1.0,1.8,1.0,2.0,0.0,0,0,2,1,3,1,home_win,1,0,0,3.0,32.0,-29.0,1
+2006 FIFA Men's World Cup,2006-06-17,group stage,0,0,Group D,Portugal,Iran,PRT,IRN,1486.79,1403.42,83.36999999999989,1.6,1.4,1.2,0.8,2.2,0.6,0,0,2,0,2,2,home_win,1,0,0,7.0,23.0,-16.0,1
+2006 FIFA Men's World Cup,2006-06-17,group stage,0,0,Group E,Czech Republic,Ghana,CZE,GHA,1522.72,1482.85,39.87000000000012,3.0,0.0,3.0,0.0,2.0,0.0,0,0,0,2,2,-2,away_win,0,1,0,2.0,48.0,-46.0,1
+2006 FIFA Men's World Cup,2006-06-17,group stage,0,0,Group E,Italy,United States,ITA,USA,1492.13,1517.86,-25.72999999999979,1.4,1.0,1.4,0.8,1.6,0.8,0,0,1,1,2,0,draw,0,0,1,13.0,5.0,8.0,1
+2006 FIFA Men's World Cup,2006-06-18,group stage,0,0,Group F,Japan,Croatia,JPN,HRV,1489.0,1507.98,-18.980000000000015,1.2,1.2,1.4,0.8,1.0,1.2,0,0,0,0,0,0,draw,0,0,1,18.0,23.0,-5.0,1
+2006 FIFA Men's World Cup,2006-06-18,group stage,0,0,Group F,Brazil,Australia,BRA,AUS,1574.11,1634.61,-60.5,1.6,0.2,3.0,0.75,1.5,1.0,0,0,2,0,2,2,home_win,1,0,0,1.0,42.0,-41.0,1
+2006 FIFA Men's World Cup,2006-06-18,group stage,0,0,Group G,France,South Korea,FRA,KOR,1498.98,1518.2,-19.220000000000027,0.6,0.6,1.0,1.2,1.2,1.8,0,0,1,1,2,0,draw,0,0,1,8.0,29.0,-21.0,1
+2006 FIFA Men's World Cup,2006-06-19,group stage,0,0,Group G,Togo,Switzerland,TGO,CHE,1484.11,1450.86,33.25,1.0,2.0,0.0,1.0,1.4,1.0,0,0,0,2,2,-2,away_win,0,1,0,61.0,35.0,26.0,1
+2006 FIFA Men's World Cup,2006-06-19,group stage,0,0,Group H,Saudi Arabia,Ukraine,SAU,UKR,1484.6,1484.93,-0.3300000000001546,0.8,3.2,0.4,0.0,4.0,0.0,0,0,0,4,4,-4,away_win,0,1,0,34.0,45.0,-11.0,1
+2006 FIFA Men's World Cup,2006-06-19,group stage,0,0,Group H,Spain,Tunisia,ESP,TUN,1535.24,1540.42,-5.180000000000064,2.2,0.8,2.4,0.8,1.6,0.6,0,0,3,1,4,2,home_win,1,0,0,5.0,21.0,-16.0,1
+2006 FIFA Men's World Cup,2006-06-20,group stage,0,0,Group B,Paraguay,Trinidad and Tobago,PRY,TTO,1417.26,1486.28,-69.01999999999998,0.8,1.4,0.6,0.0,1.0,0.5,0,0,2,0,2,2,home_win,1,0,0,33.0,47.0,-14.0,1
+2006 FIFA Men's World Cup,2006-06-20,group stage,0,0,Group B,Sweden,England,SWE,ENG,1543.37,1532.93,10.439999999999827,1.0,0.8,1.6,1.4,0.4,2.0,0,0,2,2,4,0,draw,0,0,1,16.0,10.0,6.0,1
+2006 FIFA Men's World Cup,2006-06-20,group stage,0,0,Group A,Costa Rica,Poland,CRI,POL,1514.71,1496.73,17.980000000000018,1.4,2.6,0.8,0.6,2.0,0.6,0,0,1,2,3,-1,away_win,0,1,0,26.0,29.0,-3.0,1
+2006 FIFA Men's World Cup,2006-06-20,group stage,0,0,Group A,Ecuador,Germany,ECU,DEU,1526.5,1574.73,-48.23000000000002,1.4,0.8,1.8,1.4,0.8,2.4,0,0,0,3,3,-3,away_win,0,1,0,39.0,19.0,20.0,1
+2006 FIFA Men's World Cup,2006-06-21,group stage,0,0,Group D,Iran,Angola,IRN,AGO,1391.19,1574.55,-183.3599999999999,0.6,1.8,0.6,0.0,0.5,0.5,0,0,1,1,2,0,draw,0,0,1,23.0,57.0,-34.0,1
+2006 FIFA Men's World Cup,2006-06-21,group stage,0,0,Group D,Portugal,Mexico,PRT,MEX,1499.02,1579.17,-80.15000000000009,1.8,0.8,1.8,1.2,1.0,1.6,0,0,2,1,3,1,home_win,1,0,0,7.0,4.0,3.0,1
+2006 FIFA Men's World Cup,2006-06-21,group stage,0,0,Group C,Ivory Coast,Serbia and Montenegro,CIV,SCG,1464.87,1541.43,-76.56000000000017,1.0,2.0,0.0,0.0,3.5,0.0,0,0,3,2,5,1,home_win,1,0,0,32.0,44.0,-12.0,1
+2006 FIFA Men's World Cup,2006-06-21,group stage,0,0,Group C,Netherlands,Argentina,NLD,ARG,1501.98,1465.88,36.09999999999991,1.4,1.0,1.8,2.0,0.6,2.0,0,0,0,0,0,0,draw,0,0,1,3.0,9.0,-6.0,1
+2006 FIFA Men's World Cup,2006-06-22,group stage,0,0,Group E,Czech Republic,Italy,CZE,ITA,1500.68,1493.31,7.370000000000118,1.5,1.0,1.5,1.2,1.2,1.0,0,0,0,2,2,-2,away_win,0,1,0,2.0,13.0,-11.0,1
+2006 FIFA Men's World Cup,2006-06-22,group stage,0,0,Group E,Ghana,United States,GHA,USA,1504.89,1516.68,-11.789999999999964,1.0,1.0,1.5,0.8,1.6,0.8,0,0,2,1,3,1,home_win,1,0,0,48.0,5.0,43.0,1
+2006 FIFA Men's World Cup,2006-06-22,group stage,0,0,Group F,Croatia,Australia,HRV,AUS,1507.11,1615.85,-108.74,0.4,0.8,0.8,0.6,1.6,0.8,0,0,2,2,4,0,draw,0,0,1,23.0,42.0,-19.0,1
+2006 FIFA Men's World Cup,2006-06-22,group stage,0,0,Group F,Japan,Brazil,JPN,BRA,1489.87,1592.87,-103.0,0.8,0.8,1.4,1.6,0.2,3.0,0,0,1,4,5,-3,away_win,0,1,0,18.0,1.0,17.0,1
+2006 FIFA Men's World Cup,2006-06-23,group stage,0,0,Group G,Togo,France,TGO,FRA,1468.39,1499.86,-31.4699999999998,0.5,2.0,0.0,0.2,0.8,0.6,0,0,0,2,2,-2,away_win,0,1,0,61.0,8.0,53.0,1
+2006 FIFA Men's World Cup,2006-06-23,group stage,0,0,Group H,Saudi Arabia,Spain,SAU,ESP,1500.91,1551.48,-50.569999999999936,0.4,3.6,0.2,2.2,0.8,2.4,0,0,0,1,1,-1,away_win,0,1,0,34.0,5.0,29.0,1
+2006 FIFA Men's World Cup,2006-06-23,group stage,0,0,Group H,Ukraine,Tunisia,UKR,TUN,1468.62,1524.18,-55.56000000000017,2.0,2.0,1.5,0.8,2.0,0.4,0,0,1,0,1,1,home_win,1,0,0,45.0,21.0,24.0,1
+2006 FIFA Men's World Cup,2006-06-23,group stage,0,0,Group G,Switzerland,South Korea,CHE,KOR,1466.58,1517.32,-50.74000000000001,1.2,1.2,1.4,1.0,1.2,1.4,0,0,2,0,2,2,home_win,1,0,0,35.0,29.0,6.0,1
+2006 FIFA Men's World Cup,2006-06-24,round of 16,1,1,not applicable,Argentina,Mexico,ARG,MEX,1467.54,1559.54,-92.0,1.8,0.6,1.6,1.0,1.2,1.0,1,0,2,1,3,1,home_win,1,0,0,9.0,4.0,5.0,1
+2006 FIFA Men's World Cup,2006-06-24,round of 16,1,1,not applicable,Germany,Sweden,DEU,SWE,1512.71,1542.89,-30.180000000000064,1.8,0.8,2.4,1.0,1.0,1.2,0,0,2,0,2,2,home_win,1,0,0,19.0,16.0,3.0,1
+2006 FIFA Men's World Cup,2006-06-25,round of 16,1,1,not applicable,England,Ecuador,ENG,ECU,1533.41,1588.52,-55.1099999999999,1.8,0.8,2.0,1.4,1.0,1.8,0,0,1,0,1,1,home_win,1,0,0,10.0,39.0,-29.0,1
+2006 FIFA Men's World Cup,2006-06-25,round of 16,1,1,not applicable,Portugal,Netherlands,PRT,NLD,1518.65,1500.32,18.330000000000155,1.8,0.4,2.4,1.0,0.8,1.4,0,0,1,0,1,1,home_win,1,0,0,7.0,3.0,4.0,1
+2006 FIFA Men's World Cup,2006-06-26,round of 16,1,1,not applicable,Italy,Australia,ITA,AUS,1484.34,1611.0,-126.66000000000008,1.4,0.8,1.6,1.0,1.6,1.0,0,0,1,0,1,1,home_win,1,0,0,13.0,42.0,-29.0,1
+2006 FIFA Men's World Cup,2006-06-26,round of 16,1,1,not applicable,Switzerland,Ukraine,CHE,UKR,1484.9,1487.16,-2.259999999999991,0.8,1.0,1.4,1.67,1.33,2.0,1,1,0,0,0,0,away_win,0,1,0,35.0,45.0,-10.0,1
+2006 FIFA Men's World Cup,2006-06-27,round of 16,1,1,not applicable,Brazil,Ghana,BRA,GHA,1478.48,1521.43,-42.950000000000045,2.0,0.2,3.0,1.33,1.0,2.0,0,0,3,0,3,3,home_win,1,0,0,1.0,48.0,-47.0,1
+2006 FIFA Men's World Cup,2006-06-27,round of 16,1,1,not applicable,Spain,France,ESP,FRA,1487.22,1453.84,33.38000000000011,1.8,0.4,2.4,0.6,0.6,1.2,0,0,1,3,4,-2,away_win,0,1,0,5.0,8.0,-3.0,1
+2006 FIFA Men's World Cup,2006-06-30,quarter-finals,2,1,not applicable,Germany,Argentina,DEU,ARG,1530.1,1487.68,42.419999999999845,2.0,0.8,2.4,2.2,0.6,2.2,1,1,1,1,2,0,home_win,1,0,0,19.0,9.0,10.0,1
+2006 FIFA Men's World Cup,2006-06-30,quarter-finals,2,1,not applicable,Italy,Ukraine,ITA,UKR,1505.93,1469.0,36.930000000000064,1.4,0.6,2.0,1.25,1.0,2.25,0,0,3,0,3,3,home_win,1,0,0,13.0,45.0,-32.0,1
+2006 FIFA Men's World Cup,2006-07-01,quarter-finals,2,1,not applicable,England,Portugal,ENG,PRT,1551.93,1533.81,18.12000000000012,1.4,0.8,2.0,1.2,0.4,2.4,1,1,0,0,0,0,away_win,0,1,0,10.0,7.0,3.0,1
+2006 FIFA Men's World Cup,2006-07-01,quarter-finals,2,1,not applicable,Brazil,France,BRA,FRA,1496.45,1469.69,26.75999999999999,2.4,0.2,3.0,1.2,0.8,1.6,0,0,0,1,1,-1,away_win,0,1,0,1.0,8.0,-7.0,1
+2006 FIFA Men's World Cup,2006-07-04,semi-finals,3,1,not applicable,Germany,Italy,DEU,ITA,1544.16,1520.24,23.920000000000076,2.2,0.6,3.0,1.8,0.2,2.6,1,0,0,2,2,-2,away_win,0,1,0,19.0,13.0,6.0,1
+2006 FIFA Men's World Cup,2006-07-05,semi-finals,3,1,not applicable,Portugal,France,PRT,FRA,1535.1,1479.22,55.87999999999988,1.2,0.2,3.0,1.4,0.4,2.2,0,0,0,1,1,-1,away_win,0,1,0,7.0,8.0,-1.0,1
+2006 FIFA Men's World Cup,2006-07-08,third-place match,0,1,not applicable,Germany,Portugal,DEU,PRT,1537.34,1497.77,39.569999999999936,1.4,0.6,2.4,1.0,0.4,2.4,0,0,3,1,4,2,home_win,1,0,0,19.0,7.0,12.0,1
+2006 FIFA Men's World Cup,2006-07-09,final,4,1,not applicable,Italy,France,ITA,FRA,1527.06,1516.55,10.509999999999993,1.8,0.2,2.6,1.6,0.4,2.6,1,1,1,1,2,0,home_win,1,0,0,13.0,8.0,5.0,1
+2010 FIFA Men's World Cup,2010-06-11,group stage,0,0,Group A,South Africa,Mexico,ZAF,MEX,1642.16,1539.4,102.76,1.6,1.6,1.2,1.0,1.4,0.8,0,0,1,1,2,0,draw,0,0,1,83.0,17.0,66.0,1
+2010 FIFA Men's World Cup,2010-06-11,group stage,0,0,Group A,Uruguay,France,URY,FRA,1501.67,1501.03,0.6400000000001,1.0,1.4,1.0,1.6,0.4,2.4,0,0,0,0,0,0,draw,0,0,1,16.0,9.0,7.0,1
+2010 FIFA Men's World Cup,2010-06-12,group stage,0,0,Group B,South Korea,Greece,KOR,GRC,1499.0,1514.27,-15.269999999999982,1.0,1.6,0.8,0.0,3.33,0.0,0,0,2,0,2,2,home_win,1,0,0,47.0,13.0,34.0,1
+2010 FIFA Men's World Cup,2010-06-12,group stage,0,0,Group B,Argentina,Nigeria,ARG,NGA,1473.62,1499.58,-25.96000000000004,2.2,0.6,2.0,0.6,2.0,0.2,0,0,1,0,1,1,home_win,1,0,0,7.0,21.0,-14.0,1
+2010 FIFA Men's World Cup,2010-06-12,group stage,0,0,Group C,England,United States,ENG,USA,1550.64,1500.14,50.5,1.2,0.4,2.0,0.8,1.4,0.8,0,0,1,1,2,0,draw,0,0,1,8.0,14.0,-6.0,1
+2010 FIFA Men's World Cup,2010-06-13,group stage,0,0,Group C,Algeria,Slovenia,DZA,SVN,1474.19,1431.34,42.850000000000136,0.8,1.8,0.8,0.67,2.33,0.0,0,0,0,1,1,-1,away_win,0,1,0,30.0,25.0,5.0,1
+2010 FIFA Men's World Cup,2010-06-13,group stage,0,0,Group D,Serbia,Ghana,SRB,GHA,1500.0,1503.46,-3.4600000000000364,0.0,0.0,0.0,1.0,1.5,1.5,0,0,0,1,1,-1,away_win,0,1,0,15.0,32.0,-17.0,1
+2010 FIFA Men's World Cup,2010-06-13,group stage,0,0,Group D,Germany,Australia,DEU,AUS,1551.53,1589.41,-37.88000000000011,1.8,0.8,2.4,1.0,1.2,1.0,0,0,4,0,4,4,home_win,1,0,0,6.0,20.0,-14.0,1
+2010 FIFA Men's World Cup,2010-06-14,group stage,0,0,Group E,Netherlands,Denmark,NLD,DNK,1485.16,1541.83,-56.669999999999845,0.8,0.8,1.4,1.4,1.6,1.4,0,0,2,0,2,2,home_win,1,0,0,4.0,36.0,-32.0,1
+2010 FIFA Men's World Cup,2010-06-14,group stage,0,0,Group E,Japan,Cameroon,JPN,CMR,1604.26,1572.89,31.36999999999989,0.8,1.6,0.8,0.6,1.4,1.0,0,0,1,0,1,1,home_win,1,0,0,45.0,19.0,26.0,1
+2010 FIFA Men's World Cup,2010-06-14,group stage,0,0,Group F,Italy,Paraguay,ITA,PRY,1542.58,1436.4,106.17999999999984,1.8,0.2,3.0,1.0,0.8,1.2,0,0,1,1,2,0,draw,0,0,1,5.0,31.0,-26.0,1
+2010 FIFA Men's World Cup,2010-06-15,group stage,0,0,Group G,Ivory Coast,Portugal,CIV,PRT,1484.34,1483.58,0.7599999999999909,1.67,2.0,1.0,0.8,1.0,1.8,0,0,0,0,0,0,draw,0,0,1,27.0,3.0,24.0,1
+2010 FIFA Men's World Cup,2010-06-15,group stage,0,0,Group F,New Zealand,Slovakia,NZL,SVK,1461.93,1500.0,-38.069999999999936,0.67,4.0,0.0,0.0,0.0,0.0,0,0,1,1,2,0,draw,0,0,1,78.0,34.0,44.0,1
+2010 FIFA Men's World Cup,2010-06-15,group stage,0,0,Group G,Brazil,North Korea,BRA,PRK,1486.92,1492.37,-5.449999999999818,2.0,0.4,2.4,1.25,2.25,1.0,0,0,2,1,3,1,home_win,1,0,0,1.0,105.0,-104.0,1
+2010 FIFA Men's World Cup,2010-06-16,group stage,0,0,Group A,South Africa,Uruguay,ZAF,URY,1637.56,1501.64,135.91999999999985,1.6,1.6,1.2,0.8,1.4,0.6,0,0,0,3,3,-3,away_win,0,1,0,83.0,16.0,67.0,1
+2010 FIFA Men's World Cup,2010-06-16,group stage,0,0,Group H,Spain,Switzerland,ESP,CHE,1471.37,1503.06,-31.69000000000005,1.8,0.8,1.8,0.8,0.6,1.4,0,0,0,1,1,-1,away_win,0,1,0,2.0,24.0,-22.0,1
+2010 FIFA Men's World Cup,2010-06-16,group stage,0,0,Group H,Honduras,Chile,HND,CHL,1457.94,1505.01,-47.069999999999936,0.67,1.0,0.67,1.4,2.2,0.6,0,0,0,1,1,-1,away_win,0,1,0,38.0,18.0,20.0,1
+2010 FIFA Men's World Cup,2010-06-17,group stage,0,0,Group B,Argentina,South Korea,ARG,KOR,1490.81,1515.7,-24.8900000000001,2.0,0.4,2.0,1.4,1.4,1.4,0,0,4,1,5,3,home_win,1,0,0,7.0,47.0,-40.0,1
+2010 FIFA Men's World Cup,2010-06-17,group stage,0,0,Group B,Greece,Nigeria,GRC,NGA,1497.57,1482.39,15.179999999999836,0.0,3.0,0.0,0.4,1.6,0.2,0,0,2,1,3,1,home_win,1,0,0,13.0,21.0,-8.0,1
+2010 FIFA Men's World Cup,2010-06-17,group stage,0,0,Group A,France,Mexico,FRA,MEX,1501.06,1544.0,-42.940000000000055,1.2,0.4,2.0,1.2,1.2,1.0,0,0,0,2,2,-2,away_win,0,1,0,9.0,17.0,-8.0,1
+2010 FIFA Men's World Cup,2010-06-18,group stage,0,0,Group D,Germany,Serbia,DEU,SRB,1569.27,1519.3,49.97000000000003,2.0,0.8,2.4,0.0,1.0,0.0,0,0,0,1,1,-1,away_win,0,1,0,6.0,15.0,-9.0,1
+2010 FIFA Men's World Cup,2010-06-18,group stage,0,0,Group C,Slovenia,United States,SVN,USA,1456.23,1502.45,-46.22000000000003,0.75,1.75,0.75,0.6,1.6,0.4,0,0,2,2,4,0,draw,0,0,1,25.0,14.0,11.0,1
+2010 FIFA Men's World Cup,2010-06-18,group stage,0,0,Group C,England,Algeria,ENG,DZA,1548.33,1449.3,99.02999999999996,1.2,0.6,1.6,0.8,1.6,0.8,0,0,0,0,0,0,draw,0,0,1,8.0,30.0,-22.0,1
+2010 FIFA Men's World Cup,2010-06-19,group stage,0,0,Group E,Netherlands,Japan,NLD,JPN,1503.75,1618.82,-115.06999999999994,1.0,0.4,2.0,0.6,1.6,0.8,0,0,1,0,1,1,home_win,1,0,0,4.0,45.0,-41.0,1
+2010 FIFA Men's World Cup,2010-06-19,group stage,0,0,Group D,Ghana,Australia,GHA,AUS,1484.16,1571.67,-87.50999999999999,1.0,1.2,1.8,1.0,2.0,0.8,0,0,1,1,2,0,draw,0,0,1,32.0,20.0,12.0,1
+2010 FIFA Men's World Cup,2010-06-19,group stage,0,0,Group E,Cameroon,Denmark,CMR,DNK,1558.33,1523.24,35.08999999999992,0.6,1.0,1.0,1.0,1.4,1.4,0,0,1,2,3,-1,away_win,0,1,0,19.0,36.0,-17.0,1
+2010 FIFA Men's World Cup,2010-06-20,group stage,0,0,Group F,Slovakia,Paraguay,SVK,PRY,1498.25,1441.14,57.1099999999999,1.0,1.0,1.0,0.6,0.8,0.8,0,0,0,2,2,-2,away_win,0,1,0,34.0,31.0,3.0,1
+2010 FIFA Men's World Cup,2010-06-20,group stage,0,0,Group F,Italy,New Zealand,ITA,NZL,1537.84,1463.68,74.15999999999985,1.6,0.4,2.6,0.75,3.25,0.25,0,0,1,1,2,0,draw,0,0,1,5.0,78.0,-73.0,1
+2010 FIFA Men's World Cup,2010-06-20,group stage,0,0,Group G,Brazil,Ivory Coast,BRA,CIV,1503.17,1484.31,18.860000000000127,2.2,0.6,2.4,1.25,1.5,1.0,0,0,3,1,4,2,home_win,1,0,0,1.0,27.0,-26.0,1
+2010 FIFA Men's World Cup,2010-06-21,group stage,0,0,Group H,Chile,Switzerland,CHL,CHE,1444.09,1456.83,-12.740000000000007,1.2,1.6,1.2,1.0,0.0,2.0,0,0,1,0,1,1,home_win,1,0,0,18.0,24.0,-6.0,1
+2010 FIFA Men's World Cup,2010-06-21,group stage,0,0,Group H,Spain,Honduras,ESP,HND,1517.6,1518.86,-1.259999999999991,1.8,1.0,1.8,0.5,1.0,0.5,0,0,2,0,2,2,home_win,1,0,0,2.0,38.0,-36.0,1
+2010 FIFA Men's World Cup,2010-06-21,group stage,0,0,Group G,Portugal,North Korea,PRT,PRK,1483.61,1476.12,7.490000000000009,0.4,0.8,1.4,1.2,2.2,0.8,0,0,7,0,7,7,home_win,1,0,0,3.0,105.0,-102.0,1
+2010 FIFA Men's World Cup,2010-06-22,group stage,0,0,Group A,France,South Africa,FRA,ZAF,1558.03,1523.6,34.430000000000064,0.6,0.6,1.4,1.2,1.8,1.0,0,0,1,2,3,-1,away_win,0,1,0,9.0,83.0,-74.0,1
+2010 FIFA Men's World Cup,2010-06-22,group stage,0,0,Group A,Mexico,Uruguay,MEX,URY,1487.03,1615.6,-128.56999999999994,1.0,1.0,1.0,1.4,1.0,1.2,0,0,0,1,1,-1,away_win,0,1,0,17.0,16.0,1.0,1
+2010 FIFA Men's World Cup,2010-06-22,group stage,0,0,Group B,Greece,Argentina,GRC,ARG,1512.87,1507.95,4.919999999999845,0.4,2.6,0.6,1.6,0.6,2.0,0,0,0,2,2,-2,away_win,0,1,0,13.0,7.0,6.0,1
+2010 FIFA Men's World Cup,2010-06-22,group stage,0,0,Group B,Nigeria,South Korea,NGA,KOR,1467.09,1498.56,-31.470000000000027,0.4,1.2,0.2,1.2,1.6,1.4,0,0,2,2,4,0,draw,0,0,1,21.0,47.0,-26.0,1
+2010 FIFA Men's World Cup,2010-06-23,group stage,0,0,Group C,Slovenia,England,SVN,ENG,1458.35,1543.89,-85.54000000000019,1.0,1.8,0.8,0.8,0.6,1.2,0,0,0,1,1,-1,away_win,0,1,0,25.0,8.0,17.0,1
+2010 FIFA Men's World Cup,2010-06-23,group stage,0,0,Group C,United States,Algeria,USA,DZA,1500.33,1453.74,46.58999999999992,1.0,1.8,0.6,0.2,1.2,0.4,0,0,1,0,1,1,home_win,1,0,0,14.0,30.0,-16.0,1
+2010 FIFA Men's World Cup,2010-06-23,group stage,0,0,Group D,Australia,Serbia,AUS,SRB,1567.72,1550.98,16.74000000000001,0.6,2.0,0.4,0.5,0.5,1.5,0,0,2,1,3,1,home_win,1,0,0,20.0,15.0,5.0,1
+2010 FIFA Men's World Cup,2010-06-23,group stage,0,0,Group D,Ghana,Germany,GHA,DEU,1488.11,1537.59,-49.48000000000002,1.2,1.0,2.0,1.6,1.0,1.8,0,0,0,1,1,-1,away_win,0,1,0,32.0,6.0,26.0,1
+2010 FIFA Men's World Cup,2010-06-24,group stage,0,0,Group F,Paraguay,New Zealand,PRY,NZL,1479.64,1467.04,12.600000000000136,1.0,0.6,1.4,0.8,2.8,0.4,0,0,0,0,0,0,draw,0,0,1,31.0,78.0,-47.0,1
+2010 FIFA Men's World Cup,2010-06-24,group stage,0,0,Group F,Slovakia,Italy,SVK,ITA,1459.75,1534.48,-74.73000000000002,0.5,1.5,0.5,1.6,0.6,2.2,0,0,3,2,5,1,home_win,1,0,0,34.0,5.0,29.0,1
+2010 FIFA Men's World Cup,2010-06-24,group stage,0,0,Group E,Cameroon,Netherlands,CMR,NLD,1540.85,1524.86,15.990000000000007,0.6,1.2,0.8,1.0,0.4,2.0,0,0,1,2,3,-1,away_win,0,1,0,19.0,4.0,15.0,1
+2010 FIFA Men's World Cup,2010-06-24,group stage,0,0,Group E,Denmark,Japan,DNK,JPN,1540.72,1597.71,-56.99000000000001,1.0,1.4,1.4,0.6,1.6,0.8,0,0,1,3,4,-2,away_win,0,1,0,36.0,45.0,-9.0,1
+2010 FIFA Men's World Cup,2010-06-25,group stage,0,0,Group H,Switzerland,Honduras,CHE,HND,1440.24,1502.8,-62.559999999999945,1.0,0.2,1.8,0.4,1.2,0.4,0,0,0,0,0,0,draw,0,0,1,24.0,38.0,-14.0,1
+2010 FIFA Men's World Cup,2010-06-25,group stage,0,0,Group H,Chile,Spain,CHL,ESP,1460.68,1533.66,-72.98000000000002,1.0,1.2,1.6,1.4,1.0,1.8,0,0,1,2,3,-1,away_win,0,1,0,18.0,2.0,16.0,1
+2010 FIFA Men's World Cup,2010-06-25,group stage,0,0,Group G,North Korea,Ivory Coast,PRK,CIV,1460.46,1469.18,-8.720000000000027,1.2,3.0,0.8,1.2,1.8,0.8,0,0,0,3,3,-3,away_win,0,1,0,105.0,27.0,78.0,1
+2010 FIFA Men's World Cup,2010-06-25,group stage,0,0,Group G,Portugal,Brazil,PRT,BRA,1499.27,1518.3,-19.029999999999973,1.6,0.8,1.4,2.4,0.8,2.4,0,0,0,0,0,0,draw,0,0,1,3.0,1.0,2.0,1
+2010 FIFA Men's World Cup,2010-06-26,round of 16,1,1,not applicable,Uruguay,South Korea,URY,KOR,1476.69,1497.11,-20.419999999999845,1.4,0.6,1.8,1.2,1.8,1.0,0,0,2,1,3,1,home_win,1,0,0,16.0,47.0,-31.0,1
+2010 FIFA Men's World Cup,2010-06-26,round of 16,1,1,not applicable,United States,Ghana,USA,GHA,1514.2,1551.33,-37.12999999999988,1.2,1.2,1.2,0.8,1.2,1.4,1,0,1,2,3,-1,away_win,0,1,0,14.0,32.0,-18.0,1
+2010 FIFA Men's World Cup,2010-06-27,round of 16,1,1,not applicable,Germany,England,DEU,ENG,1474.37,1446.21,28.15999999999985,1.6,0.8,1.8,0.6,0.2,1.6,0,0,4,1,5,3,home_win,1,0,0,6.0,8.0,-2.0,1
+2010 FIFA Men's World Cup,2010-06-27,round of 16,1,1,not applicable,Argentina,Mexico,ARG,MEX,1496.64,1625.94,-129.29999999999995,2.0,0.6,2.4,1.0,1.2,0.8,0,0,3,1,4,2,home_win,1,0,0,7.0,17.0,-10.0,1
+2010 FIFA Men's World Cup,2010-06-28,round of 16,1,1,not applicable,Netherlands,Slovakia,NLD,SVK,1524.11,1479.14,44.9699999999998,1.0,0.4,2.0,1.33,1.67,1.33,0,0,2,1,3,1,home_win,1,0,0,4.0,34.0,-30.0,1
+2010 FIFA Men's World Cup,2010-06-28,round of 16,1,1,not applicable,Brazil,Chile,BRA,CHL,1517.42,1546.35,-28.92999999999984,1.6,0.6,2.0,1.0,1.4,1.4,0,0,3,0,3,3,home_win,1,0,0,1.0,18.0,-17.0,1
+2010 FIFA Men's World Cup,2010-06-29,round of 16,1,1,not applicable,Paraguay,Japan,PRY,JPN,1479.06,1527.32,-48.25999999999999,1.0,0.4,1.6,1.0,1.2,1.4,1,1,0,0,0,0,home_win,1,0,0,31.0,45.0,-14.0,1
+2010 FIFA Men's World Cup,2010-06-29,round of 16,1,1,not applicable,Spain,Portugal,ESP,PRT,1447.99,1500.15,-52.16000000000008,1.2,1.0,1.8,1.6,0.8,1.0,0,0,1,0,1,1,home_win,1,0,0,2.0,3.0,-1.0,1
+2010 FIFA Men's World Cup,2010-07-02,quarter-finals,2,1,not applicable,Uruguay,Ghana,URY,GHA,1493.63,1499.9,-6.269999999999982,1.8,0.8,2.2,0.8,1.2,1.4,1,1,1,1,2,0,home_win,1,0,0,16.0,32.0,-16.0,1
+2010 FIFA Men's World Cup,2010-07-02,quarter-finals,2,1,not applicable,Netherlands,Brazil,NLD,BRA,1538.05,1534.75,3.2999999999999545,1.4,0.6,2.4,1.6,0.6,2.0,0,0,2,1,3,1,home_win,1,0,0,4.0,1.0,3.0,1
+2010 FIFA Men's World Cup,2010-07-03,quarter-finals,2,1,not applicable,Paraguay,Spain,PRY,ESP,1497.27,1466.37,30.90000000000009,1.0,0.2,2.2,1.2,1.0,1.8,0,0,0,1,1,-1,away_win,0,1,0,31.0,2.0,29.0,1
+2010 FIFA Men's World Cup,2010-07-03,quarter-finals,2,1,not applicable,Argentina,Germany,ARG,DEU,1518.33,1489.08,29.25,2.2,0.6,2.4,2.4,0.6,2.4,0,0,0,4,4,-4,away_win,0,1,0,7.0,6.0,1.0,1
+2010 FIFA Men's World Cup,2010-07-06,semi-finals,3,1,not applicable,Uruguay,Netherlands,URY,NLD,1509.92,1553.9,-43.98000000000002,1.4,0.4,2.6,1.8,0.6,3.0,0,0,2,3,5,-1,away_win,0,1,0,16.0,4.0,12.0,1
+2010 FIFA Men's World Cup,2010-07-07,semi-finals,3,1,not applicable,Germany,Spain,DEU,ESP,1500.99,1479.85,21.1400000000001,2.6,0.4,2.4,1.2,0.4,2.4,0,0,0,1,1,-1,away_win,0,1,0,6.0,2.0,4.0,1
+2010 FIFA Men's World Cup,2010-07-10,third-place match,0,1,not applicable,Uruguay,Germany,URY,DEU,1567.89,1496.82,71.07000000000016,1.8,1.0,2.4,1.8,0.6,1.8,0,0,2,3,5,-1,away_win,0,1,0,16.0,6.0,10.0,1
+2010 FIFA Men's World Cup,2010-07-11,final,4,1,not applicable,Netherlands,Spain,NLD,ESP,1495.93,1484.02,11.910000000000082,2.0,1.0,3.0,1.4,0.2,3.0,1,0,0,1,1,-1,away_win,0,1,0,4.0,2.0,2.0,1
+2014 FIFA Men's World Cup,2014-06-12,group stage,0,0,Group A,Brazil,Croatia,BRA,HRV,1518.9,1511.96,6.940000000000055,1.8,0.8,2.0,0.8,1.0,1.0,0,0,3,1,4,2,home_win,1,0,0,3.0,18.0,-15.0,1
+2014 FIFA Men's World Cup,2014-06-13,group stage,0,0,Group B,Chile,Australia,CHL,AUS,1529.02,1582.95,-53.930000000000064,0.8,1.8,1.2,1.0,1.8,1.0,0,0,3,1,4,2,home_win,1,0,0,14.0,62.0,-48.0,1
+2014 FIFA Men's World Cup,2014-06-13,group stage,0,0,Group A,Mexico,Cameroon,MEX,CMR,1604.25,1541.6,62.65000000000009,1.0,1.4,0.8,0.6,1.4,0.6,0,0,1,0,1,1,home_win,1,0,0,20.0,56.0,-36.0,1
+2014 FIFA Men's World Cup,2014-06-13,group stage,0,0,Group B,Spain,Netherlands,ESP,NLD,1479.38,1500.57,-21.189999999999827,1.2,0.2,3.0,1.8,1.2,2.4,0,0,1,5,6,-4,away_win,0,1,0,1.0,15.0,-14.0,1
+2014 FIFA Men's World Cup,2014-06-14,group stage,0,0,Group D,England,Italy,ENG,ITA,1431.5,1515.09,-83.58999999999992,0.6,1.0,1.0,1.4,1.2,1.6,0,0,1,2,3,-1,away_win,0,1,0,10.0,9.0,1.0,1
+2014 FIFA Men's World Cup,2014-06-14,group stage,0,0,Group C,Ivory Coast,Japan,CIV,JPN,1444.86,1509.11,-64.25,1.6,1.4,1.4,1.0,1.2,1.2,0,0,2,1,3,1,home_win,1,0,0,23.0,46.0,-23.0,1
+2014 FIFA Men's World Cup,2014-06-14,group stage,0,0,Group C,Colombia,Greece,COL,GRC,1481.55,1524.18,-42.63000000000011,0.8,1.0,1.2,0.4,2.2,0.6,0,0,3,0,3,3,home_win,1,0,0,8.0,12.0,-4.0,1
+2014 FIFA Men's World Cup,2014-06-14,group stage,0,0,Group D,Uruguay,Costa Rica,URY,CRI,1516.05,1513.56,2.490000000000009,1.6,1.6,1.8,1.2,3.0,0.2,0,0,1,3,4,-2,away_win,0,1,0,7.0,28.0,-21.0,1
+2014 FIFA Men's World Cup,2014-06-15,group stage,0,0,Group E,France,Honduras,FRA,HND,1541.18,1499.95,41.23000000000002,0.6,1.0,0.8,0.2,1.0,0.4,0,0,3,0,3,3,home_win,1,0,0,17.0,33.0,-16.0,1
+2014 FIFA Men's World Cup,2014-06-15,group stage,0,0,Group F,Argentina,Bosnia and Herzegovina,ARG,BIH,1506.42,1500.0,6.420000000000073,2.0,1.2,2.4,0.0,0.0,0.0,0,0,2,1,3,1,home_win,1,0,0,5.0,21.0,-16.0,1
+2014 FIFA Men's World Cup,2014-06-15,group stage,0,0,Group E,Switzerland,Ecuador,CHE,ECU,1443.09,1570.0,-126.91000000000008,0.6,0.2,1.4,1.2,0.8,1.8,0,0,2,1,3,1,home_win,1,0,0,6.0,26.0,-20.0,1
+2014 FIFA Men's World Cup,2014-06-16,group stage,0,0,Group G,Germany,Portugal,DEU,PRT,1548.66,1481.77,66.8900000000001,2.4,0.8,2.4,1.6,0.8,1.0,0,0,4,0,4,4,home_win,1,0,0,2.0,4.0,-2.0,1
+2014 FIFA Men's World Cup,2014-06-16,group stage,0,0,Group F,Iran,Nigeria,IRN,NGA,1398.93,1468.54,-69.6099999999999,0.8,1.8,0.8,0.8,1.4,0.4,0,0,0,0,0,0,draw,0,0,1,43.0,44.0,-1.0,1
+2014 FIFA Men's World Cup,2014-06-16,group stage,0,0,Group G,Ghana,United States,GHA,USA,1483.61,1565.63,-82.02000000000021,1.0,0.8,1.4,1.2,1.4,1.0,0,0,1,2,3,-1,away_win,0,1,0,37.0,13.0,24.0,1
+2014 FIFA Men's World Cup,2014-06-17,group stage,0,0,Group H,Belgium,Algeria,BEL,DZA,1502.26,1439.87,62.3900000000001,1.4,1.6,1.2,0.0,1.2,0.2,0,0,2,1,3,1,home_win,1,0,0,11.0,22.0,-11.0,1
+2014 FIFA Men's World Cup,2014-06-17,group stage,0,0,Group A,Brazil,Mexico,BRA,MEX,1534.58,1617.4,-82.82000000000016,2.0,0.8,2.0,1.0,1.0,1.4,0,0,0,0,0,0,draw,0,0,1,3.0,20.0,-17.0,1
+2014 FIFA Men's World Cup,2014-06-17,group stage,0,0,Group H,Russia,South Korea,RUS,KOR,1476.61,1480.17,-3.560000000000173,2.2,1.6,1.2,1.2,2.0,0.8,0,0,1,1,2,0,draw,0,0,1,19.0,57.0,-38.0,1
+2014 FIFA Men's World Cup,2014-06-18,group stage,0,0,Group B,Australia,Netherlands,AUS,NLD,1564.49,1464.35,100.1400000000001,0.8,2.0,0.8,2.4,1.2,2.4,0,0,2,3,5,-1,away_win,0,1,0,62.0,15.0,47.0,1
+2014 FIFA Men's World Cup,2014-06-18,group stage,0,0,Group B,Spain,Chile,ESP,CHL,1515.6,1547.48,-31.88000000000011,1.0,1.0,2.4,1.2,1.2,1.8,0,0,0,2,2,-2,away_win,0,1,0,1.0,14.0,-13.0,1
+2014 FIFA Men's World Cup,2014-06-18,group stage,0,0,Group A,Cameroon,Croatia,CMR,HRV,1528.45,1496.28,32.17000000000007,0.4,1.6,0.0,0.6,1.4,0.4,0,0,0,4,4,-4,away_win,0,1,0,56.0,18.0,38.0,1
+2014 FIFA Men's World Cup,2014-06-19,group stage,0,0,Group C,Japan,Greece,JPN,GRC,1490.18,1506.23,-16.049999999999955,1.0,0.8,1.2,0.4,2.0,0.6,0,0,0,0,0,0,draw,0,0,1,46.0,12.0,34.0,1
+2014 FIFA Men's World Cup,2014-06-19,group stage,0,0,Group C,Colombia,Ivory Coast,COL,CIV,1499.5,1463.79,35.71000000000004,1.2,0.6,1.8,1.8,1.2,2.0,0,0,2,1,3,1,home_win,1,0,0,8.0,23.0,-15.0,1
+2014 FIFA Men's World Cup,2014-06-19,group stage,0,0,Group D,Uruguay,England,URY,ENG,1529.67,1527.31,2.3600000000001278,1.6,2.2,1.2,0.8,1.4,1.0,0,0,2,1,3,1,home_win,1,0,0,7.0,10.0,-3.0,1
+2014 FIFA Men's World Cup,2014-06-20,group stage,0,0,Group E,Honduras,Ecuador,HND,ECU,1485.84,1548.4,-62.56000000000017,0.0,1.4,0.2,1.2,1.2,1.2,0,0,1,2,3,-1,away_win,0,1,0,33.0,26.0,7.0,1
+2014 FIFA Men's World Cup,2014-06-20,group stage,0,0,Group D,Italy,Costa Rica,ITA,CRI,1419.28,1499.94,-80.66000000000008,1.4,1.4,1.6,1.6,3.0,0.6,0,0,0,1,1,-1,away_win,0,1,0,9.0,28.0,-19.0,1
+2014 FIFA Men's World Cup,2014-06-20,group stage,0,0,Group E,Switzerland,France,CHE,FRA,1464.69,1555.29,-90.59999999999992,0.6,0.4,1.4,1.0,1.0,0.8,0,0,2,5,7,-3,away_win,0,1,0,6.0,17.0,-11.0,1
+2014 FIFA Men's World Cup,2014-06-21,group stage,0,0,Group F,Argentina,Iran,ARG,IRN,1522.12,1402.09,120.02999999999996,2.2,1.4,2.4,0.4,1.6,0.4,0,0,1,0,1,1,home_win,1,0,0,5.0,43.0,-38.0,1
+2014 FIFA Men's World Cup,2014-06-21,group stage,0,0,Group G,Germany,Ghana,DEU,GHA,1561.62,1577.92,-16.300000000000182,3.0,0.8,2.4,1.0,1.2,0.8,0,0,2,2,4,0,draw,0,0,1,2.0,37.0,-35.0,1
+2014 FIFA Men's World Cup,2014-06-21,group stage,0,0,Group F,Nigeria,Bosnia and Herzegovina,NGA,BIH,1465.38,1484.3,-18.919999999999845,0.6,1.0,0.6,1.0,2.0,0.0,0,0,1,0,1,1,home_win,1,0,0,44.0,21.0,23.0,1
+2014 FIFA Men's World Cup,2014-06-22,group stage,0,0,Group H,Belgium,Russia,BEL,RUS,1515.42,1476.77,38.65000000000009,1.6,1.6,1.6,2.2,1.2,1.4,0,0,1,0,1,1,home_win,1,0,0,11.0,19.0,-8.0,1
+2014 FIFA Men's World Cup,2014-06-22,group stage,0,0,Group H,South Korea,Algeria,KOR,DZA,1480.01,1426.71,53.29999999999996,1.4,1.8,1.0,0.2,1.4,0.2,0,0,2,4,6,-2,away_win,0,1,0,57.0,22.0,35.0,1
+2014 FIFA Men's World Cup,2014-06-22,group stage,0,0,Group G,United States,Portugal,USA,PRT,1471.32,1468.81,2.509999999999991,1.4,1.2,1.6,1.4,1.0,1.0,0,0,2,2,4,0,draw,0,0,1,13.0,4.0,9.0,1
+2014 FIFA Men's World Cup,2014-06-23,group stage,0,0,Group A,Cameroon,Brazil,CMR,BRA,1513.76,1538.32,-24.559999999999945,0.4,2.0,0.0,1.4,0.6,1.6,0,0,1,4,5,-3,away_win,0,1,0,56.0,3.0,53.0,1
+2014 FIFA Men's World Cup,2014-06-23,group stage,0,0,Group B,Australia,Spain,AUS,ESP,1484.84,1562.02,-77.18000000000006,1.2,2.4,0.8,0.8,1.4,1.8,0,0,0,3,3,-3,away_win,0,1,0,62.0,1.0,61.0,1
+2014 FIFA Men's World Cup,2014-06-23,group stage,0,0,Group B,Netherlands,Chile,NLD,CHL,1544.0,1501.06,42.940000000000055,2.6,1.4,2.4,1.4,1.2,1.8,0,0,2,0,2,2,home_win,1,0,0,15.0,14.0,1.0,1
+2014 FIFA Men's World Cup,2014-06-23,group stage,0,0,Group A,Croatia,Mexico,HRV,MEX,1510.97,1613.66,-102.69000000000004,1.4,1.2,1.0,0.8,0.8,1.4,0,0,1,3,4,-2,away_win,0,1,0,18.0,20.0,-2.0,1
+2014 FIFA Men's World Cup,2014-06-24,group stage,0,0,Group C,Greece,Ivory Coast,GRC,CIV,1505.49,1449.43,56.059999999999945,0.4,1.6,0.8,1.4,1.2,1.4,0,0,2,1,3,1,home_win,1,0,0,12.0,23.0,-11.0,1
+2014 FIFA Men's World Cup,2014-06-24,group stage,0,0,Group C,Japan,Colombia,JPN,COL,1490.92,1513.86,-22.939999999999827,0.8,0.8,0.8,1.2,0.8,1.8,0,0,1,4,5,-3,away_win,0,1,0,46.0,8.0,38.0,1
+2014 FIFA Men's World Cup,2014-06-24,group stage,0,0,Group D,Italy,Uruguay,ITA,URY,1512.29,1545.56,-33.26999999999998,1.2,1.4,1.0,1.6,2.2,1.2,0,0,0,1,1,-1,away_win,0,1,0,9.0,7.0,2.0,1
+2014 FIFA Men's World Cup,2014-06-24,group stage,0,0,Group D,Costa Rica,England,CRI,ENG,1406.93,1511.42,-104.49,1.4,2.0,1.2,0.8,1.6,0.8,0,0,0,0,0,0,draw,0,0,1,28.0,10.0,18.0,1
+2014 FIFA Men's World Cup,2014-06-25,group stage,0,0,Group F,Bosnia and Herzegovina,Iran,BIH,IRN,1467.43,1391.41,76.01999999999998,0.5,1.5,0.0,0.4,1.4,0.4,0,0,3,1,4,2,home_win,1,0,0,21.0,43.0,-22.0,1
+2014 FIFA Men's World Cup,2014-06-25,group stage,0,0,Group F,Nigeria,Argentina,NGA,ARG,1482.25,1532.8,-50.54999999999996,0.8,1.0,1.0,1.6,1.2,2.4,0,0,2,3,5,-1,away_win,0,1,0,44.0,5.0,39.0,1
+2014 FIFA Men's World Cup,2014-06-25,group stage,0,0,Group E,Honduras,Switzerland,HND,CHE,1561.55,1567.21,-5.660000000000082,0.2,1.6,0.2,1.0,1.4,1.4,0,0,0,3,3,-3,away_win,0,1,0,33.0,6.0,27.0,1
+2014 FIFA Men's World Cup,2014-06-25,group stage,0,0,Group E,Ecuador,France,ECU,FRA,1472.69,1452.77,19.920000000000076,1.2,1.4,1.2,1.8,1.2,1.4,0,0,0,0,0,0,draw,0,0,1,26.0,17.0,9.0,1
+2014 FIFA Men's World Cup,2014-06-26,group stage,0,0,Group G,Portugal,Ghana,PRT,GHA,1468.93,1577.17,-108.24,1.8,1.4,1.0,1.2,1.4,0.8,0,0,2,1,3,1,home_win,1,0,0,4.0,37.0,-33.0,1
+2014 FIFA Men's World Cup,2014-06-26,group stage,0,0,Group G,United States,Germany,USA,DEU,1471.2,1562.37,-91.16999999999985,1.6,1.4,1.6,2.6,1.0,2.0,0,0,0,1,1,-1,away_win,0,1,0,13.0,2.0,11.0,1
+2014 FIFA Men's World Cup,2014-06-26,group stage,0,0,Group H,Algeria,Russia,DZA,RUS,1461.57,1462.54,-0.9700000000000272,1.0,1.2,0.8,1.0,1.2,0.8,0,0,1,1,2,0,draw,0,0,1,22.0,19.0,3.0,1
+2014 FIFA Men's World Cup,2014-06-26,group stage,0,0,Group H,South Korea,Belgium,KOR,BEL,1445.15,1529.65,-84.5,1.4,2.6,0.4,1.4,1.2,2.0,0,0,0,1,1,-1,away_win,0,1,0,57.0,11.0,46.0,1
+2014 FIFA Men's World Cup,2014-06-28,round of 16,1,1,not applicable,Brazil,Chile,BRA,CHL,1498.89,1487.03,11.860000000000127,2.2,0.8,2.0,1.2,1.6,1.2,1,1,1,1,2,0,home_win,1,0,0,3.0,14.0,-11.0,1
+2014 FIFA Men's World Cup,2014-06-28,round of 16,1,1,not applicable,Colombia,Uruguay,COL,URY,1475.97,1497.82,-21.84999999999991,2.0,0.8,2.4,1.6,2.0,1.2,0,0,2,0,2,2,home_win,1,0,0,8.0,7.0,1.0,1
+2014 FIFA Men's World Cup,2014-06-29,round of 16,1,1,not applicable,Netherlands,Mexico,NLD,MEX,1558.03,1499.57,58.46000000000004,2.6,1.2,2.4,1.0,1.0,1.4,0,0,2,1,3,1,home_win,1,0,0,15.0,20.0,-5.0,1
+2014 FIFA Men's World Cup,2014-06-29,round of 16,1,1,not applicable,Costa Rica,Greece,CRI,GRC,1411.6,1518.93,-107.33000000000015,1.0,1.2,1.4,0.8,1.4,1.4,1,1,1,1,2,0,home_win,1,0,0,28.0,12.0,16.0,1
+2014 FIFA Men's World Cup,2014-06-30,round of 16,1,1,not applicable,Germany,Algeria,DEU,DZA,1459.3,1461.61,-2.309999999999945,2.0,1.0,2.0,1.2,1.2,1.0,1,0,2,1,3,1,home_win,1,0,0,2.0,22.0,-20.0,1
+2014 FIFA Men's World Cup,2014-06-30,round of 16,1,1,not applicable,France,Nigeria,FRA,NGA,1453.69,1546.49,-92.79999999999995,1.8,1.2,1.4,1.2,1.4,1.0,0,0,2,0,2,2,home_win,1,0,0,17.0,44.0,-27.0,1
+2014 FIFA Men's World Cup,2014-07-01,round of 16,1,1,not applicable,Argentina,Switzerland,ARG,CHE,1468.56,1545.81,-77.25,1.8,1.6,2.4,1.4,1.4,1.4,1,0,1,0,1,1,home_win,1,0,0,5.0,6.0,-1.0,1
+2014 FIFA Men's World Cup,2014-07-01,round of 16,1,1,not applicable,Belgium,United States,BEL,USA,1432.97,1574.27,-141.29999999999995,1.4,1.0,2.4,1.2,1.2,1.4,1,0,2,1,3,1,home_win,1,0,0,11.0,13.0,-2.0,1
+2014 FIFA Men's World Cup,2014-07-04,quarter-finals,2,1,not applicable,France,Germany,FRA,DEU,1473.86,1475.41,-1.550000000000182,2.2,0.8,2.0,2.4,1.0,2.6,0,0,0,1,1,-1,away_win,0,1,0,17.0,2.0,15.0,1
+2014 FIFA Men's World Cup,2014-07-04,quarter-finals,2,1,not applicable,Brazil,Colombia,BRA,COL,1514.34,1492.97,21.36999999999989,1.8,1.0,2.0,2.2,0.8,2.4,0,0,2,1,3,1,home_win,1,0,0,3.0,8.0,-5.0,1
+2014 FIFA Men's World Cup,2014-07-05,quarter-finals,2,1,not applicable,Argentina,Belgium,ARG,BEL,1488.06,1455.14,32.919999999999845,1.4,1.4,2.4,1.2,0.8,2.4,0,0,1,0,1,1,home_win,1,0,0,5.0,11.0,-6.0,1
+2014 FIFA Men's World Cup,2014-07-05,quarter-finals,2,1,not applicable,Netherlands,Costa Rica,NLD,CRI,1571.36,1432.39,138.9699999999998,2.4,1.0,2.4,1.2,0.8,2.0,1,1,0,0,0,0,home_win,1,0,0,15.0,28.0,-13.0,1
+2014 FIFA Men's World Cup,2014-07-08,semi-finals,3,1,not applicable,Brazil,Germany,BRA,DEU,1529.36,1457.93,71.42999999999984,2.0,0.8,2.6,2.0,0.6,2.6,0,0,1,7,8,-6,away_win,0,1,0,3.0,2.0,1.0,1
+2014 FIFA Men's World Cup,2014-07-09,semi-finals,3,1,not applicable,Netherlands,Argentina,NLD,ARG,1581.28,1502.55,78.73000000000002,2.4,0.8,3.0,1.6,0.6,3.0,1,1,0,0,0,0,away_win,0,1,0,15.0,5.0,10.0,1
+2014 FIFA Men's World Cup,2014-07-12,third-place match,0,1,not applicable,Brazil,Netherlands,BRA,NLD,1477.17,1522.11,-44.93999999999983,1.6,2.0,2.0,1.4,0.6,2.4,0,0,0,3,3,-3,away_win,0,1,0,3.0,15.0,-12.0,1
+2014 FIFA Men's World Cup,2014-07-13,final,4,1,not applicable,Germany,Argentina,DEU,ARG,1510.12,1561.72,-51.600000000000136,2.6,0.8,2.6,1.2,0.4,3.0,1,0,1,0,1,1,home_win,1,0,0,2.0,5.0,-3.0,1
+2018 FIFA Men's World Cup,2018-06-14,group stage,0,0,Group A,Russia,Saudi Arabia,RUS,SAU,1462.5,1565.17,-102.67000000000009,0.8,1.4,0.4,0.4,2.2,0.2,0,0,5,0,5,5,home_win,1,0,0,70.0,67.0,3.0,1
+2018 FIFA Men's World Cup,2018-06-15,group stage,0,0,Group B,Morocco,Iran,MAR,IRN,1409.18,1378.86,30.320000000000164,1.4,1.8,0.8,0.4,1.4,0.4,0,0,0,1,1,-1,away_win,0,1,0,41.0,37.0,4.0,1
+2018 FIFA Men's World Cup,2018-06-15,group stage,0,0,Group B,Portugal,Spain,PRT,ESP,1489.76,1472.34,17.420000000000073,0.8,1.6,1.0,1.2,1.4,1.8,0,0,3,3,6,0,draw,0,0,1,4.0,10.0,-6.0,1
+2018 FIFA Men's World Cup,2018-06-15,group stage,0,0,Group A,Egypt,Uruguay,EGY,URY,1473.44,1480.82,-7.379999999999882,0.75,1.5,0.5,1.2,1.8,1.2,0,0,0,1,1,-1,away_win,0,1,0,45.0,14.0,31.0,1
+2018 FIFA Men's World Cup,2018-06-16,group stage,0,0,Group C,Peru,Denmark,PER,DNK,1492.53,1611.11,-118.57999999999991,0.4,2.6,0.4,1.0,1.8,1.2,0,0,0,1,1,-1,away_win,0,1,0,11.0,12.0,-1.0,1
+2018 FIFA Men's World Cup,2018-06-16,group stage,0,0,Group D,Croatia,Nigeria,HRV,NGA,1625.06,1526.32,98.74,1.6,1.6,1.0,1.0,1.4,1.0,0,0,2,0,2,2,home_win,1,0,0,20.0,48.0,-28.0,1
+2018 FIFA Men's World Cup,2018-06-16,group stage,0,0,Group C,France,Australia,FRA,AUS,1491.34,1574.52,-83.18000000000006,2.0,0.6,2.0,1.2,2.2,0.8,0,0,2,1,3,1,home_win,1,0,0,7.0,36.0,-29.0,1
+2018 FIFA Men's World Cup,2018-06-16,group stage,0,0,Group D,Argentina,Iceland,ARG,ISL,1543.36,1500.0,43.3599999999999,1.0,0.6,2.4,0.0,0.0,0.0,0,0,1,1,2,0,draw,0,0,1,5.0,22.0,-17.0,1
+2018 FIFA Men's World Cup,2018-06-17,group stage,0,0,Group E,Costa Rica,Serbia,CRI,SRB,1422.47,1535.75,-113.27999999999996,1.0,0.4,2.0,0.67,1.0,1.0,0,0,0,1,1,-1,away_win,0,1,0,23.0,34.0,-11.0,1
+2018 FIFA Men's World Cup,2018-06-17,group stage,0,0,Group F,Germany,Mexico,DEU,MEX,1528.48,1486.24,42.24000000000001,2.4,0.4,3.0,1.2,1.2,1.4,0,0,0,1,1,-1,away_win,0,1,0,1.0,15.0,-14.0,1
+2018 FIFA Men's World Cup,2018-06-17,group stage,0,0,Group E,Brazil,Switzerland,BRA,CHE,1536.05,1526.31,9.740000000000007,1.6,2.6,1.8,1.4,1.4,1.4,0,0,1,1,2,0,draw,0,0,1,2.0,6.0,-4.0,1
+2018 FIFA Men's World Cup,2018-06-18,group stage,0,0,Group F,Sweden,South Korea,SWE,KOR,1525.5,1541.83,-16.329999999999927,0.8,1.2,1.0,1.2,2.0,0.4,0,0,1,0,1,1,home_win,1,0,0,24.0,57.0,-33.0,1
+2018 FIFA Men's World Cup,2018-06-18,group stage,0,0,Group G,Belgium,Panama,BEL,PAN,1440.65,1500.0,-59.34999999999991,1.2,0.6,2.4,0.0,0.0,0.0,0,0,3,0,3,3,home_win,1,0,0,3.0,55.0,-52.0,1
+2018 FIFA Men's World Cup,2018-06-18,group stage,0,0,Group G,Tunisia,England,TUN,ENG,1505.64,1506.75,-1.1099999999999,0.8,1.8,0.4,0.8,1.6,0.8,0,0,1,2,3,-1,away_win,0,1,0,21.0,12.0,9.0,1
+2018 FIFA Men's World Cup,2018-06-19,group stage,0,0,Group H,Colombia,Japan,COL,JPN,1477.95,1528.81,-50.8599999999999,2.4,0.8,2.4,1.0,1.4,0.8,0,0,1,2,3,-1,away_win,0,1,0,16.0,61.0,-45.0,1
+2018 FIFA Men's World Cup,2018-06-19,group stage,0,0,Group H,Poland,Senegal,POL,SEN,1497.88,1445.15,52.73000000000002,1.0,1.8,1.2,1.4,1.2,1.6,0,0,1,2,3,-1,away_win,0,1,0,8.0,27.0,-19.0,1
+2018 FIFA Men's World Cup,2018-06-19,group stage,0,0,Group A,Russia,Egypt,RUS,EGY,1483.1,1496.48,-13.38000000000011,1.8,1.2,1.0,0.6,1.4,0.4,0,0,3,1,4,2,home_win,1,0,0,70.0,45.0,25.0,1
+2018 FIFA Men's World Cup,2018-06-20,group stage,0,0,Group B,Portugal,Morocco,PRT,MAR,1488.96,1396.25,92.71000000000004,1.4,2.2,1.0,1.2,1.6,0.8,0,0,1,0,1,1,home_win,1,0,0,4.0,41.0,-37.0,1
+2018 FIFA Men's World Cup,2018-06-20,group stage,0,0,Group A,Uruguay,Saudi Arabia,URY,SAU,1457.78,1544.57,-86.78999999999996,1.0,1.2,1.8,0.4,3.0,0.2,0,0,1,0,1,1,home_win,1,0,0,14.0,67.0,-53.0,1
+2018 FIFA Men's World Cup,2018-06-20,group stage,0,0,Group B,Iran,Spain,IRN,ESP,1391.79,1473.14,-81.35000000000014,0.6,1.0,1.0,1.6,2.0,1.4,0,0,0,1,1,-1,away_win,0,1,0,37.0,10.0,27.0,1
+2018 FIFA Men's World Cup,2018-06-21,group stage,0,0,Group D,Argentina,Croatia,ARG,HRV,1541.37,1636.63,-95.26000000000022,0.6,0.4,2.0,2.0,1.6,1.4,0,0,0,3,3,-3,away_win,0,1,0,5.0,20.0,-15.0,1
+2018 FIFA Men's World Cup,2018-06-21,group stage,0,0,Group C,Denmark,Australia,DNK,AUS,1481.79,1554.76,-72.97000000000003,0.8,1.8,1.2,1.2,2.4,0.6,0,0,1,1,2,0,draw,0,0,1,12.0,36.0,-24.0,1
+2018 FIFA Men's World Cup,2018-06-21,group stage,0,0,Group C,France,Peru,FRA,PER,1511.1,1621.85,-110.75,1.8,0.8,2.0,0.4,2.6,0.4,0,0,1,0,1,1,home_win,1,0,0,7.0,11.0,-4.0,1
+2018 FIFA Men's World Cup,2018-06-22,group stage,0,0,Group E,Brazil,Costa Rica,BRA,CRI,1535.6,1546.71,-11.110000000000127,1.0,2.6,1.4,0.4,0.4,1.4,0,0,2,0,2,2,home_win,1,0,0,2.0,23.0,-21.0,1
+2018 FIFA Men's World Cup,2018-06-22,group stage,0,0,Group D,Nigeria,Iceland,NGA,ISL,1514.75,1501.99,12.759999999999993,0.6,1.4,0.8,1.0,1.0,1.0,0,0,2,0,2,2,home_win,1,0,0,48.0,22.0,26.0,1
+2018 FIFA Men's World Cup,2018-06-22,group stage,0,0,Group E,Serbia,Switzerland,SRB,CHE,1411.51,1526.76,-115.25,0.75,0.75,1.5,1.6,1.6,1.4,0,0,1,2,3,-1,away_win,0,1,0,34.0,6.0,28.0,1
+2018 FIFA Men's World Cup,2018-06-23,group stage,0,0,Group G,Belgium,Tunisia,BEL,TUN,1459.36,1522.7,-63.34000000000015,1.4,0.4,2.4,0.8,2.0,0.2,0,0,5,2,7,3,home_win,1,0,0,3.0,21.0,-18.0,1
+2018 FIFA Men's World Cup,2018-06-23,group stage,0,0,Group F,South Korea,Mexico,KOR,MEX,1525.08,1510.54,14.539999999999964,0.8,1.8,0.2,1.2,0.6,2.0,0,0,1,2,3,-1,away_win,0,1,0,57.0,15.0,42.0,1
+2018 FIFA Men's World Cup,2018-06-23,group stage,0,0,Group F,Germany,Sweden,DEU,SWE,1504.18,1542.25,-38.069999999999936,2.2,0.6,2.4,0.8,0.8,1.6,0,0,2,1,3,1,home_win,1,0,0,1.0,24.0,-23.0,1
+2018 FIFA Men's World Cup,2018-06-24,group stage,0,0,Group H,Poland,Colombia,POL,COL,1463.56,1542.48,-78.92000000000007,1.2,1.4,1.2,2.0,1.2,1.8,0,0,0,3,3,-3,away_win,0,1,0,8.0,16.0,-8.0,1
+2018 FIFA Men's World Cup,2018-06-24,group stage,0,0,Group G,England,Panama,ENG,PAN,1489.69,1481.29,8.400000000000091,1.0,1.8,0.8,0.0,3.0,0.0,0,0,6,1,7,5,home_win,1,0,0,12.0,55.0,-43.0,1
+2018 FIFA Men's World Cup,2018-06-24,group stage,0,0,Group H,Japan,Senegal,JPN,SEN,1464.28,1479.47,-15.190000000000056,0.8,1.4,0.8,1.6,1.4,1.6,0,0,2,2,4,0,draw,0,0,1,61.0,27.0,34.0,1
+2018 FIFA Men's World Cup,2018-06-25,group stage,0,0,Group B,Spain,Morocco,ESP,MAR,1379.47,1384.42,-4.9500000000000455,1.6,2.0,1.4,1.0,1.4,0.8,0,0,2,2,4,0,draw,0,0,1,10.0,41.0,-31.0,1
+2018 FIFA Men's World Cup,2018-06-25,group stage,0,0,Group B,Iran,Portugal,IRN,PRT,1485.46,1500.79,-15.329999999999927,0.4,1.0,0.8,1.6,2.0,1.6,0,0,1,1,2,0,draw,0,0,1,37.0,4.0,33.0,1
+2018 FIFA Men's World Cup,2018-06-25,group stage,0,0,Group A,Saudi Arabia,Egypt,SAU,EGY,1524.65,1479.86,44.79000000000019,0.4,2.6,0.2,0.4,1.2,0.4,0,0,2,1,3,1,home_win,1,0,0,67.0,45.0,22.0,1
+2018 FIFA Men's World Cup,2018-06-25,group stage,0,0,Group A,Uruguay,Russia,URY,RUS,1477.7,1499.72,-22.019999999999985,1.0,0.6,2.4,2.0,0.8,1.6,0,0,3,0,3,3,home_win,1,0,0,14.0,70.0,-56.0,1
+2018 FIFA Men's World Cup,2018-06-26,group stage,0,0,Group D,Nigeria,Argentina,NGA,ARG,1530.16,1648.35,-118.18999999999984,1.0,1.4,1.2,0.4,1.0,1.4,0,0,1,2,3,-1,away_win,0,1,0,48.0,5.0,43.0,1
+2018 FIFA Men's World Cup,2018-06-26,group stage,0,0,Group D,Iceland,Croatia,ISL,HRV,1486.58,1529.65,-43.07000000000016,0.5,1.5,0.5,2.2,1.2,1.8,0,0,1,2,3,-1,away_win,0,1,0,22.0,20.0,2.0,1
+2018 FIFA Men's World Cup,2018-06-26,group stage,0,0,Group C,Australia,Peru,AUS,PER,1551.45,1600.92,-49.47000000000003,1.0,2.4,0.2,0.4,1.6,0.4,0,0,0,2,2,-2,away_win,0,1,0,36.0,11.0,25.0,1
+2018 FIFA Men's World Cup,2018-06-26,group stage,0,0,Group C,Denmark,France,DNK,FRA,1485.1,1532.03,-46.930000000000064,1.0,1.4,1.4,1.0,0.4,2.0,0,0,0,0,0,0,draw,0,0,1,12.0,7.0,5.0,1
+2018 FIFA Men's World Cup,2018-06-27,group stage,0,0,Group F,South Korea,Germany,KOR,DEU,1527.21,1521.93,5.279999999999973,0.8,1.8,0.2,2.2,0.6,2.4,0,0,2,0,2,2,home_win,1,0,0,57.0,1.0,56.0,1
+2018 FIFA Men's World Cup,2018-06-27,group stage,0,0,Group F,Mexico,Sweden,MEX,SWE,1508.41,1524.5,-16.089999999999918,1.4,0.8,2.0,1.0,1.2,1.4,0,0,0,3,3,-3,away_win,0,1,0,15.0,24.0,-9.0,1
+2018 FIFA Men's World Cup,2018-06-27,group stage,0,0,Group E,Serbia,Brazil,SRB,BRA,1537.64,1552.11,-14.4699999999998,0.8,1.0,1.2,1.2,2.4,1.4,0,0,0,2,2,-2,away_win,0,1,0,34.0,2.0,32.0,1
+2018 FIFA Men's World Cup,2018-06-27,group stage,0,0,Group E,Switzerland,Costa Rica,CHE,CRI,1400.63,1530.2,-129.56999999999994,1.6,1.6,1.4,0.2,0.8,0.8,0,0,2,2,4,0,draw,0,0,1,6.0,23.0,-17.0,1
+2018 FIFA Men's World Cup,2018-06-28,group stage,0,0,Group H,Japan,Poland,JPN,POL,1464.98,1554.91,-89.93000000000006,1.2,1.8,1.0,0.6,1.8,0.6,0,0,0,1,1,-1,away_win,0,1,0,61.0,8.0,53.0,1
+2018 FIFA Men's World Cup,2018-06-28,group stage,0,0,Group H,Senegal,Colombia,SEN,COL,1478.77,1451.13,27.639999999999876,1.8,1.6,1.6,2.2,1.0,1.8,0,0,0,1,1,-1,away_win,0,1,0,27.0,16.0,11.0,1
+2018 FIFA Men's World Cup,2018-06-28,group stage,0,0,Group G,England,Belgium,ENG,BEL,1505.3,1478.25,27.049999999999955,2.0,1.2,1.4,2.2,0.8,2.4,0,0,0,1,1,-1,away_win,0,1,0,12.0,3.0,9.0,1
+2018 FIFA Men's World Cup,2018-06-28,group stage,0,0,Group G,Panama,Tunisia,PAN,TUN,1465.68,1503.81,-38.12999999999988,0.5,4.5,0.0,1.2,2.6,0.2,0,0,1,2,3,-1,away_win,0,1,0,55.0,21.0,34.0,1
+2018 FIFA Men's World Cup,2018-06-30,round of 16,1,1,not applicable,Uruguay,Portugal,URY,PRT,1494.71,1500.08,-5.369999999999891,1.2,0.4,2.4,1.8,1.4,1.8,0,0,2,1,3,1,home_win,1,0,0,14.0,4.0,10.0,1
+2018 FIFA Men's World Cup,2018-06-30,round of 16,1,1,not applicable,France,Argentina,FRA,ARG,1529.88,1519.4,10.480000000000018,1.0,0.4,2.0,0.6,1.2,1.4,0,0,4,3,7,1,home_win,1,0,0,7.0,5.0,2.0,1
+2018 FIFA Men's World Cup,2018-07-01,round of 16,1,1,not applicable,Spain,Russia,ESP,RUS,1379.7,1482.71,-103.01,1.8,1.4,1.6,1.8,1.2,1.4,1,1,1,1,2,0,away_win,0,1,0,10.0,70.0,-60.0,1
+2018 FIFA Men's World Cup,2018-07-01,round of 16,1,1,not applicable,Croatia,Denmark,HRV,DNK,1472.55,1487.25,-14.700000000000044,2.4,0.8,2.4,1.0,1.0,1.6,1,1,1,1,2,0,home_win,1,0,0,20.0,12.0,8.0,1
+2018 FIFA Men's World Cup,2018-07-02,round of 16,1,1,not applicable,Belgium,Japan,BEL,JPN,1488.06,1566.86,-78.79999999999995,2.2,0.8,2.4,1.0,1.6,1.0,0,0,3,2,5,1,home_win,1,0,0,3.0,61.0,-58.0,1
+2018 FIFA Men's World Cup,2018-07-02,round of 16,1,1,not applicable,Brazil,Mexico,BRA,MEX,1522.31,1539.76,-17.450000000000045,1.2,2.2,1.4,1.4,1.4,1.8,0,0,2,0,2,2,home_win,1,0,0,2.0,15.0,-13.0,1
+2018 FIFA Men's World Cup,2018-07-03,round of 16,1,1,not applicable,Sweden,Switzerland,SWE,CHE,1493.15,1406.33,86.82000000000016,1.4,1.2,1.4,1.6,1.0,1.6,0,0,1,0,1,1,home_win,1,0,0,24.0,6.0,18.0,1
+2018 FIFA Men's World Cup,2018-07-03,round of 16,1,1,not applicable,Colombia,England,COL,ENG,1461.5,1495.49,-33.99000000000001,1.6,0.8,1.8,1.8,1.0,1.4,1,1,1,1,2,0,away_win,0,1,0,16.0,12.0,4.0,1
+2018 FIFA Men's World Cup,2018-07-06,quarter-finals,2,1,not applicable,Uruguay,France,URY,FRA,1510.96,1545.4,-34.440000000000055,1.4,0.6,2.4,1.4,1.0,2.0,0,0,0,2,2,-2,away_win,0,1,0,14.0,7.0,7.0,1
+2018 FIFA Men's World Cup,2018-07-06,quarter-finals,2,1,not applicable,Brazil,Belgium,BRA,BEL,1539.11,1507.63,31.47999999999979,1.4,0.8,2.0,2.4,1.0,2.4,0,0,1,2,3,-1,away_win,0,1,0,2.0,3.0,-1.0,1
+2018 FIFA Men's World Cup,2018-07-07,quarter-finals,2,1,not applicable,Sweden,England,SWE,ENG,1505.23,1447.06,58.17000000000007,1.2,0.8,1.8,1.8,0.8,2.0,0,0,0,2,2,-2,away_win,0,1,0,24.0,12.0,12.0,1
+2018 FIFA Men's World Cup,2018-07-07,quarter-finals,2,1,not applicable,Russia,Croatia,RUS,HRV,1368.31,1489.23,-120.92000000000009,2.0,1.2,2.0,1.8,1.0,2.4,1,1,2,2,4,0,away_win,0,1,0,70.0,20.0,50.0,1
+2018 FIFA Men's World Cup,2018-07-10,semi-finals,3,1,not applicable,France,Belgium,FRA,BEL,1496.54,1521.66,-25.12000000000012,1.8,0.8,2.6,2.8,1.0,3.0,0,0,1,0,1,1,home_win,1,0,0,7.0,3.0,4.0,1
+2018 FIFA Men's World Cup,2018-07-11,semi-finals,3,1,not applicable,Croatia,England,HRV,ENG,1357.66,1486.58,-128.91999999999985,2.0,0.8,3.0,2.2,0.8,2.4,1,0,2,1,3,1,home_win,1,0,0,20.0,12.0,8.0,1
+2018 FIFA Men's World Cup,2018-07-14,third-place match,0,1,not applicable,Belgium,England,BEL,ENG,1504.51,1464.9,39.6099999999999,2.2,1.2,2.4,2.0,1.0,1.8,0,0,2,0,2,2,home_win,1,0,0,3.0,12.0,-9.0,1
+2018 FIFA Men's World Cup,2018-07-15,final,4,1,not applicable,France,Croatia,FRA,HRV,1513.69,1379.34,134.35000000000014,1.6,0.6,2.6,2.0,1.0,3.0,0,0,4,2,6,2,home_win,1,0,0,7.0,20.0,-13.0,1
+2022 FIFA Men's World Cup,2022-11-20,group stage,0,0,Group A,Qatar,Ecuador,QAT,ECU,1500.0,1471.77,28.230000000000015,0.0,0.0,0.0,0.6,1.4,0.8,0,0,0,2,2,-2,away_win,0,1,0,50.0,44.0,6.0,1
+2022 FIFA Men's World Cup,2022-11-21,group stage,0,0,Group B,United States,Wales,USA,WAL,1552.1,1505.6,46.5,1.2,1.6,0.8,0.8,0.8,1.2,0,0,1,1,2,0,draw,0,0,1,16.0,19.0,-3.0,1
+2022 FIFA Men's World Cup,2022-11-21,group stage,0,0,Group B,England,Iran,ENG,IRN,1450.72,1486.17,-35.450000000000045,0.8,1.2,1.2,0.6,1.2,0.8,0,0,6,2,8,4,home_win,1,0,0,5.0,20.0,-15.0,1
+2022 FIFA Men's World Cup,2022-11-21,group stage,0,0,Group A,Senegal,Netherlands,SEN,NLD,1468.4,1463.23,5.170000000000073,1.2,1.2,1.4,1.4,0.2,2.4,0,0,0,2,2,-2,away_win,0,1,0,18.0,8.0,10.0,1
+2022 FIFA Men's World Cup,2022-11-22,group stage,0,0,Group C,Argentina,Saudi Arabia,ARG,SAU,1503.88,1538.6,-34.7199999999998,1.2,2.0,0.8,0.4,2.4,0.6,0,0,1,2,3,-1,away_win,0,1,0,3.0,51.0,-48.0,1
+2022 FIFA Men's World Cup,2022-11-22,group stage,0,0,Group D,Denmark,Tunisia,DNK,TUN,1470.57,1451.43,19.139999999999876,0.8,1.0,1.0,1.2,2.4,0.6,0,0,0,0,0,0,draw,0,0,1,10.0,30.0,-20.0,1
+2022 FIFA Men's World Cup,2022-11-22,group stage,0,0,Group C,Mexico,Poland,MEX,POL,1522.96,1453.03,69.93000000000006,0.8,1.6,1.2,0.8,1.4,1.2,0,0,0,0,0,0,draw,0,0,1,13.0,26.0,-13.0,1
+2022 FIFA Men's World Cup,2022-11-22,group stage,0,0,Group D,France,Australia,FRA,AUS,1523.79,1614.66,-90.87000000000012,2.2,1.0,2.6,0.8,2.2,0.2,0,0,4,1,5,3,home_win,1,0,0,4.0,38.0,-34.0,1
+2022 FIFA Men's World Cup,2022-11-23,group stage,0,0,Group F,Morocco,Croatia,MAR,HRV,1384.19,1369.24,14.950000000000044,1.0,1.4,0.8,1.8,1.8,2.4,0,0,0,0,0,0,draw,0,0,1,22.0,12.0,10.0,1
+2022 FIFA Men's World Cup,2022-11-23,group stage,0,0,Group E,Germany,Japan,DEU,JPN,1506.17,1547.29,-41.11999999999989,2.0,1.0,1.8,1.4,2.2,0.8,0,0,1,2,3,-1,away_win,0,1,0,11.0,24.0,-13.0,1
+2022 FIFA Men's World Cup,2022-11-23,group stage,0,0,Group E,Spain,Costa Rica,ESP,CRI,1494.1,1524.5,-30.40000000000009,2.0,1.2,1.6,0.6,1.2,0.8,0,0,7,0,7,7,home_win,1,0,0,7.0,31.0,-24.0,1
+2022 FIFA Men's World Cup,2022-11-23,group stage,0,0,Group F,Belgium,Canada,BEL,CAN,1518.69,1424.06,94.63000000000012,1.6,0.8,2.4,0.0,1.67,0.0,0,0,1,0,1,1,home_win,1,0,0,2.0,41.0,-39.0,1
+2022 FIFA Men's World Cup,2022-11-24,group stage,0,0,Group G,Brazil,Serbia,BRA,SRB,1525.08,1567.44,-42.36000000000013,1.6,0.6,2.0,0.8,1.2,1.2,0,0,2,0,2,2,home_win,1,0,0,1.0,21.0,-20.0,1
+2022 FIFA Men's World Cup,2022-11-24,group stage,0,0,Group G,Switzerland,Cameroon,CHE,CMR,1394.25,1553.19,-158.94000000000003,1.0,1.2,1.0,0.6,2.6,0.0,0,0,1,0,1,1,home_win,1,0,0,15.0,43.0,-28.0,1
+2022 FIFA Men's World Cup,2022-11-24,group stage,0,0,Group H,Uruguay,South Korea,URY,KOR,1559.82,1542.97,16.84999999999991,1.4,0.6,2.4,1.0,1.6,0.6,0,0,0,0,0,0,draw,0,0,1,14.0,28.0,-14.0,1
+2022 FIFA Men's World Cup,2022-11-24,group stage,0,0,Group H,Portugal,Ghana,PRT,GHA,1483.83,1556.34,-72.50999999999999,1.6,1.4,1.6,1.4,1.6,0.8,0,0,3,2,5,1,home_win,1,0,0,9.0,61.0,-52.0,1
+2022 FIFA Men's World Cup,2022-11-25,group stage,0,0,Group B,England,United States,ENG,USA,1468.35,1549.97,-81.62000000000012,2.0,1.4,1.8,1.2,1.4,1.0,0,0,0,0,0,0,draw,0,0,1,5.0,16.0,-11.0,1
+2022 FIFA Men's World Cup,2022-11-25,group stage,0,0,Group A,Netherlands,Ecuador,NLD,ECU,1452.16,1482.7,-30.539999999999964,1.4,0.2,2.4,1.0,0.8,1.4,0,0,1,1,2,0,draw,0,0,1,8.0,44.0,-36.0,1
+2022 FIFA Men's World Cup,2022-11-25,group stage,0,0,Group B,Wales,Iran,WAL,IRN,1507.73,1468.54,39.190000000000055,0.8,0.8,1.2,1.0,2.2,0.8,0,0,0,2,2,-2,away_win,0,1,0,19.0,20.0,-1.0,1
+2022 FIFA Men's World Cup,2022-11-25,group stage,0,0,Group A,Qatar,Senegal,QAT,SEN,1489.07,1479.47,9.599999999999907,0.0,2.0,0.0,0.8,1.4,0.8,0,0,1,3,4,-2,away_win,0,1,0,50.0,18.0,32.0,1
+2022 FIFA Men's World Cup,2022-11-26,group stage,0,0,Group D,Tunisia,Australia,TUN,AUS,1452.31,1594.57,-142.26,1.0,1.8,0.8,0.6,2.4,0.2,0,0,0,1,1,-1,away_win,0,1,0,30.0,38.0,-8.0,1
+2022 FIFA Men's World Cup,2022-11-26,group stage,0,0,Group C,Poland,Saudi Arabia,POL,SAU,1456.21,1489.47,-33.25999999999999,0.8,1.2,1.4,0.8,1.8,1.2,0,0,2,0,2,2,home_win,1,0,0,26.0,51.0,-25.0,1
+2022 FIFA Men's World Cup,2022-11-26,group stage,0,0,Group D,France,Denmark,FRA,DNK,1543.88,1469.69,74.19000000000005,3.0,1.2,3.0,0.6,0.4,1.2,0,0,2,1,3,1,home_win,1,0,0,4.0,10.0,-6.0,1
+2022 FIFA Men's World Cup,2022-11-26,group stage,0,0,Group C,Argentina,Mexico,ARG,MEX,1553.01,1519.78,33.23000000000002,1.4,2.2,0.8,0.6,1.2,1.4,0,0,2,0,2,2,home_win,1,0,0,3.0,13.0,-10.0,1
+2022 FIFA Men's World Cup,2022-11-27,group stage,0,0,Group E,Spain,Germany,ESP,DEU,1511.5,1561.41,-49.91000000000008,2.8,1.2,1.6,0.8,1.2,1.2,0,0,1,1,2,0,draw,0,0,1,7.0,11.0,-4.0,1
+2022 FIFA Men's World Cup,2022-11-27,group stage,0,0,Group E,Japan,Costa Rica,JPN,CRI,1492.05,1507.1,-15.049999999999956,1.6,1.6,1.4,0.4,2.4,0.2,0,0,0,1,1,-1,away_win,0,1,0,24.0,31.0,-7.0,1
+2022 FIFA Men's World Cup,2022-11-27,group stage,0,0,Group F,Belgium,Morocco,BEL,MAR,1530.44,1383.5,146.94000000000003,1.6,0.8,2.4,1.0,0.8,1.0,0,0,0,2,2,-2,away_win,0,1,0,2.0,22.0,-20.0,1
+2022 FIFA Men's World Cup,2022-11-27,group stage,0,0,Group F,Croatia,Canada,HRV,CAN,1369.93,1412.31,-42.37999999999988,1.4,1.6,2.0,0.0,1.5,0.0,0,0,4,1,5,3,home_win,1,0,0,12.0,41.0,-29.0,1
+2022 FIFA Men's World Cup,2022-11-28,group stage,0,0,Group G,Brazil,Switzerland,BRA,CHE,1543.02,1417.1,125.92000000000009,1.8,0.4,2.4,1.2,1.0,1.6,0,0,1,0,1,1,home_win,1,0,0,1.0,15.0,-14.0,1
+2022 FIFA Men's World Cup,2022-11-28,group stage,0,0,Group H,Portugal,Uruguay,PRT,URY,1503.12,1559.04,-55.92000000000007,1.8,1.6,1.6,1.2,0.6,2.0,0,0,2,0,2,2,home_win,1,0,0,9.0,14.0,-5.0,1
+2022 FIFA Men's World Cup,2022-11-28,group stage,0,0,Group G,Cameroon,Serbia,CMR,SRB,1530.34,1549.5,-19.16000000000008,0.4,2.4,0.0,0.6,1.6,0.6,0,0,3,3,6,0,draw,0,0,1,43.0,21.0,22.0,1
+2022 FIFA Men's World Cup,2022-11-28,group stage,0,0,Group H,South Korea,Ghana,KOR,GHA,1543.75,1537.05,6.7000000000000455,0.6,0.8,0.8,1.4,2.0,0.2,0,0,2,3,5,-1,away_win,0,1,0,28.0,61.0,-33.0,1
+2022 FIFA Men's World Cup,2022-11-29,group stage,0,0,Group B,Wales,England,WAL,ENG,1486.34,1472.04,14.299999999999956,0.6,1.0,1.0,1.8,1.2,1.4,0,0,0,3,3,-3,away_win,0,1,0,19.0,5.0,14.0,1
+2022 FIFA Men's World Cup,2022-11-29,group stage,0,0,Group B,Iran,United States,IRN,USA,1489.93,1546.28,-56.34999999999991,1.2,1.6,1.4,0.8,1.2,0.6,0,0,0,1,1,-1,away_win,0,1,0,20.0,16.0,4.0,1
+2022 FIFA Men's World Cup,2022-11-29,group stage,0,0,Group A,Ecuador,Senegal,ECU,SEN,1481.3,1472.63,8.669999999999845,1.2,0.8,1.6,1.4,1.4,1.4,0,0,1,2,3,-1,away_win,0,1,0,44.0,18.0,26.0,1
+2022 FIFA Men's World Cup,2022-11-29,group stage,0,0,Group A,Netherlands,Qatar,NLD,QAT,1453.56,1495.91,-42.350000000000136,1.2,0.2,2.0,0.5,2.5,0.0,0,0,2,0,2,2,home_win,1,0,0,8.0,50.0,-42.0,1
+2022 FIFA Men's World Cup,2022-11-30,group stage,0,0,Group D,Australia,Denmark,AUS,DNK,1442.52,1457.06,-14.539999999999964,0.8,1.8,0.8,0.6,0.8,0.6,0,0,1,0,1,1,home_win,1,0,0,38.0,10.0,28.0,1
+2022 FIFA Men's World Cup,2022-11-30,group stage,0,0,Group D,Tunisia,France,TUN,FRA,1604.36,1556.51,47.84999999999991,1.0,1.8,0.8,2.6,0.8,3.0,0,0,1,0,1,1,home_win,1,0,0,30.0,4.0,26.0,1
+2022 FIFA Men's World Cup,2022-11-30,group stage,0,0,Group C,Poland,Argentina,POL,ARG,1473.74,1567.48,-93.74,0.8,1.0,1.4,1.6,2.0,1.2,0,0,0,2,2,-2,away_win,0,1,0,26.0,3.0,23.0,1
+2022 FIFA Men's World Cup,2022-11-30,group stage,0,0,Group C,Saudi Arabia,Mexico,SAU,MEX,1471.94,1505.31,-33.36999999999989,0.8,2.0,1.2,0.4,1.6,0.8,0,0,1,2,3,-1,away_win,0,1,0,51.0,13.0,38.0,1
+2022 FIFA Men's World Cup,2022-12-01,group stage,0,0,Group F,Canada,Morocco,CAN,MAR,1394.37,1508.05,-113.68000000000006,0.2,2.0,0.0,0.8,0.8,1.0,0,0,1,2,3,-1,away_win,0,1,0,41.0,22.0,19.0,1
+2022 FIFA Men's World Cup,2022-12-01,group stage,0,0,Group F,Croatia,Belgium,HRV,BEL,1387.87,1405.89,-18.02000000000021,2.0,1.6,2.0,1.0,0.8,1.8,0,0,0,0,0,0,draw,0,0,1,12.0,2.0,10.0,1
+2022 FIFA Men's World Cup,2022-12-01,group stage,0,0,Group E,Costa Rica,Germany,CRI,DEU,1476.74,1559.13,-82.3900000000001,0.6,2.4,0.8,0.8,1.4,0.8,0,0,2,4,6,-2,away_win,0,1,0,31.0,11.0,20.0,1
+2022 FIFA Men's World Cup,2022-12-01,group stage,0,0,Group E,Japan,Spain,JPN,ESP,1522.41,1513.78,8.63000000000011,1.2,1.6,0.8,2.4,0.8,1.6,0,0,2,1,3,1,home_win,1,0,0,24.0,7.0,17.0,1
+2022 FIFA Men's World Cup,2022-12-02,group stage,0,0,Group G,Serbia,Switzerland,SRB,CHE,1548.62,1406.66,141.9599999999998,1.0,1.8,0.8,1.0,1.0,1.4,0,0,2,3,5,-1,away_win,0,1,0,21.0,15.0,6.0,1
+2022 FIFA Men's World Cup,2022-12-02,group stage,0,0,Group G,Cameroon,Brazil,CMR,BRA,1531.22,1553.46,-22.24000000000001,0.8,2.6,0.2,1.6,0.4,2.4,0,0,1,0,1,1,home_win,1,0,0,43.0,1.0,42.0,1
+2022 FIFA Men's World Cup,2022-12-02,group stage,0,0,Group H,Ghana,Uruguay,GHA,URY,1527.44,1540.49,-13.049999999999956,1.8,2.2,0.8,1.0,1.0,1.4,0,0,0,2,2,-2,away_win,0,1,0,61.0,14.0,47.0,1
+2022 FIFA Men's World Cup,2022-12-02,group stage,0,0,Group H,South Korea,Portugal,KOR,PRT,1553.36,1521.67,31.689999999999827,1.0,1.2,0.8,1.6,1.0,2.0,0,0,2,1,3,1,home_win,1,0,0,28.0,9.0,19.0,1
+2022 FIFA Men's World Cup,2022-12-03,round of 16,1,1,not applicable,Netherlands,United States,NLD,USA,1471.5,1476.5,-5.0,1.6,0.2,2.0,0.6,0.8,1.0,0,0,3,1,4,2,home_win,1,0,0,8.0,16.0,-8.0,1
+2022 FIFA Men's World Cup,2022-12-03,round of 16,1,1,not applicable,Argentina,Australia,ARG,AUS,1461.96,1459.19,2.769999999999982,2.0,1.4,1.8,0.8,1.4,1.4,0,0,2,1,3,1,home_win,1,0,0,3.0,38.0,-35.0,1
+2022 FIFA Men's World Cup,2022-12-04,round of 16,1,1,not applicable,France,Poland,FRA,POL,1542.7,1579.26,-36.559999999999945,2.2,1.0,2.4,0.6,1.0,1.4,0,0,3,1,4,2,home_win,1,0,0,4.0,26.0,-22.0,1
+2022 FIFA Men's World Cup,2022-12-04,round of 16,1,1,not applicable,England,Senegal,ENG,SEN,1469.68,1464.9,4.779999999999973,2.0,1.2,1.4,1.4,1.4,1.4,0,0,3,0,3,3,home_win,1,0,0,5.0,18.0,-13.0,1
+2022 FIFA Men's World Cup,2022-12-05,round of 16,1,1,not applicable,Japan,Croatia,JPN,HRV,1538.01,1388.7,149.30999999999997,1.2,1.4,1.2,1.6,1.2,1.6,1,1,1,1,2,0,away_win,0,1,0,24.0,12.0,12.0,1
+2022 FIFA Men's World Cup,2022-12-05,round of 16,1,1,not applicable,Brazil,South Korea,BRA,KOR,1536.44,1567.9,-31.46000000000004,1.2,0.6,1.8,1.4,1.2,1.4,0,0,4,1,5,3,home_win,1,0,0,1.0,28.0,-27.0,1
+2022 FIFA Men's World Cup,2022-12-06,round of 16,1,1,not applicable,Morocco,Spain,MAR,ESP,1383.43,1498.18,-114.75,1.2,0.8,1.6,2.4,1.2,1.0,1,1,0,0,0,0,home_win,1,0,0,22.0,7.0,15.0,1
+2022 FIFA Men's World Cup,2022-12-06,round of 16,1,1,not applicable,Portugal,Switzerland,PRT,CHE,1507.13,1526.42,-19.289999999999964,1.6,1.4,1.4,1.2,1.2,1.4,0,0,6,1,7,5,home_win,1,0,0,9.0,15.0,-6.0,1
+2022 FIFA Men's World Cup,2022-12-09,quarter-finals,2,1,not applicable,Croatia,Brazil,HRV,BRA,1515.53,1553.88,-38.350000000000136,1.4,1.2,1.6,1.6,0.8,1.8,1,1,1,1,2,0,home_win,1,0,0,12.0,1.0,11.0,1
+2022 FIFA Men's World Cup,2022-12-09,quarter-finals,2,1,not applicable,Netherlands,Argentina,NLD,ARG,1487.73,1477.83,9.900000000000093,2.2,0.4,2.6,2.0,1.4,1.8,1,1,2,2,4,0,away_win,0,1,0,8.0,3.0,5.0,1
+2022 FIFA Men's World Cup,2022-12-10,quarter-finals,2,1,not applicable,Morocco,Portugal,MAR,PRT,1404.53,1524.02,-119.49,1.2,0.6,2.2,2.6,1.4,1.8,0,0,1,0,1,1,home_win,1,0,0,22.0,9.0,13.0,1
+2022 FIFA Men's World Cup,2022-12-10,quarter-finals,2,1,not applicable,England,France,ENG,FRA,1485.46,1560.38,-74.92000000000007,2.4,0.8,2.0,2.6,1.2,2.4,0,0,1,2,3,-1,away_win,0,1,0,5.0,4.0,1.0,1
+2022 FIFA Men's World Cup,2022-12-13,semi-finals,3,1,not applicable,Argentina,Croatia,ARG,HRV,1471.27,1533.29,-62.01999999999998,1.8,1.0,2.4,1.2,0.6,2.2,0,0,3,0,3,3,home_win,1,0,0,3.0,12.0,-9.0,1
+2022 FIFA Men's World Cup,2022-12-14,semi-finals,3,1,not applicable,France,Morocco,FRA,MAR,1472.86,1425.83,47.02999999999997,2.2,1.0,2.4,1.0,0.2,2.6,0,0,2,0,2,2,home_win,1,0,0,4.0,22.0,-18.0,1
+2022 FIFA Men's World Cup,2022-12-17,third-place match,0,1,not applicable,Croatia,Morocco,HRV,MAR,1514.46,1411.98,102.48000000000002,1.2,1.2,2.0,1.0,0.6,2.4,0,0,2,1,3,1,home_win,1,0,0,12.0,22.0,-10.0,1
+2022 FIFA Men's World Cup,2022-12-18,final,4,1,not applicable,Argentina,France,ARG,FRA,1490.1,1486.71,3.3899999999998727,2.2,0.6,3.0,1.8,0.8,2.4,1,1,3,3,6,0,home_win,1,0,0,3.0,4.0,-1.0,1
