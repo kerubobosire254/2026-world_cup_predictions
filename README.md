@@ -3,7 +3,7 @@
 *Because watching football is more fun when you've already argued about the result before kickoff.*
 
 ---
-## Live Demo : 
+## Live Demo : https://2026-worldcuppredictions-msqvpuk2xsy4w8zsuo7taz.streamlit.app/
 ## App snippet
 
 <img width="1351" height="572" alt="image" src="https://github.com/user-attachments/assets/03c75173-c225-4cec-a565-58bbc361cd08" />
