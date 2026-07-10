@@ -38,17 +38,6 @@ There are also tabs to browse all 72 scheduled fixtures with predictions attache
 
 ## Under the Hood
 
-Two Teams ⚽ → Feature Engineering → ┬→ XGBoost (Win/Draw/Loss)
-└→ Poisson (Scoreline Grid)
-↓
-Combined Prediction
-↓
-Live Result Entered by User
-↓
-ELO + Form Recalculated From Scratch
-↓
-Next Prediction Updates
-
 Two models run in parallel for every prediction, working independently so you can compare their outputs, which is half the fun.
 
 **XGBoost** handles win/draw/loss. It learns from 15 features per match: ELO ratings, the gap between them, FIFA rankings, recent form (goals scored, goals conceded, points per game over the last 5 WC appearances), match stage, and whether it's a knockout game. Trained on 1930–2018 data, tested blind on the 2022 World Cup.
